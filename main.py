@@ -138,3 +138,69 @@ while True:
         search_results = find_content(values['__SEARCH__'])['Visualize']
         search_brutal = find_content(values['__SEARCH__'])['Results']
         window.Element('__PROCS__').update(search_results)
+    if event == '__GO__':
+        resultado = database_df[database_df['Name'] ==
+                                search_brutal[int(values['__NUMPRODUTO__']) - 1]]
+        resultado = resultado.to_dict('r')
+        calories = resultado[0]['Calories']
+        type_ = resultado[0]['Type']
+        name = resultado[0]['Name']
+        p1 = Product(calories=float(calories), name=name, tipo=type_)
+        window.Element('__NOMP1__').update(
+            f'{p1.name} - {p1.cal_up} Calorias - Dividida por: {p1.tipo}')
+        window.Element('__NOMIN__').update('1')
+    if event == '__FRESH__':
+        p1.assign(float(values['__NOMIN__']))
+        window.Element('__NOMP1__').update(
+            f'{p1.name} - {p1.cal_up} Calorias - Dividida por: {p1.tipo}')
+    if event == '__ADDP1__':
+        p1.assign(float(values['__NOMIN__']))
+        refeicao.insert(p1)
+        window.Element('__LISTA__').update(str(refeicao).split(' $! '))
+        window.Element('__CALTOTAL__').update(refeicao.total_calories())
+    if event == '__NEXT__':
+        #         lista_valores_1 = {'Peso' : float(str(values['Peso']).replace('kg', '')),
+        #                            'Altura' : float(str(values['Altura']).replace('m', '')),
+        #                            'Idade' : float(values['Idade']),
+        #                            'Genero' : 'Homem' if values['Homem'] else 'Mulher'}
+        diario = CalculateCal.day(peso=lista_valores_1['Peso'], metabolismobasal=metal,
+                                  calorias_diarias=refeicao.total_calories())
+        #     def monthly(peso, calorias_diario, altura, idade, tipo_altura, genero, vezes:int):
+        print(diario)
+        print(CalculateCal.monthly(lista_valores_1['Peso'], refeicao.total_calories(), lista_valores_1['Altura'],
+                                   lista_valores_1['Idade'], 'm', lista_valores_1['Genero'], 30))
+        print(lista_valores_1, refeicao.total_calories())
+
+
+        def facilacesso(dias):
+            mensal = CalculateCal.monthly(lista_valores_1['Peso'], refeicao.total_calories(),
+                                          lista_valores_1['Altura'],
+                                          lista_valores_1['Idade'], 'm', lista_valores_1['Genero'], dias)
+            return round(mensal, 2)
+
+
+        lista_resultados = [
+            [sg.Text('Uma análise de seu peso se voce seguir a dieta (sem fazer exercicios fisicos)',
+                     font=('', 13))],
+            [sg.Text(
+                f'O seu peso atualmente é de: {lista_valores_1["Peso"]}kg')],
+            [sg.Text(f'Seu metabolismo basal é de: {round(metal, 2)} calorias diarias')],
+            [sg.Text(f'Seu peso em um dia de dieta: {facilacesso(1)}kg')],
+            [sg.Text(f'Seu peso em uma semana de dieta: {facilacesso(7)}kg')],
+            [sg.Text(f'Seu peso em 1 mes de dieta: {facilacesso(30)}kg')],
+            [sg.Text(f'Seu peso em 1 ano de dieta: {facilacesso(360)}kg')],
+            [sg.InputText('Coloque uma data customizada em dias aqui', key='_CUSTOM_'),
+             sg.Button('OK', key='_GO_'), sg.Text('', key='_TEXT_')],
+            [sg.Button('Cancelar')]]
+
+        window.close()
+        break
+
+window = sg.Window('Resultados', lista_resultados, grab_anywhere=True)
+while True:
+    event, values = window.read()
+    if event == sg.WIN_CLOSED or event == 'Cancelar':  # if user closes window or clicks cancel
+        exit()
+    if event == '_GO_':
+        window.Element('_TEXT_').update(
+            f'Seu peso {values["_CUSTOM_"]} dias de dieta: {facilacesso(int(values["_CUSTOM_"]))}kg')
