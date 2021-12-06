@@ -1,0 +1,2863 @@
+,Name,Calories,Type
+1,Leite desnatado,45,100g
+2,Iogurte com cereal,48,100g
+3,iogurte desnatado,34.5,100g
+4,Queijo light branco,100,100g
+5,Queijo Camembert,527,100g
+6,Queijo Cheddar,374,100g
+7,Creme de queijo,305,100g
+8,Queijo de cabra,173,100g
+9,Queijo Edam,345,100g
+10,Queijo emmental,403,100g
+11,Queijo fresco,307,100g
+12,Queijo Gruyere,357,100g
+13,Mozzarella,334,100g
+14,Parmesão,393,100g
+15,Queijo Provolone,392,100g
+16,Ricota,185,100g
+17,Roquefort,364,100g
+18,Mascarpone,461,100g
+19,Albumina,53,100g
+20,Ovos de codorna,179,100g
+21,Gema,341,100g
+22,Vitela Hamburger,230,100g
+23,Filé de vitela,148,100g
+24,Vitela assada,113,100g
+25,Bovino assado,162,100g
+26,Pique (vitela),217,100g
+27,Braciola (vitela),113,100g
+28,Coração (vitela),115,100g
+29,Coração (bovino),125,100g
+30,Schnitzel (vitela),101,100g
+31,Filé ,96,100g
+32,Filé (bovino),122,100g
+33,Fígado (vitela),131,100g
+34,Fígado (bovino),122,100g
+35,Perna (vitela),98,100g
+36,Perna (bovino),149,100g
+37,Salsicha (vitela),267,100g
+38,Carpaccio,122,100g
+39,Pique (porco),151,100g
+40,Coração (porco),88,100g
+41,Schnitzel (carne de porco),107,100g
+42,Filé (porco),107,100g
+43,Fígado (porco),134,100g
+44,Perna (porco),275,100g
+45,Salsicha (carne de porco),299,100g
+46,Coelho,153,100g
+47,Presunto cozido,126,100g
+48,Presunto ,296,100g
+49,Mortadella,309,100g
+50,Bacon,558,100g
+51,Salame,325,100g
+52,Salsicha viena,269,100g
+53,Perna (frango),175,100g
+54,Peito de frango,111,100g
+55,Salsicha (frango),174,100g
+56,Pique (ovino),349,100g
+57,Coração (ovino),161,100g
+58,Cordeiro,280,100g
+59,Filé (ovino),113,100g
+60,Fígado (ovino),134,100g
+61,Perna (ovino),235,100g
+62,Cavalinha,165,100g
+63,Único,87,100g
+64,Merluza,90,100g
+65,Salmão,99,100g
+66,Anchovas,175,100g
+67,Arenque,219,100g
+68,Atum em óleo,288,100g
+69,Atum,127,100g
+70,Caviar,262,100g
+71,Sardinhas em óleo,238,100g
+72,Bacalhau,74,100g
+73,Amêijoas,76,100g
+74,Lula,78,100g
+75,Lagosta,88,100g
+76,Camarão,115,100g
+77,Mexilhões,95,100g
+78,Ostras,44,100g
+79,Polvo,56,100g
+80,Acelga,25,100g
+81,Alcachofra,33,100g
+82,Aipo,21,100g
+83,Inhame,114,100g
+84,Berinjela,25,100g
+85,Brócolis,32,100g
+86,Abóbora,26,100g
+87,Cebola,38,100g
+88,Couve de Bruxelas,45,100g
+89,Repolho,24,100g
+90,Couve-flor,27,100g
+91,Endívia,20,100g
+92,Espinafre,26,100g
+93,Espargos,26,100g
+94,Feijões,118,100g
+95,Cogumelos,28,100g
+96,Alface,13,100g
+97,Pepino,15,100g
+98,Beterraba,44,100g
+99,Soja,58,100g
+100,Tomate,22,100g
+101,Cenoura,42,100g
+102,Grão de bico,360,100g
+103,Lentilhas,340,100g
+104,Batatas fritas,540,100g
+105,Pimenta,21,100g
+106,Banana,85,100g
+107,Cereja,58,100g
+108,Ameixa,47,100g
+109,Coco,296,100g
+110,Damasco,57,100g
+111,Granada,67,100g
+112,Figos,62,100g
+113,Kiwi,53,100g
+114,Limão,29,100g
+115,Tangerina,43,100g
+116,Maçã,58,100g
+117,Melão,44,100g
+118,Laranja,42,100g
+119,Pera,56,100g
+120,Toranja,41,100g
+121,Melancia,22,100g
+122,Uvas,68,100g
+123,Morango,34,100g
+124,Amêndoa,547,100g
+125,Avelã,647,100g
+126,Castanha,640,100g
+127,Nogueira,664,100g
+128,Pistache,594,100g
+129,All bran,233,100g
+130,Arroz Branco,343,100g
+131,Arroz Integral,353,100g
+132,Aveia,383,100g
+133,Flocos de milho,367,100g
+134,Trigo,353,100g
+135,Cuscuz,357,100g
+136,Cappeletti,275,100g
+137,Talharim,369,100g
+138,Nhoque,246,100g
+139,Ravioli com carne e presunto,253,100g
+140,Semolina macarrão (cozido),138,100g
+141,Macarrão de ovo (cozido),123,100g
+142,Macarrão de trigo integral (cozido),121,100g
+143,Pão,269,100g
+144,Pão de centeio,245,100g
+145,Bolinhos,361,100g
+146,Manteiga,744,100g
+147,Margarina,730,100g
+148,Óleo de girassol,860,100g
+149,Azeite (oliva),860,100g
+150,Ketchup,150,100g
+151,Maionese,800,100g
+152,Mostarda,75,100g
+153,Molho de soja,61,100g
+154,Pesto,501,100g
+155,Açúcar,385,100g
+156,Açúcar mascavo,373,100g
+157,Jam ,272,100g
+158,Mel,294,100g
+159,Jam light,110,100g
+160,Merengue,378,100g
+161,Brioche chocolate,401,100g
+162,Folhado de creme,401,100g
+163,Cerveja,48,100g
+164,Champanhe,85,100g
+165,Licor,285,100g
+166,Conhaque,280,100g
+167,Gin,245,100g
+168,Rum,305,100g
+169,Vodka,315,100g
+170,Xerez,153,100g
+171,Vinho,53,100g
+172,Porto,130,100g
+173,Uísque,264,100g
+174,Daiquiri,122,100g
+175,Gin & Tonic,76,100g
+176,Martini,140,100g
+177,Chocolate branco,563,100g
+178,Chocolate com leite,542,100g
+179,Chocolate amargo,570,100g
+180,Chocolate com Amêndoas,583,100g
+181,Maça,52,100g
+182,Ananás,55,100g
+183,Damasco,43,100g
+184,Pêra,55,100g
+185,Banana,88,100g
+186,Arando,35,100g
+187,Laranja,45,100g
+188,Amora,43,100g
+189,Morango,32,100g
+190,Figo,107,100g
+191,Toranja,50,100g
+192,Melão,54,100g
+193,Framboesa,36,100g
+194,Gengibre,80,100g
+195,Kiwi,51,100g
+196,Cereja,50,100g
+197,Lichia,66,100g
+198,Manga,62,100g
+199,Maracujá,97,100g
+200,Ameixa,47,100g
+201,Pêssego,41,100g
+202,Melancia,30,100g
+203,Uva,70,100g
+204,Limão,35,100g
+205,Berinjela,24,100g
+206,Alcachofra,47,100g
+207,Abacate,160,100g
+208,Couve-flor,25,100g
+209,Brócolo,35,100g
+210,Feijão,25,100g
+211,Agrião,19,100g
+212,Cogumelos,22,100g
+213,Repolho,13,100g
+214,Pimenta,40,100g
+215,Ervilhas,82,100g
+216,Alface,14,100g
+217,Pepino,15,100g
+218,Couve,49,100g
+219,Cenoura,36,100g
+220,Batata,86,100g
+221,Abóbora,19,100g
+222,Alho-porro,31,100g
+223,Milho,108,100g
+224,Pimenta,21,100g
+225,Rabanetes,16,100g
+226,Beterraba,43,100g
+227,Repolho,29,100g
+228,Rúcula,25,100g
+229,Espargos,18,100g
+230,Espinafre,23,100g
+231,Batata-doce,76,100g
+232,Courgette,20,100g
+233,Cebola,40,100g
+234,Salsicha,375,100g
+235,Pato,375,100g
+236,Veado,375,100g
+237,Peito de  frango,75,100g
+238,Vitela,94,100g
+239,Cordeiro,178,100g
+240,Peito de peru,111,100g
+241,Salame,507,100g
+242,Presunto,335,100g
+243,Bacon,645,100g
+244,Filé de carne,115,100g
+245,Carne cozida,212,100g
+246,Lombinho de porco,171,100g
+247,Gordura de carne de porco,311,100g
+248,Carne de porco magra,143,100g
+249,Espeto de carne de porco,105,100g
+250,Truta,50,100g
+251,Arenque,146,100g
+252,Salmão,137,100g
+253,Filé,111,100g
+254,Atum,144,100g
+255,Leitelho,38,100g
+256,Crème fraîche,292,100g
+257,Queijo Cheddar,403,100g
+258,Queijo Edam,251,100g
+259,Ovo,155,100g
+260,Requeijão,104,100g
+261,Leite de coco,136,100g
+262,Leite,47,100g
+263,Queijo Quark,67,100g
+264,Iogurte natural,62,100g
+265,Creme de leite,115,100g
+266,Macarrão cozido,142,100g
+267,Massa cozida,128,100g
+268,Farfalle cozido,147,100g
+269,Esparguete integral cozido,152,100g
+270,Baguete,248,100g
+271,Pretzel,217,100g
+272,Açafrão,393,100g
+273,Pão Naan,290,100g
+274,Pão Pita,290,100g
+275,Pão integral,244,100g
+276,Tortilha integral,170,100g
+277,Rolo de canela,384,100g
+278,Cerveja,223,100g
+279,Gin tónico,377,100g
+280,Vodka,215,100g
+281,Vinho,293,100g
+282,Batatas fritas,539,100g
+283,Biscoitos com chocolate,512,100g
+284,Pizza Margarita,199,100g
+285,Pizza com salame,245,100g
+286,Hamburguer,291,100g
+287,Nutella,547,100g
+288,Abacaxi,48,100g
+289,Amora,43,100g
+290,Abacate,160,100g
+291,Banana-prata,89,100g
+292,Banana-nanica,92,100g
+293,Banana-maçã,89,100g
+294,Cereja congelada,46,100g
+295,Caqui,70,100g
+296,Carambola,31,100g
+297,Caju,43,100g
+298,Ameixa,46,100g
+299,Acerola,32,100g
+300,Figo,74,100g
+301,Framboesa,52,100g
+302,Goiaba,68,100g
+303,Maçã,52,100g
+304,Fruta-pão,103,100g
+305,Jaca,94,100g
+306,Jabuticaba,58,100g
+307,Kiwi,61,100g
+308,Laranja-pera,37,100g
+309,Laranja-lima,46,100g
+310,Lima,30,100g
+311,Limão,29,100g
+312,Lichia,66,100g
+313,Melancia,30,100g
+314,Manga,65,100g
+315,Mamão papaia,46,100g
+316,Mamão formoso,45,100g
+317,Maracujá,97,100g
+318,Mexerica,52,100g
+319,Morango,32,100g
+320,Mirtilo,57,100g
+321,Coco,354,100g
+322,Nectarina,44,100g
+323,Nêspera,47,100g
+324,Pera,58,100g
+325,Pêssego,39,100g
+326,Pitaya,51,100g
+327,Pitanga,41,100g
+328,Pinha,94,100g
+329,Pitomba,34,100g
+330,Ponkan,39,100g
+331,Romã,68,100g
+332,Sapoti,83,100g
+333,Tomate,18,100g
+334,Tamarindo,239,100g
+335,Toranja,32,100g
+336,Uva Itália,68,100g
+337,Uva-passa,299,100g
+338,Goji Berry,321,100g
+339,Tâmara,282,100g
+340,Umbu,37,100g
+341,Damasco,48,100g
+342,Avelã,628,100g
+343,Amêndoa,578,100g
+344,Figo seco,249,100g
+345,Macadâmia,718,100g
+346,Pequi,203,100g
+347,Melão Cantalupo (Meloa),34,100g
+348,Iogurte de Morango Zero (Activia),69,1 copo (200g)
+349,Iogurte Ameixa (Activia),140,1 copo (200g)
+350,Iogurte de Morango (Activia),104,1 frasco (150g)
+351,Iogurte Aveia (Activia),93,100g
+352,Iogurte Ameixa Zero (Activia),41,100g
+353,Iogurte Morango (Activia),92,100g
+354,Shot Diário Probióticos (Tradicional) (Activia),62,100g
+355,Iorgute Ameixa (Activia),64,100g
+356,Morango (Activia),73,100g
+357,Shot Diário Probióticos (Framboesa e Hibisco) (Activia),62,100g
+358,Zero Morango (Activia),45,100g
+359,Iogurte Morango Zero Lactose (Activia),55,100g
+360,Activia Zero Morango (Activia),40,100g
+361,Iogurte de Aveia (Activia),137,1 copo (200g)
+362,Mamão e Cereais (Activia),104,1 porção (100g)
+363,Ameixa (Activia),93,100g
+364,Iogurte de Morango (Activia),138,1 copo (200g)
+365,Iogurte Zero Lactose Ameixa (Activia),88,1 copo (200g)
+366,Iogurte Morango (Activia),138,1 copo (200g)
+367,Iogurte Integral (Activia),94,100g
+368,Geléia Orgânica de Banana (Agreco),19,1 colher de sopa (20g)
+369,Molho de Tomate Orgânico (Agreco),12,1 colher de sopa (20g)
+370,Mel Orgânico (Agreco),90,1 colher de sopa (20ml)
+371,Geléia de Uva Orgânica (Agreco),35,1 colher de sopa (20g)
+372,Geleia Orgânica de Goiaba (Agreco),32,1 colher de sopa (20g)
+373,Molho de Tomate Funghi Orgânico (Agreco),12,1 colher de sopa (20g)
+374,Mel de Eucalipto (Agreco),90,1 colher de sopa (20ml)
+375,Geléia de Morango Orgânica (Agreco),43,1 colher de sopa (20g)
+376,Banana Passa (Agreco),52,1 banana (15g)
+377,Geleia de Morango sem Açúcar (Agreco),11,1 colher de sopa (20g)
+378,Tapioca (Bahiamido),45,1 colher de sopa  (20g)
+379,Goma Hidratada (Bahiamido),180,1 porção (80g)
+380,Doce de Leite (Avaré),151,4 unidades (40g)
+381,Pingo de Leite (Avaré),151,3 unidades (40g)
+382,Balas de Limão com Colageno (Beauty Candy),41,10 balas (20g)
+383,Biscoito de Polvilho Salgado (Chiang),145,12 unidades (30g)
+384,Ovitos (Chiang),153,1/2 xícara (30g)
+385,Amendoim Crocante Original (Chiang),126,1 porção (20g)
+386,Chocolate Amargo 70% (Chocolate da Ilha),124,1 barrinha (25g)
+387,Chocolate Amargo 85% (Chocolate da Ilha),100,1 barrinha (25g)
+388,Chocolate Diet (Chocolate da Ilha),101,1 porçao (25g)
+389,Whey-HD (BPI Sports),126,1 scoop (39g)
+390,Whey HD (BPI Sports),151,1 porção (37g)
+391,Massa Pronta para Tapioca (Don Lampione),44,1 colher de sopa cheia (20g)
+392,Esfiha de Queijo (Dozza),63,1 unidade (50g)
+393,Esfiha de Carne (Dozza),69,1 unidade (50g)
+394,Esfiha de Espinafre (Dozza),47,1 unidade (50g)
+395,Esfiha De Queijo Com Basterma (Dozza),68,1 serving (50g)
+396,Kibe (Dozza),88,1 porção (35g)
+397,Petit Fruit (Do Pomar),69,100g
+398,Leite Desnatado (Cooper Rita),67,1 copo (200ml)
+399,Leite Integral (Cooper Rita),114,1 copo (200ml)
+400,Requeijão Light (Cooper Rita),60,1 porção (30g)
+401,Ricota Fresca (Cooper Rita),52,1 porção (30g)
+402,Leite Semidesnatado (Cooper Rita),80,1 copo (200ml)
+403,Manteiga com Sal (Cooper Rita),99,1 colher sobremesa (14g)
+404,Requeijão Cremoso (Cooper Rita),80,1 colher de sopa (30g)
+405,Queijo Minas Padrão (Cooper Rita),90,1 fatia (30g)
+406,Queijo Minas Frescal (Cooper Rita),67,1 porção (30g)
+407,Iogurte de Morango (Cooper Rita),158,1 copo (200g)
+408,Doce de Leite (Cooper Rita),62,1 porção
+409,Catchup Picante (Etti),15,1 colher de sopa (12g)
+410,Mostarda (Etti),12,1 colher de sopa  (12g)
+411,Extrato de Tomate (Etti),19,2 colheres de sopa (30g)
+412,Whey Protein (Evolution Nutrition),116,1 dosador (30g)
+413,Whey Protein Isolada Hidrolisada (Evolution Nutrition),228,2 dosadores (62g)
+414,Whey Protein Chocodynho (Evolution Nutrition),116,1 dosador (30g)
+415,Vegan Protein (Evolution Nutrition),109,1 scoop (30g)
+416,Termo Coffee (Evolution Nutrition),39,1 scoop (10g)
+417,Creatina (Evolution Nutrition),0,1 colher de chá (3g)
+418,Whey Dark Intense (Evolution Nutrition),116,1 porção (30g)
+419,Collagen More (Evolution Nutrition),36,1 scoop (11g)
+420,Naked Protein (Evolution Nutrition),116,1 porção (30g)
+421,Suco de Uva Integral (Hugo Pietro),112,1 copo (200ml)
+422,Suco de Uva Tinto Integral - o Tradicional (Hugo Pietro),105,1 copo (200ml)
+423,Filé de Peito de Frango (Friato),88,100g
+424,Moela de Frango (Friato),65,100g
+425,Mortadela (Friato),90,4 fatias  (40g)
+426,Linguiça de Frango (Friato),132,1 gomo (50g)
+427,Linguiça de Frango Apimentada (Friato),92,1 gomo (50g)
+428,Frango a Passarinho (Friato),168,100g
+429,Salsicha (Friato),131,1 porção (50g)
+430,Linguiça de Frango Defumada (Friato),168,5 rodelas (50g)
+431,Sobrecoxa (Friato),162,100g
+432,Sorvete Creme com Passas (Frosty),94,1 bola (60g)
+433,Sorvete Leitinho Trufado (Frosty),129,1 porção (60g)
+434,Sorvete Leitinho com Açaí (Frosty),97,1 bola (60g)
+435,Sorvete de Tapioca (Frosty),143,1 bola  (60g)
+436,Abobrinha Grelhada (Gym Chef),27,100g
+437,Purê de Batata (Gym Chef),76,100g
+438,Bolo de Prestigio (Gym Chef),220,100g
+439,Strogonoff Carne (Gym Chef),173,100g
+440,Couve Flor (Gym Chef),27,100g
+441,Hambúrguer de Lentilha (Gym Chef),127,100g
+442,Bolo de Laranja Fit (Gym Chef),198,100g
+443,Espinafre Refogado (Gym Chef),23,1 porção (120g)
+444,Escarola Refogada (Gym Chef),27,1 porção (120g)
+445,Esfirra Integral de Carne (Gym Chef),83,100g
+446,Bolo Integral de Banana com Castanha (Gym Chef),200,100g
+447,Abóbora (Gym Chef),48,100g
+448,Nhoque de Abóbora com Pimenta (Gym Chef),404,1 porção (200g)
+449,Esfirra de Escarola (Gym Chef),183,100g
+450,Frango Ao Curry (Gym Chef),181,100g
+451,Brócolis (Gym Chef),38,100g
+452,Sopa Fit Detox Low Carb (Gym Chef),104,1 porção (400g)
+453,Hambúrguer de Frango (Gym Chef),148,1 porção (110g)
+454,Empada Integral de Frango (Gym Chef),235,100g
+455,Molho Pomodoro (Gym Chef),47,100g
+456,Pipoca Caramelizada (Frank),140,1 porção (25g)
+457,Pipoca Doce (Frank),95,1 porção (25g)
+458,Biscoito de Polvilho (Frank),127,1 porção (30g)
+459,Bisnaguinha (Frank),58,1 porção (20g)
+460,Macarrão Integral com Espinafre (Excelsa),232,1 prato (80g)
+461,Macarrão Integral com Batata Doce (Excelsa),282,1 prato (80g)
+462,Macarrão Integral com Beterraba (Excelsa),234,1 porção (80g)
+463,Macarrão de Trigo Integral (Excelsa),268,1 prato (80g)
+464,Farelo de Trigo (Excelsa),34,1 colher de sopa (10g)
+465,Cerveja Heineken (355ml) (Heineken),149,1 garrafa (355ml)
+466,Cerveja Long Neck (330ml) (Heineken),139,1 garrafa (330ml)
+467,Cerveja (Heineken),74,1 copo (350ml)
+468,Cerveja Heineken Lata (Heineken),147,1 lata (350ml)
+469,Cerveja Zero Álcool (Heineken),69,1 porção (330ml)
+470,Cerveja Heineken (250ml) (Heineken),105,1 garrafa (250ml)
+471,Heineken 0.0 (350ml) (Heineken),74,1 lata (350ml)
+472,Cerveja (Heineken),42,100ml
+473,Kaiser Radler (Heineken),42,100ml
+474,Granola Mistura de Cereais (Granomel),150,1/2 xícara  (40g)
+475,Semente de Chia (Granomel),41,1 colher de sopa (11g)
+476,Farinha de Linhaça Dourada (Granomel),80,1 colher de sopa (15g)
+477,Aveia Flocos Finos (Granomel),150,2 colher de sopa (30g)
+478,Farelo de Aveia (Granomel),150,2 colheres de sopa (30g)
+479,Mistura de Cereais sem Açúcar (Granomel),130,1 porção (40g)
+480,Amêndoas Cobertas com Chocolate (Jubileu),167,4 pedaços (25g)
+481,Chocolate 70% Extra Noir (Jubileu),138,1/4 unidade (25g)
+482,Chocolate Meio Amargo com Amêndoas (Jubileu),140,1/4 unidade (25g)
+483,Chocolate 85% Cacau (Jubileu),141,1/4 unidade (25g)
+484,"Suco Misto de Laranja, Cenoura e Beterraba (Green People)",76,1 copo (200ml)
+485,Suco Verde (Green People),104,1 copo (200ml)
+486,Suco de Melancia (Green People),74,1 copo (200ml)
+487,Chips de Couve (Green People),37,1 pacote (35g)
+488,Hibisco Chá (Green People),7,1 porção (200ml)
+489,Kale Chips (Green People),37,1 pacote (35g)
+490,Suco Misto de Laranja e Mamão (Green People),79,1 copo (200ml)
+491,Suco de Laranja (Green People),34,100ml
+492,Chips de Couve-Flor (Green People),24,1 pacote (35g)
+493,Suco Misto de Abacaxi e Hortelã (Green People),105,1 copo (200ml)
+494,Suco de Maçã (Green People),196,1 porção (200ml)
+495,Chips de Abobrinha (Green People),26,1 embalagem (35g)
+496,Meu Matcha (Green People),115,1 copo (200ml)
+497,Granola (Green People),288,1 xícara de chá (50g)
+498,Água de Coco (Green People),44,1 copo (200ml)
+499,Santo Suco (Green People),89,1 copo (200ml)
+500,Chips de Tomate (Green People),22,1 pacote (35g)
+501,Snack de Mandioca e Gergelim (Green People),78,1 porção (30g)
+502,Suco D-Tox (Green People),96,1 copo (200ml)
+503,Cracker de Cogumelo (Green People),95,1 porção (45g)
+504,Beijinho (Haribol),67,1 porção (20g)
+505,Cajuzinho Diet (Haribol),65,1 unidade (20g)
+506,Cappuccino Diet (Haribol),105,2 colheres de sopa (25g)
+507,Doce de Leite Diet (Haribol),44,1 colher de sopa (20g)
+508,Paçoca de Castanha de Caju Diet (Haribol),113,1 unidade (20g)
+509,Brigadeiro Diet (Haribol),60,1 unidade (20g)
+510,Kani Kama (Inak),20,1 unidade (16g)
+511,Cocada de Forno (Juriti),173,1 unidade (45g)
+512,Goma (Juriti),66,1 colher de sopa (20g)
+513,Arroz Integral (Juriti),167,1 porção (50g)
+514,Fécula de Mandioca (Juriti),66,1 colher de sopa (20g)
+515,Pão de Queijo (Jeito de Minas),150,2 1/2 unidades (50g)
+516,Tartelette Banoffe (Isabela Akkari),183,1 porção (65g)
+517,Alfajor de Doce de Leite (Isabela Akkari),115,1 porção (60g)
+518,Mini Pão de Mel (Isabela Akkari),42,1 porção (14g)
+519,Petit Bolo de Chocolate com Doce de Leite (Isabela Akkari),140,1 unidade (40g)
+520,Brownie Tradicional (Isabela Akkari),170,1 unidade (40g)
+521,Alfajor Branco com Doce de Leite (Isabela Akkari),130,1 unidade (60g)
+522,Brownie Zero Açúcar (Isabela Akkari),103,1 unidade (40g)
+523,Alfajor Branco com Brigadeiro de Pistaches (Isabela Akkari),115,1 unidade (60g)
+524,Petit Cenoura com Brigadeiro (Isabela Akkari),135,1 unidade (40g)
+525,Alfajor de Cookies & Cream (Isabela Akkari),170,1 unidade (60g)
+526,Ovo Brigadeiro de Colher (Isabela Akkari),81,1 porção (25g)
+527,Bolo da Nana com Ganache (Isabela Akkari),234,1 porção (70g)
+528,Suco de Uva (Izzy),128,1 copo (200ml)
+529,Água de Coco (Izzy),49,1 copo (200ml)
+530,Néctar de Laranja (Izzy),92,1 copo (200ml)
+531,Néctar de Maracujá (Izzy),96,1 copo (200ml)
+532,Néctar de Caju (Izzy),96,1 copo (200ml)
+533,Suco de Pêssego (Izzy),104,1 copo (200ml)
+534,Néctar de Uva (Izzy),112,1 copo (200ml)
+535,Suco de Uva Light (Izzy),36,1 copo (200ml)
+536,Néctar de Pêssego (Izzy),104,1 copo (200ml)
+537,"Panqueca de Aveia, Banana e Canela (Liv Up)",200,1 unidade (80g)
+538,Batata Rústica com Alecrim (Liv Up),104,100g
+539,Brócolis no Vapor (Liv Up),44,1 porção (110g)
+540,Crepioca com Queijo (Liv Up),192,1 porção (80g)
+541,Couve Refogada (Liv Up),25,1 pacote (60g)
+542,Crepioca com Queijo Branco (Liv Up),203,1 colher (80g)
+543,Mix de Legumes Assados (Liv Up),58,1 porção (110g)
+544,Iscas de Filé Mignon Acebolado (Liv Up),187,1 porção (110g)
+545,Batata Assada com Alho e Salsinha (Liv Up),126,1 porção (100g)
+546,Omelete com Queijo Branco (Liv Up),169,1 porção (80g)
+547,Estrogonofe de Frango (Liv Up),293,1 pacote (140g)
+548,Arroz Negro (Liv Up),149,100g
+549,Mix de Legumes no Vapor (Liv Up),42,100g
+550,Risoto de Limão Siciliano (Liv Up),268,1 porção (150g)
+551,Mandioquinha com Salsa (Liv Up),125,100g
+552,Frango Grelhado (Liv Up),199,1 porção (110g)
+553,Farofa com Couve (Liv Up),117,1 porção (30g)
+554,Posta de Salmão Assado (Liv Up),250,1 unidade (110g)
+555,Espinafre Refogado (Liv Up),28,1 pacote (80g)
+556,Carne Moída com Cenoura e Vagem (Liv Up),142,1 pacote (110g)
+557,Mandolate (Konrad),62,1 unidade (15g)
+558,Queijo Coalho (Lebom),87,1 fatia (30g)
+559,Gelatina Pronta (Lebom),6,100g
+560,Leite Uht Desnatado (200ml) (Lebom),64,1 copo (200ml)
+561,Iogurte Desnatado com Polpa de Ameixa (Lebom),160,1 copo (200g)
+562,Manteiga (Lebom),71,1 colher de sopa (10g)
+563,Iogurte Desnatado com Mel (Lebom),140,1 copo (170g)
+564,Coalhada Desnatada com Adoçante (Lebom),45,1 pote (140g)
+565,Iogurte Desnatado com Polpa de Fruta Sabor Morango e Cereal (Lebom),156,1 copo (200g)
+566,Iogurte Natural Desnatado (Lebom),84,1 copo (200g)
+567,Leite Integral (Lebom),114,1 copo (200ml)
+568,Iogurte Natural Integral (Lebom),121,1 copo (180g)
+569,Coalhada Integral Adoçada (Lebom),138,1 copinho (140g)
+570,Leite UHT Desnatado (Lebom),32,100ml
+571,Sorvete de Pistache (Kascão),123,1 bola (60g)
+572,Sorvete Levinho de Maracujá (Kascão),98,1 bola  (60g)
+573,Hambúrguer de Carne Bovina (Mister Beef),111,1 unidade (56g)
+574,Hambúrguer de Picanha (Mister Beef),305,1 porção (120g)
+575,Canela Em Pó (Kitano),5,1 porção (2g)
+576,Sopão de Galinha com Macarrão (Kitano),115,1 concha (300ml)
+577,Molho de Alho (Kitano),21,1 colher de sopa (11g)
+578,Orégano (Kitano),0,1 colher de chá 
+579,Curry (Kitano),14,1 colher de chá (5g)
+580,Canela em Casca (Kitano),5,1 porção (2g)
+581,Molho de Pimenta (Kitano),2,1 colher de sopa (11g)
+582,Molho Shoyu (Kitano),9,1 colher de sopa (12g)
+583,Tempero Baiano (Kitano),6,1 colher de chá (5g)
+584,Molho Inglês (Kitano),4,1 colher de sopa (11g)
+585,Sopão de Carne (Kitano),77,3 1/2 colheres de sopa (24g)
+586,Sopão Galinha (Kitano),81,3 1/2 colher de sopa (24g)
+587,Alho Granulado (Kitano),5,1 porção (2g)
+588,"Tempero para Aves, Peixes, Legumes e Saladas (Kitano)",8,1 colher de chá (5g)
+589,Creme de Cebola (Kitano),51,2 1/2 colheres de sopa (16g)
+590,Sopa de Cebola (Kitano),36,2 colheres de sopa (12g)
+591,Colorifico (Kitano),19,1 colher de chá (5g)
+592,Canja (Kitano),59,2 1/2 colheres de sopa (18g)
+593,Pasta de Amendoim Cookies (La Ganexa),51,1 porção (10g)
+594,Pasta de Amendoim Mousse de Brigadeiro (La Ganexa),51,1 porção  (10g)
+595,Pasta de Amendoim Doce de Leite com Castanha de Caju (La Ganexa),43,1 porção (10g)
+596,Pasta de Amendoim Chocolate Branco Crocante (La Ganexa),73,1 colher de sopa (15g)
+597,Pasta de Amendoim com Avelã (La Ganexa),56,1 porção (10g)
+598,Pasta de Amendoim Integral Gourmet (La Ganexa),78,1 porção (15g)
+599,Pasta de Amendoim Integral Gourmet com Nozes (La Ganexa),63,1 porção (10g)
+600,Pasta de Amendoim Trufado de Coco (La Ganexa),55,1 porção (10g)
+601,Pasta de Amendoim com Café (La Ganexa),63,1 porção (10g)
+602,Azeite Tradicional (Maria),108,1 colher de sopa (13ml)
+603,Óleo Composto de Soja e Oliva (Maria),108,1 colher de sopa (13ml)
+604,Maionese (Maria),19,1 colher de sopa (12g)
+605,Pate de Alho Poró (Maria),50,1 porção  (30g)
+606,Azeite de Oliva Extra Virgem (Maria),108,1 colher de sopa (13ml)
+607,Whey Protein Concentrado Baunilha (NewNutrition),119,2 medidores (30g)
+608,Whey Protein Concentrado Chocolate (NewNutrition),118,2 medidas (30g)
+609,Whey Protein All Natural (NewNutrition),121,2 medidores (30g)
+610,Whey Protein Zero Lactose Sabor Baunilha (NewNutrition),119,2 medidores (30g)
+611,Whey Concentrado Cookies (NewNutrition),123,2 medidores (33g)
+612,Whey Protein Zero Lactose Sabor Morango (NewNutrition),120,2 medidores (30g)
+613,Whey Protein Isolado Baunilha (NewNutrition),110,1 porção (30g)
+614,Whey Protein Amendoim (NewNutrition),154,2 medidores (36g)
+615,Whey Protein Sabor Chocolate (NewNutrition),125,2 medidores (30g)
+616,Whey Complex (NewNutrition),150,2 medidores (40g)
+617,Soy Protein (NewNutrition),118,2 medidores (30g)
+618,Whey Protein All Natural Chocolate (NewNutrition),106,2 medidores (30g)
+619,Whey Protein Concentrado Baunilha (NewNutrition),155,3 colheres de sopa (40g)
+620,Whey Protein All Natural Capuccino (NewNutrition),122,1 porção (30g)
+621,Pea Protein (NewNutrition),127,1 1/2 medidor (30g)
+622,Barra Proteica (NewNutrition),142,1 barra (30g)
+623,Beef Protein (NewNutrition),104,1 1/2 medidor (30g)
+624,Whey Protein Zero Lactose Chocolate (NewNutrition),115,1 porção (30g)
+625,Pasta de Amendoim com Cacau e Açúcar Mascavo (NewNutrition),86,1 colher de sopa  (15g)
+626,Pasta de Amendoim Integral (NewNutrition),93,1 colher de sopa  (15g)
+627,Pipoca Doce (50g) (NHAC),187,1 porção (50g)
+628,Pipoca Salgada (NHAC),384,100g
+629,Pipoca Doce (NHAC),401,100g
+630,Tapioca (M&K),68,2 colheres de sopa (30g)
+631,Requeijão Light (M&K),60,1 colher de sopa (30g)
+632,Barra de Cereais com Castanhas (M&K),87,1 unidade (25g)
+633,Barra de Cereais tipo Brigadeiro (M&K),95,1 barra (25g)
+634,Bananada Natural (Naturafruti),61,1 porção (25g)
+635,Bananada com Uvas Passas (Naturafruti),73,1 porção (25g)
+636,Banana com Ameixa (Naturafruti),70,1 porção (25g)
+637,Banana com Coco (Naturafruti),79,1 porção (25g)
+638,Queijo Parmesão Ralado (Parmíssimo),45,1 colher de sopa (10g)
+639,Queijo tipo Provolone Fresco Defumado (Parmíssimo),70,1 fatia  (20g)
+640,Queijo Parmesão Ralado Light (Parmíssimo),29,1 colher de sopa (10g)
+641,Pão Árabe Folha (O Rei do Pão Árabe),85,1 unidade (50g)
+642,Pão Folha (O Rei do Pão Árabe),85,1 unidade (50g)
+643,Salgadinho Torrado de Arroz (Okaki),68,1/2 xícara (30g)
+644,Ketchup (Oderich),15,1 colher de sopa (12g)
+645,Milho Verde (Oderich),77,1 xícara de chá (130g)
+646,Maionese (Oderich),27,1 colher de sopa (12g)
+647,Almôndegas Bovina Ao Molho (Oderich),81,3 unidades (80g)
+648,Mostarda (Oderich),0,1 colher de sopa (12g)
+649,Ervilha e Milho (Oderich),85,1 xícara de chá (130g)
+650,Feijoada (Oderich),135,1 xícara de chá (130g)
+651,Maionese Light (Oderich),27,1 colher de sopa (12g)
+652,Ervilha (Oderich),98,1 porção (130g)
+653,Pêssego em Calda (Oderich),101,3 metades (140g)
+654,Molho Barbecue (Oderich),11,1 colher de sopa (12g)
+655,Salsicha Peritif (Oderich),70,4 unidades (50g)
+656,Seleta de Legumes (Oderich),77,1 xícara de chá (130g)
+657,Grão de Bico (Oderich),128,1 xícara (130g)
+658,Pepinos em Vinagre (Oderich),0,1 unidade (15g)
+659,Patê de Presunto (Oderich),18,colher de chá (10g)
+660,Molho de Tomate (Oderich),32,3 colheres de sopa (60g)
+661,Pêssego em Calda Zero Açúcar (Oderich),49,4 metades e 2 colheres de sopa de calda (140g)
+662,Feijão Branco (Oderich),43,100g
+663,Patê de Peru (Oderich),18,1 colher de sopa (10g)
+664,Cream Cheese Original (Philadelphia),84,1 colher de sopa (30g)
+665,Cream Cheese Light (Philadelphia),63,1 colher de sopa (30g)
+666,Cream Cheese (Philadelphia),84,1 colher de sopa (30g)
+667,Cream Cheese (Philadelphia),225,100g
+668,Cream Cheese Zero Lactose (Philadelphia),207,porção (100g)
+669,Mini Philadelphia (Philadelphia),80,2 unidades (30g)
+670,Queijo Cremoso Zero Lactose (Philadelphia),207,100g
+671,Cacau em Pó 100% (Qualicau),69,2 colheres de sopa (20g)
+672,Chocolate em Pó 50% Cacau (Qualicau),67,2 colheres de sopa (20g)
+673,Pepsi (Pepsi),60,1 copo (200ml)
+674,Refrigerante (Pepsi),71,1 porção (237ml)
+675,Pepsi Zero (Pepsi),0,1 lata (350ml)
+676,Pepsi Twist (Pepsi),5,1 lata (350ml)
+677,H2OH Limoneto (Pepsi),0,100ml
+678,Pepsi Twist Zero (Pepsi),0,100ml
+679,H2OH (Pepsi),0,1 copo (200ml)
+680,Pepsi Light (Pepsi),0,1 copo (200ml)
+681,Mountain Dew (Pepsi),98,1 copo (200ml)
+682,H2OH (Pepsi),0,100ml
+683,H2OH Laranja (Pepsi),0,1 copo (200ml)
+684,Wild Cherry (Pepsi),160,1 lata (355ml)
+685,Manteiga de Côco (QualiCôco),85,1 colher de sopa (10g)
+686,Óleo de Côco Extra Virgem (QualiCôco),103,1 colher de sopa (13 ml) (13ml)
+687,Manteiga de Côco com Sal (QualiCôco),85,1 colher de sopa (10g)
+688,Farinha de Côco (QualiCôco),45,2 colheres de chá (12g)
+689,Cacau Alcalino em Pó 100% (QualiCôco),69,2 colheres de sopa (20g)
+690,Açúcar de Coco (QualiCôco),19,1 colher de chá (5g)
+691,Leite de Côco em Pó (QualiCôco),128,2 colheres de sopa  (25g)
+692,Néctar de Coco (QualiCôco),58,1 colher de sopa (20g)
+693,Shoyu de Coco (QualiCôco),5,1 colher de chá (5ml)
+694,Leite de Coco (QualiCôco),9,1 colher de sopa (15ml)
+695,Azeite de Abacate Extra Virgem (QualiCôco),117,1 colher de sopa (13ml)
+696,Manteiga de Côco Sabor Côco sem Sal (QualiCôco),88,1 colher de sopa (10g)
+697,Coco Ralado sem Açúcar (QualiCôco),71,1 porção (12g)
+698,Gordura de Côco (QualiCôco),90,1 colher de sopa (10g)
+699,Chips de Coco (QualiCôco),82,2 colheres de chá (12g)
+700,Chips de Coco Queimado (QualiCôco),68,2 colheres de chá (12g)
+701,Leite de Coco em Pó (QualiCôco),121,2 colheres de sopa (25g)
+702,Coco Ralado (QualiCôco),63,2 colheres de chá (12g)
+703,Brain Octane Oil (QualiCôco),112,1 colher de sopa (13ml)
+704,Filezinho Sassami (Rivelli),113,100g
+705,Linguiça de Frango (Rivelli),93,100g
+706,Coxinha da Asa (Rivelli),161,100g
+707,Filé de Peito de Frango (Rivelli),119,100g
+708,Coxa e Sobrecoxa sem Osso (Rivelli),293,100g
+709,Linguiça de Frango Fina (Rivelli),122,1/2 unidade  (50g)
+710,Moela (Rivelli),113,100g
+711,Pão de Forma (Q-Pão),125,2 fatias (50g)
+712,Bisnaguinha (Q-Pão),58,1 unidade (20g)
+713,Pão de Milho (Q-Pão),152,2 fatias (50g)
+714,Pão de Forma Integral (Q-Pão),101,2 fatias (50g)
+715,Pão Integral (Q-Pão),101,2 fatias (50g)
+716,Pão 9 Grãos Light (Q-Pão),81,2 fatias (50g)
+717,Pão de Forma Light 12 Grãos (Q-Pão),144,2 fatias (50g)
+718,Pão Integral Light (Q-Pão),95,2 fatias (50g)
+719,Energético (Red Nose),68,1 copo (200ml)
+720,Energético (Red Nose),4,100ml
+721,BCAA Puro Ultra Concentrado (Red Nose),24,1 porção  (6g)
+722,Skittles (Skittles),250,1 pacote (62g)
+723,Wild Berry (Skittles),250,1 pacote (62g)
+724,Ricota Fresca (Santa Clara),54,1 fatia (30g)
+725,Nata (Santa Clara),68,1 1/2 colher de sopa (15g)
+726,Requeijão Cremoso Light (Santa Clara),42,1 colher de sopa (30g)
+727,Requeijão Cremoso (Santa Clara),84,1 colher de sopa (30g)
+728,Leite UHT Integral (Santa Clara),110,1 copo (200ml)
+729,Queijo Mussarela Fatiado (Santa Clara),103,1 1/2 fatias (30g)
+730,Leite Desnatado (Santa Clara),31,100ml
+731,Café com Leite (Santa Clara),82,2 colheres de sopa (20g)
+732,Queijo Mussarela (Santa Clara),112,1 porção (30g)
+733,Salaminho (Santa Clara),124,8 fatias (40g)
+734,Ricota Fresca Light (Santa Clara),36,1 fatia (30g)
+735,Queijo Minas Frescal (Santa Clara),127,2 colheres de sopa (50g)
+736,Leite Desnatado (Santa Clara),62,1 copo (200ml)
+737,Capuccino (Santa Clara),43,3 colheres de café (10g)
+738,Copa Defumada (Santa Clara),128,4 fatias (40g)
+739,Leite Semidesnatado (Santa Clara),38,100ml
+740,Creme de Ricota (Santa Clara),49,1 colher de sopa (30g)
+741,Leite Integral (Santa Clara),110,1 copo (200ml)
+742,Leite Zero Lactose (Santa Clara),36,100ml
+743,Queijo Minas Frescal Light (Santa Clara),105,2 colheres de sopa (50g)
+744,Mini Pizza (Romanha),73,1 unidade (25g)
+745,Capeleti de Frango (Romanha),243,100g
+746,Pão de Alho com Queijo (Romanha),303,1 porção (75g)
+747,Suspiro (Romanha),132,6 unidades (30g)
+748,Massa para Pastel (Romanha),145,3 unidades (50g)
+749,Nhoque de Batata (Romanha),150,100g
+750,Canudos (Romanha),126,8 unidades  (40g)
+751,Pierogi (Romanha),227,1 pierogi (50g)
+752,Batata Palha (Romanha),150,1 1/2 xícaras (25g)
+753,Talharim Espinafre (Romanha),283,1 prato (80g)
+754,Massa Folhada (Romanha),94,1 porção (30g)
+755,Massa para Pizza (Romanha),57,1 fatia (20g)
+756,Salgadinho de Trigo Pimenta Mexicana (Romanha),135,1 porção (25g)
+757,Rom Rap (Romanha),130,1 unidade (33g)
+758,Massa para Tapioca (Romanha),46,1 colher de sopa cheia (20g)
+759,Talharim 100% Integral (Romanha),344,100g
+760,Pizza de Frango com Requeijão (Romanha),142,1 fatia  (50g)
+761,Tapioca (Siamar),48,1 colher de sopa (20g)
+762,Farofa Caseira Crocante (Siamar),157,2 1/2 colheres de sopa (35g)
+763,Mix de Castanhas (Siamar),81,1 colher de sopa (15g)
+764,Goji Berry Desidratada (Siamar),37,1 colher de sopa (20g)
+765,Tapioca (Siamar),48,100g
+766,Aveia em Flocos (Siamar),118,2 colheres de sopa (30g)
+767,Chia (Siamar),97,2 colheres de sopa  (20g)
+768,Proteína Texturizada de Soja (Siamar),176,1 porção (50g)
+769,Farelo de Aveia (Siamar),108,2 colheres de sopa (30g)
+770,Semente de Linhaça (Siamar),75,1 colher de sopa (15g)
+771,Granola Tradicional (Siamar),153,1/2 xícara (40g)
+772,Cacau em Pó (Siamar),65,2 colheres de sopa (20g)
+773,Amendoim (Siamar),245,1/2 xícara (45g)
+774,Farinha de Casca de Maracujá (Siamar),14,1 colher de sopa (15g)
+775,Granola Zero Açúcar (Siamar),127,1 porção (40g)
+776,Extrato de Soja (Siamar),130,2 colheres de sopa  (30g)
+777,Farofa Pronta Tradicional (Siamar),152,1/2 xícara (50g)
+778,Pasta de Amendoim Integral (Siamar),114,1 colher de sopa (20g)
+779,Milho para Pipoca (Siamar),78,1 xícara de chá (25g)
+780,Farofa Picante (Siamar),136,1 porção (35g)
+781,Barra de Cereal Brigadeiro (Trio),77,1 barra (20g)
+782,Barrinha (Trio),76,1 barrinha (20g)
+783,Barra de Cereal Morango e Chocolate (Trio),80,1 barra (20g)
+784,Barra de Cereal Coco com Chocolate (Trio),85,1 barra (20g)
+785,"Barra de Cereal Banana, Aveia e Mel (Trio)",72,1 barra (20g)
+786,Barra de Cereal Banana com Chocolate Zero (Trio),76,1 barra (20g)
+787,Barra de Cereal Banana com Aveia e Mel Light (Trio),67,1 barra (20g)
+788,"Barra de Cereal Castanha, Avelã e Chocolate (Trio)",84,1 porção (20g)
+789,Pro30 Vit Chocolate (Trio),134,1 barra (33g)
+790,Super Protein Choco Cream (Trio),174,1 barra (40g)
+791,Barra de Proteína (33g) (Trio),134,1 barra (33g)
+792,Barra de Cereal Castanha e Chocolate (Trio),78,1 barra (20g)
+793,Barra de Cereal Zero (Trio),70,1 barra (20g)
+794,Barra de Cereal Mousse de Chocolate (Trio),78,1 barra (20g)
+795,Pro30 Vit Cookies & Cream (Trio),131,1 barra (33g)
+796,Barra de Proteína (40g) (Trio),168,1 barra (40g)
+797,Barra de Proteína Cookies & Cream (Trio),131,1 barra (33g)
+798,Barra de Cereal Zero Morango e Chocolate (Trio),70,1 barra (20g)
+799,Pro30 Vit (Trio),132,1 barra (33g)
+800,Barra de Cereal Morango e Chantilly (Trio),89,1 barra (25g)
+801,Iogurte Integral (Trevinho),116,1 copo (170g)
+802,Iogurte Desnatado (Trevinho),61,1 copo (170g)
+803,Leite Fermentado (Trevinho),54,1 copinho (80g)
+804,Iogurte Tripla Atitude Frutas (Trevinho),28,100g
+805,Iogurte Sabor Morango (Trevinho),168,1 porção (200ml)
+806,Iogurte Tripla Atitude (Trevinho),21,100g
+807,Danoninho (Trevinho),63,1 pote (45g)
+808,Leite Fermentado (Trevinho),70,100ml
+809,Requeijão Cremoso (Trevinho),76,1 colher de sopa  (30g)
+810,Requeijão Light (Trevinho),58,1 porção (30g)
+811,Iogurte Light (Trevinho),27,100g
+812,Bebida Láctea UHT Sabor Morango (Trevinho),106,1 copo (200ml)
+813,Achocolatado (Trevinho),132,1 copo (200ml)
+814,Iogurte Natural Desnatado (Trevinho),62,1 pote (170g)
+815,Iogurte Light Frutas (Trevinho),54,1 copo (200g)
+816,Coalhada Integral (Trevinho),128,1 copo (200g)
+817,Iogurte com Mel (Trevinho),174,100g
+818,Coalhada Adoçada (Trevinho),108,1 unidade  (130g)
+819,Iogurte Light (180g) (Trevinho),49,1 frasco (180g)
+820,Iogurte Parcialmente Desnatado com Polpa de Fruta Coco (Trevinho),151,1 frasco (180g)
+821,Salgadinho de Trigo Sabor Bacon (Torcida),116,1 xícara (25g)
+822,Salgadinho de Queijo (Torcida),139,1 porção (25g)
+823,Salgadinho de Trigo Sabor Churrasco (Torcida),126,1 xícara  (25g)
+824,Salgadinho de Pimenta Mexicana (Torcida),129,1/4 pacote (25g)
+825,Cebola (Torcida),139,1 xícara (25g)
+826,Pimenta Mexicana (Torcida),233,1 embalagem  (45g)
+827,Churrasco (Torcida),132,1 xícara (25g)
+828,Pastel de Carne (Torcida),134,1 porção (25g)
+829,Salgadinho Sabor Galeto (Torcida),131,1 xicara (25g)
+830,Bacon (Torcida),115,1/2 xícara (25g)
+831,Salgadinho de Trigo Sabor Pastel de Queijo (Torcida),130,1 porção (25g)
+832,Costelinha com Limão (Torcida),137,1 porção (25g)
+833,Calabresa (Torcida),119,1 xícara (25g)
+834,Queijo (Torcida),139,1 xícara (25g)
+835,Camarão com Pimenta (Torcida),133,1 xícara (25g)
+836,Pizza (Torcida),130,1 xícara (25g)
+837,Risoto de Queijo (Uncle Ben's),167,1 porção  (110g)
+838,Risoto de Vegetais (Uncle Ben's),172,1 porção (110g)
+839,Arroz Integral (Uncle Ben's),180,1/4 xícara (50g)
+840,Risoto de Funghi (Uncle Ben's),183,1 porção (120g)
+841,Arroz Integral Express (Uncle Ben's),158,1 porção (110g)
+842,Arroz Parboilizado (Uncle Ben's),169,1/4 xícara (50g)
+843,Doce de Leite (Viçosa),72,1 colher de sopa (20g)
+844,Mussarela (Viçosa),90,1 fatia  (30g)
+845,Iogurte (Viçosa),119,1 porção (120g)
+846,Iogurte de Morango Light (Viçosa),55,1 copo (200g)
+847,Manteiga (Viçosa),76,1 colher sopa  (10g)
+848,Requeijão Cremoso (Viçosa),75,1 colher de sopa (30g)
+849,Leite Integral (Viçosa),126,1 porção (200ml)
+850,Iogurte Light Salada de Frutas (Viçosa),55,1 porção (200ml)
+851,Iogurte Natural Desnatado (Viçosa),74,1 copo  (170g)
+852,Leite Desnatado (Viçosa),68,1 copo (200ml)
+853,Iogurte Natural Integral (Viçosa),120,1 unidade (170g)
+854,Amêndoa Laminada (Uniagro),87,1 colh de sopa (15g)
+855,Damasco Seco (Uniagro),119,8 unidades (50g)
+856,Tomate Seco (Uniagro),80,3 colheres de sopa (20g)
+857,Castanha do Pará (Uniagro),106,1 colher de sopa (15g)
+858,Nozes sem Casca (Uniagro),97,1 colher de sopa (15g)
+859,Nozes (Uniagro),98,1 colher de sopa (15g)
+860,Funghi Secchi (Uniagro),45,3 colheres de sopa (15g)
+861,Passata de Tomate (Uniagro),27,3 colheres de sopa (50g)
+862,Passa de Uva Preta (Uniagro),90,2 colheres de sopa (30g)
+863,Azeite de Oliva Extra Virgem (Uniagro),105,1 colher de sopa (13ml)
+864,Azeitona sem Caroço em Conserva (Uniagro),32,10 unidades (20g)
+865,Castanha de Caju Torrada e Salgada (Uniagro),86,1 colher de sopa (15g)
+866,Mix Aperitivo (Uniagro),90,1 colher de sopa (15g)
+867,Hot Mix (Uniagro),78,1 porção (15g)
+868,Mix Coquetel (Uniagro),61,1 colher de sopa (15g)
+869,Ameixa Seca sem Caroço (Uniagro),96,1 sachê (40g)
+870,Cogumelo Fatiado em Conserva (Uniagro),14,10 unidades (50g)
+871,Amêndoa Torrada e Salgada (Uniagro),91,1 colher de sopa (15g)
+872,Amendoim (Uniagro),86,1 colher de sopa (15g)
+873,Azeitona com Pimentão (Uniagro),32,4 unidades (20g)
+874,Creatina (Universal),0,1 colher de chá (5g)
+875,Ultra Whey Protein (Universal),120,1 scoop (30g)
+876,Ultra Iso Whey (Universal),88,1 scoop (25g)
+877,Carbo Plus (Universal),68,1 scoop (18g)
+878,Caseina (Universal),117,1 porção (33g)
+879,Animal Pak (Universal),48,1 porção (20g)
+880,Real Gains (Universal),610,1 porção (155g)
+881,Albumina Capuccino (Xlab),123,1 scoop (30g)
+882,Albumina Chocolate com Leite Condensado (Xlab),123,1 medidor  (30g)
+883,Whey Protein (Xlab),156,3 colheres de sopa (36g)
+884,Princesa Sortido de Bolachas (Vieira de Castro),152,4 unidades (30g)
+885,100% Hyper Whey (XTR),113,1 dosador (30g)
+886,Whey Protein (XTR),113,1 dosador (30g)
+887,Granola (Vitalícia),189,3 colheres de sopa (50g)
+888,Flocos de Aveia Fino (Vitalícia),145,3 colheres de sopa (40g)
+889,Granola Light (Vitalícia),134,3 colheres de sopa (50g)
+890,Fibra de Maracujá (Vitalícia),29,1 porção (10g)
+891,Biscoito de Proteína Sabor Cookies (Wheyviv),132,1 porção (45g)
+892,Suspiros com Whey Protein (Wheyviv),66,1 pacote (25g)
+893,Biscoito Fit Chocolate (Wheyviv),135,1 pacote  (45g)
+894,Biscoito de Coco (Wheyviv),137,1 porção (45g)
+895,Banana com Whey Protein (Wheyviv),136,1 pacote (8 unidades) (45g)
+896,Biscoito Fit de Coco (Wheyviv),120,1 porção (40g)
+897,Biscoito Fit Amendoim com Whey Protein (Wheyviv),121,8 unidades (40g)
+898,Biscoito de Gergelim (Wheyviv),151,1 porção (45g)
+899,Biscoito de Proteína Sabor Amendoim (Wheyviv),142,1 porção (45g)
+900,Chocolate com Whey Protein (Wheyviv),135,1 porção (40g)
+901,Suspiros (Wheyviv),64,1 porção (20g)
+902,Biscoito Fit Gergelim (Wheyviv),124,1 porção (40g)
+903,Mix Frut - Mix de Frutas Desidratadas (Wheyviv),31,1 porção (45g)
+904,Biscoito de Proteína Sabor Gergelim (Wheyviv),151,1 porção (45g)
+905,Mixcast (Wheyviv),285,1 porção  (45g)
+906,Mixfrut (Wheyviv),31,1 porção (45g)
+907,Farinha de Milho Flocada (Xodomilho),180,1/2 xicara (50g)
+908,Cuscuz (Xodomilho),180,1/2 xícara (50g)
+909,Semente de Girassol (WS Naturais),61,1 colher de sopa (10g)
+910,Granola Zero Açúcar (WS Naturais),129,1/2 xícara de chá (40g)
+911,Granola Tradicional (WS Naturais),167,1/2 xícara de chá (40g)
+912,Granola Caseira 100% Natural (WS Naturais),150,100g
+913,Granola Premium (WS Naturais),159,1/2 xicara de chá (40g)
+914,Granola (WS Naturais),167,1/2 xícara de chá (40g)
+915,Granola sem Glúten (WS Naturais),149,1/2 copo (40g)
+916,Granola com Coco (WS Naturais),159,1/2 xícara de chá (40g)
+917,Proteína Texturizada de Soja Média Clara e Granulada (WS Naturais),150,1 porção (50g)
+918,Coco Crocante (WS Naturais),63,1 colher sopa (11g)
+919,Aveia em Flocos Finos (WS Naturais),90,2 colheres de sopa (30g)
+920,Mix de Amêndoas com Frutas (WS Naturais),88,1 colhe de sopa (15g)
+921,Açúcar Mascavo (WS Naturais),18,1 colher de chá (5g)
+922,Farinha de Aveia (WS Naturais),170,1/2 xícara de chá (50g)
+923,Castanha do Pará (WS Naturais),99,1 colher de sopa (15g)
+924,Farinha de Linhaça Marrom Integral (WS Naturais),75,1 colher de sopa (15g)
+925,Fibra de Trigo (WS Naturais),20,1 porção (10g)
+926,Gergelim Descascado Branco (WS Naturais),100,1 colher de sopa (15g)
+927,Farinha de Linhaça Dourada (WS Naturais),76,1 porção (15g)
+928,Pão de Mel e Chá Verde (Woman Care),88,1 barra (25g)
+929,Iogurte Whey Shake-Pro (Yofruta),136,1 porção (300g)
+930,Iogurte de Morango (Yofruta),138,1 copo (200g)
+931,Cranberry Iced Tea (Applebee's),80,1 porção (600ml)
+932,Baby Back Ribs (Applebee's),270,3 ribs
+933,Mozzarella Sticks (Applebee's),930,1 porção
+934,Cowboy Burger (Applebee's),1180,1 lanche
+935,Garlic Mashed Potatoes (Applebee's),250,1 porção
+936,Signature Sirloin With Garlic Herb Shrimp (Applebee's),500,1 porção
+937,Sizzling Apple Pie (Applebee's),930,1 porção
+938,Oriental Salad Frango (Applebee's),1390,1 porção
+939,Frozen Vanilla (Yogoothies),86,1 unidade pequena (110g)
+940,Chocolate Gold (Yogoothies),26,1 porção (10g)
+941,Manteiga Ghee (Yamuna),48,1 colher de sobremesa (6g)
+942,Salada Oriental (América),271,1 porção (371g)
+943,Spring Salad (América),577,1 porção (420g)
+944,Salmão Mediterrâneo (América),427,1 prato (370g)
+945,Biscoito Folhado (Zezé),132,4 unidades (30g)
+946,Bolachão (Zezé),117,2 1/2 unidades (30g)
+947,Biscoito Folhado Doce (Zezé),135,8 biscoitos (30g)
+948,Folhado Doce (Zezé),135,8 biscoitos (30g)
+949,Biscoito Mignon (Zezé),141,46 biscoitos (30g)
+950,Palito de Chocolate (Zezé),116,9 biscoitos (30g)
+951,Mignon (Zezé),141,44 biscoitos (30g)
+952,Bolo de Mel Biscoito Doce (Zezé),111,4 unidades (30g)
+953,Biscoito Salgado (Zezé),130,4 unidades (30g)
+954,Cookies Integrais Banana e Aveia (Zezé),91,4 biscoitos (30g)
+955,Biscoito Água e Sal (Zezé),121,13 unidades (30g)
+956,Fura Bolo (Zezé),119,1 porção (30g)
+957,Pão de Mel (Zezé),140,1 1/2 unidades (30g)
+958,Biscoito Luna (Zezé),130,4 unidades (30g)
+959,Mignon Integral (Zezé),130,1 porção (30g)
+960,Rosquinha de Chocolate (Zezé),131,6 rosquinhas (30g)
+961,Mini Ditos (Zezé),118,8 unidades (30g)
+962,Cookies Integrais Castanha do Pará (Zezé),129,6 biscoitos (30g)
+963,Cookies Integrais Frutas Citricas (Zezé),91,6 unidades (30g)
+964,Batata Palha (Zezé),148,1/2 xícara de chá (25g)
+965,Pão de Alho Tradicional (Zinho),215,1 pão (60g)
+966,Pão Recheado com Linguiça e Queijo (Zinho),84,1 unidade (25g)
+967,Pão de Alho Tradicional com Queijo tipo Bolinha (Zinho),89,1 unidade (25g)
+968,Pão de Alho (25g) (Zinho),89,1 unidade (25g)
+969,Pão de Alho Picante com Queijo (Zinho),214,1 unidade (60g)
+970,Pão de Alho com Catupiry (Zinho),82,1 unidade (25g)
+971,Pão de Alho (60f) (Zinho),215,1 unidade (60g)
+972,Pão Bolinha Requeijão (Zinho),95,1 unidade (25g)
+973,Pão de Alho Picante com Queijo (Zinho),87,25g
+974,Biscoito Amanteigado com Goiabada (Zagonel),162,3 unidades (30g)
+975,Biscoito Amanteigado Nata e Uva (Zagonel),122,3 biscoitos (30g)
+976,Biscoito Amanteigado (Zagonel),192,4 biscoitos (32g)
+977,Biscoito de Amendoim (Zagonel),140,5 biscoitos (30g)
+978,Merengue (Zagonel),91,10 unidades (30g)
+979,Bolachão de Mel com Chocolate (Zagonel),136,1 unidade (30g)
+980,Flocos de Arroz (Zagonel),34,1 barra (10g)
+981,Biscoito Broa de Fécula (Zagonel),120,6 unidades (30g)
+982,Batata Palha (Zagonel),137,1 porção (25g)
+983,Picanha Salada Burguer (Big X Picanha),439,1 unidade (300g)
+984,Big X Camarão Ao Catupiry (Big X Picanha),239,1 unidade
+985,Kibe Assado (Almanara),172,100g
+986,Kibe Cru (Almanara),147,100g
+987,Esfiha Fechada (Almanara),115,1 unidade
+988,Couscous Marroquino (Almanara),183,100g
+989,Esfiha Aberta (Almanara),111,1 unidade (15g)
+990,Kafta (Almanara),116,100g
+991,Pão Sírio (Almanara),80,1 unidade
+992,Homus (Almanara),144,100g
+993,Falafel (Almanara),152,100g
+994,Coalhada Seca (Almanara),320,1 porção (100g)
+995,Arroz Com Lentilha (Almanara),158,100g
+996,Babaganuche (Almanara),83,100g
+997,Kibe Frito (Almanara),251,100g
+998,Abobrinha Recheada (Almanara),89,100g
+999,Arroz Sírio (Almanara),153,100g
+1000,Beirute de Rosbife (Almanara),195,100g
+1001,Esfira Verdura (Almanara),105,1 unidade
+1002,Fatouche (Almanara),162,100g
+1003,Charutinho de Folha de Uva (Almanara),99,100g
+1004,Charutinho de Repolho (Almanara),66,100g
+1005,Biscoito de Polvilho (Casa do Alemão),40,6 unidades (10g)
+1006,Biscoito Amanteigado Pérola (Casa do Alemão),57,2 unidades (10g)
+1007,Salsichão Branco (Casa do Alemão),188,100g
+1008,Canudinho de Chocolate (Casa do Alemão),481,100g
+1009,Croissant (Casa do Alemão),171,1 unidade (40g)
+1010,Bombom com Amendoim (Casa do Alemão),107,4 unidades (20g)
+1011,Whopper (Burger King),677,1 porção (361g)
+1012,Batata Frita (Média) (Burger King),318,1 porção (116g)
+1013,Batata Frita (Pequena) (Burger King),203,1 porção (74g)
+1014,Cheeseburger (Burger King),340,1 porção
+1015,Cheese Burger Duplo Bacon (Burger King),522,1 porção (201g)
+1016,Onion Rings (Burger King),319,1 porção (50g)
+1017,BK Cheddar Duplo (Burger King),410,1 porção
+1018,Rodeio Burguer (Burger King),398,1 porção (162g)
+1019,BK Chicken Junior (Burger King),513,1 porção
+1020,Big King (Burger King),806,1 sanduíche (312g)
+1021,Batata Frita (Grande) (Burger King),390,1 porção (142g)
+1022,Casquinha Recheada (Burger King),320,1 porção
+1023,Chicken Duplo (Burger King),900,100g
+1024,Whopper Furioso (Burger King),838,1 porção (386g)
+1025,BK Shakes Especiais (Burger King),495,1 porção (500ml)
+1026,Whopper Jr. (Burger King),369,1 porção
+1027,Cheddar Burger (Burger King),321,1 sanduíche (136g)
+1028,Milk Shake Doce de Leite (Burger King),490,1 copo (400ml)
+1029,BK Batata Suprema (Burger King),368,1 porção (221g)
+1030,Cheeseburger Duplo com Bacon (Burger King),1008,1 porção (342g)
+1031,Hot Dog (Bullguer),537,1 porção
+1032,Fritas Crinkle (Bullguer),457,1 porção (200g)
+1033,Standard (Bullguer),459,1 lanche
+1034,Stencil (Bullguer),593,1 lanche (480g)
+1035,Lumberjack (Bullguer),648,1 lanche
+1036,Cheese Please (Bullguer),650,1 sanduiche (300g)
+1037,More Meat More Cheese (Bullguer),261,1 porção
+1038,Uovo (Bullguer),736,1 unidade 
+1039,Chicks (Bullguer),513,1 lanche (200g)
+1040,Combeirute (Compão),382,1 sanduíche (300g)
+1041,Comsaúde (Compão),282,1 sanduíche
+1042,Comlight (Compão),314,1 sanduíche
+1043,Yakisoba Clássico (China in Box),169,100g
+1044,Frango Xadrez (China in Box),191,100g
+1045,Yakimeshi (China in Box),134,100g
+1046,Yakisoba de Carne Pequeno (China in Box),484,1 caixa (200g)
+1047,Yakissoba de Vegetais Junior (China in Box),482,1 porção (300g)
+1048,Rolinho Primavera (China in Box),79,1 unidade
+1049,Rolinho Primavera de Queijo (China in Box),158,1 rolinho (30g)
+1050,Banana Caramelada (China in Box),179,1 unidade (120g)
+1051,Carne com Legumes (China in Box),463,1 porção (500g)
+1052,Yakisoba Clássico Grande (China in Box),796,1 porção (500g)
+1053,Camarão Empanado (China in Box),94,4 unidades
+1054,Biscoito da Sorte Doce (China in Box),15,1 biscoito (5g)
+1055,Rolinho de Queijo (China in Box),150,100g
+1056,Yakisoba de Frango Júnior (China in Box),603,1 box
+1057,Frango Agridoce Júnior (China in Box),452,1 porção (400g)
+1058,Rolinho Romeu e Julieta (China in Box),192,1 unidade
+1059,Yakisoba De Vegetais Júnior (China in Box),482,1 caixinha (500g)
+1060,Pão Chinês (China in Box),103,3 unidade
+1061,Carne Com Brócolis (China in Box),162,100g
+1062,Yakisoba de Bifum Pequeno (China in Box),485,1 pequeno (300g)
+1063,Sanduíche Natural de Frango (DNA Natural),313,1 sanduíche (179g)
+1064,Sanduíche Natural de Atum (DNA Natural),292,1 sanduiche (150g)
+1065,Pizza 4 Queijos Grande Massa Fina (Domino's Pizza),278,1 fatia (116g)
+1066,Pizza Mussarela Massa Tradicional (Domino's Pizza),206,1 fatia (88g)
+1067,Pizza Calabresa Média Massa Tradicional (Domino's Pizza),274,1 fatia (108g)
+1068,Pizza Pepperoni Média Massa Tradicional (Domino's Pizza),232,1 fatia (98g)
+1069,Pizza 3 Queijos Grande (Domino's Pizza),305,1 fatia (131g)
+1070,Pizza Marguerita Média Tradicional (Domino's Pizza),203,1 fatia (124g)
+1071,Pizza de Frango com Requeijão Grande Massa Tradicional (Domino's Pizza),321,1 fatia (153g)
+1072,Pizza Toscana (Domino's Pizza),240,1 fatia
+1073,Catuperoni (Domino's Pizza),349,1 fatia (143g)
+1074,Pizza Banana Grande Massa Tradicional (Domino's Pizza),421,1 fatia (146g)
+1075,Pizza Brotinho Frango com Requeijão (Domino's Pizza),168,1 fatia (85g)
+1076,Pepperoni Grande Massa Tradicional (Domino's Pizza),312,1 fatia (133g)
+1077,Frango Com Requeijão Média Massa Fina (Domino's Pizza),195,1 fatia (96g)
+1078,Catuperoni Média Massa Fina (Domino's Pizza),222,1 fatia (89g)
+1079,Chocolate Brotinho (Domino's Pizza),183,1 fatia (39g)
+1080,Chocobread (Domino's Pizza),526,1 porção (245g)
+1081,Frango com Requeijão Média Massa Tradicional (Domino's Pizza),235,1 fatia (113g)
+1082,Catuperoni Grande Massa Fina (Domino's Pizza),303,1 fatia (124g)
+1083,La Bianca Grande Massa Fina (Domino's Pizza),285,1 fatia (122g)
+1084,La Bianca Média Massa Tradicional (Domino's Pizza),238,1 fatia média (101g)
+1085,Grelhados Salmão (Desfrutti),292,1 porção (200g)
+1086,Crepe de Frango (Desfrutti),440,2 crepe
+1087,Salada de Salmão (Desfrutti),341,1 unidade
+1088,Mix com Shitake (Desfrutti),78,1 porção (200g)
+1089,Wrap Nutella com Morango e Sorvete (Desfrutti),629,1 wrap (300g)
+1090,Suco Termogênico (Desfrutti),111,1 copo (360ml)
+1091,Salada de Frango (Desfrutti),311,1 unidade
+1092,Suco Antioxidante 1 (Desfrutti),115,1 copo (360ml)
+1093,Sanduíche Filet de Frango (Desfrutti),540,1 sanduíche (350g)
+1094,Mini Salada (Desfrutti),45,1 unidade
+1095,Crepe de Chilli (Desfrutti),768,1 crepe
+1096,Wrap Waimea (Desfrutti),396,1 unidade
+1097,Crepe de Peru (Desfrutti),748,1 crepe
+1098,Wrap Mentawai (Desfrutti),250,1 wrap
+1099,Suco Pele (Desfrutti),142,1 copo (360ml)
+1100,Wrap Waikiki (Desfrutti),416,1 unidade (12g)
+1101,Crepe de Peru Light (Desfrutti),572,1 crepe
+1102,Mix com Quinua (Desfrutti),117,1 porção
+1103,Suco Antiestress (Desfrutti),268,1 porção (360ml)
+1104,Suco Relaxante (Desfrutti),222,1 porção (360ml)
+1105,Empada de Frango com Catupiry (Empada Brasil),275,1 unidade (95g)
+1106,Empada de Frango (Empada Brasil),266,1 unidade (95g)
+1107,Empada de Camarão (Empada Brasil),215,1 unidade (95g)
+1108,Empada de Chocolate (Empada Brasil),169,1 unidade (95g)
+1109,Empada de Palmito (Empada Brasil),208,1 unidade (95g)
+1110,Empada de Calabresa (Empada Brasil),271,1 unidade (95g)
+1111,Empada de Camarão com Catupiry (Empada Brasil),235,1 unidade (95g)
+1112,Pastel de Peito de Peru com Queijo Minas e Catupiry (Empada Brasil),240,1 unidade
+1113,Empada Quatro Queijos (Empada Brasil),330,1 unidade (95g)
+1114,Empada de Palmito com Catupiry (Empada Brasil),229,1 unidade (95g)
+1115,Empada de Calabresa com Catupiry (Empada Brasil),278,1 unidade (95g)
+1116,Empada Integral de Berinjela (Empada Brasil),168,1 uniade (95g)
+1117,Empada de Bobó de Camarão (Empada Brasil),312,1 unidade (95g)
+1118,Sashimi de Salmão (Fast Temaki),90,5 unidades
+1119,Niguiri Salmão (Fast Temaki),97,2 unidades
+1120,Niguiri Skin (Fast Temaki),74,2 unidades
+1121,Galeto Desossado (Galeto's),412,1 galeto
+1122,Hambúrguer Grelhado (H3),352,1 porção (100g)
+1123,Hambúrguer Cheese (H3),464,1 porção (200g)
+1124,Hambúrguer Prato Carbonara (H3),693,1 porção (300g)
+1125,Hambúrguer Extra (H3),397,1 porção (200g)
+1126,Batata Frita (Meia) (H3),270,1 porção
+1127,Alfajor de Doce de Leite (Havanna),160,1 unidade (47g)
+1128,Alfajor de Chocolate (Havanna),206,1 unidade (55g)
+1129,Doce de Leite (Havanna),63,1 colher de sopa (20g)
+1130,Alfajor 70% Cacau Puro (Havanna),248,1 porção (65g)
+1131,Mini Alfajor de Chocolate (Havanna),90,1 unidade (25g)
+1132,Corazon (Havanna),30,1 unidade (7g)
+1133,Chocolate Meio Amargo com Recheio de Dulce de Leche (Havanna),89,1 porção (25g)
+1134,Chocolate Branco com Recheio de Doce de Leite (Havanna),91,1 porção (25g)
+1135,Mini Alfajor de Chocolate Branco (Havanna),99,1 unidade (25g)
+1136,Panetone Doce de Leite (Havanna),281,1 fatia (80g)
+1137,Havannets (Havanna),140,1 porção  (38g)
+1138,Galletitas (Havanna),166,1 unidade (35g)
+1139,Havannet Negro (Havanna),140,1 unidade (38g)
+1140,Barrita (Havanna),125,1 barrinha  (30g)
+1141,Alfajor Chocolate Branco (Havanna),207,1 unidade  (55g)
+1142,Mini Galletita Limón (Havanna),62,1 unidade (14g)
+1143,Coronitas (Havanna),432,100g
+1144,Molho Iogurte com Ervas (Go Fresh),66,1 porção (20g)
+1145,Mussarela de Búfala (Go Fresh),47,1 porção (20g)
+1146,Quinua (Go Fresh),74,1 porção (20g)
+1147,Arroz Ráris 7 Grãos (Go Fresh),284,1 porção (120g)
+1148,Hambúrguer Rústico (Go Fresh),485,100g
+1149,Tinga (Go Fresh),200,1 porção
+1150,Poti (Go Fresh),160,1 porção
+1151,American Fries (Johnny Rockets),480,1 porção (198g)
+1152,The Original (Johnny Rockets),870,1 porção (349g)
+1153,Smoke House Single (Johnny Rockets),1100,1 porção (312g)
+1154,Bacon Cheddar Single (Johnny Rockets),1120,1 porção (398g)
+1155,Bacon Cheese Fries (Johnny Rockets),830,1 porção  (357g)
+1156,Smoke House Double (Johnny Rockets),1660,1 sanduíche (447g)
+1157,Bacon Cheddar Double (Johnny Rockets),1770,1 sanduiche (555g)
+1158,Philly Cheese Steak (Johnny Rockets),830,1 sanduíche (345g)
+1159,Route 66 (Johnny Rockets),1000,1 porção (387g)
+1160,Johnny Ribs (Johnny Rockets),2050,1 porção (790g)
+1161,Side Salad (Johnny Rockets),70,1 porção (120g)
+1162,Cheese Frango Salada (Marvin),628,1 sanduíche
+1163,Batata Frita (Marvin),411,1 porção (150g)
+1164,Cheese Burger C/ Alho (Marvin),558,1 sanduíche
+1165,Super Marvin (Marvin),761,1 hambúrguer (200g)
+1166,Mini Coxinhas de Frango (Jeronimo),377,10 unidades  (145g)
+1167,Batata Frita “P” (Jeronimo),145,1 porção (60g)
+1168,Cheese Burger (Jeronimo),584,1 porção (200g)
+1169,"Cheeseburguer ""P"" (Jeronimo)",418,1 unidade (175g)
+1170,"Cheeseburger ""M"" (Jeronimo)",544,1 unidade (255g)
+1171,Batata Frita M (Jeronimo),289,1 porção (120g)
+1172,Cheese Bacon (Jeronimo),621,1 porção (215g)
+1173,"Cheesebacon ""M"" (Jeronimo)",908,1 porção (330g)
+1174,Cheesebacon P (Jeronimo),591,1 porção (210g)
+1175,Cheesechiken Crispy P (Jeronimo),463,1 porção (175g)
+1176,"Cheeseburger ""G"" (Jeronimo)",678,1 porção (340g)
+1177,Chicken Fingers P (Jeronimo),273,1 porção (140g)
+1178,Maionese Extra (Jeronimo),224,1 porção (30g)
+1179,Cheese Chicken Crispy M (Jeronimo),637,1 porção (255g)
+1180,Cheeseburger GG (Jeronimo),801,1 unidade (420g)
+1181,Cheese Burger Vegetariano ''M'' (Jeronimo),573,1 sanduíche (255g)
+1182,Batatas Fritas (Jeronimo),336,1 porção (116g)
+1183,"Batata Frita ""GG"" (Jeronimo)",578,1 porção (240g)
+1184,Salada do Cheff G (Jeronimo),310,1 porção (205g)
+1185,Cheesebacon G (Jeronimo),1224,1 porção (450g)
+1186,Vinagrete (Giraffas),39,1 copinho (50g)
+1187,Creme de Milho (Giraffas),155,1 porção (120g)
+1188,Arroz Branco (Giraffas),241,1 porção (150g)
+1189,Purê de Batatas (Giraffas),117,1 porção (140g)
+1190,Parmegiana Frango (Giraffas),325,1 prato (120g)
+1191,Feijão Preto (Giraffas),85,1 porção (100g)
+1192,Biffão de Maminha (Giraffas),265,1 porção (153g)
+1193,Estrogonofe Frango (Giraffas),101,1 prato (133g)
+1194,Farofa (Giraffas),206,1 1/2 unidade (60g)
+1195,Fritas Média (Giraffas),256,1 caixa (200g)
+1196,Cheese Egg Steak (Giraffas),504,1 sanduíche (285g)
+1197,Triplo X-Burger Bacon Com Ovo (Giraffas),780,1 unidade
+1198,Cheddar Burguer (Giraffas),266,100g
+1199,Petit Gateau Doce de Leite (Giraffas),337,1 porção 
+1200,X-Salada (Giraffas),269,1 sanduíche
+1201,Frango Compactado 2 (Giraffas),339,2 unidades (338g)
+1202,Salada com Frango Grelhado (Giraffas),257,100g
+1203,Brutus (Giraffas),632,1 unidade (289g)
+1204,Filé de Tilápia (Giraffas),115,1 filé
+1205,Cheese Salada Steak (Giraffas),426,1 sanduíche (235g)
+1206,Empanada de Frango Caipira (La Guapa),102,1 unidade (80g)
+1207,Empanada de Espinafre Cremoso (La Guapa),235,1 porção (80g)
+1208,Empanada Pucacapa (La Guapa),162,1 unidade (80g)
+1209,Alfajor (La Guapa),217,1/2 unidade (40g)
+1210,Empanada Salteña (La Guapa),146,1 unidade (80g)
+1211,Empanada Julieta (La Guapa),212,1 unidade (80g)
+1212,Paleta Mexicana Recheada de Brigadeiro (Los Paleteros),263,1 unidade (120g)
+1213,Paleta Mexicana Trufa de Chocolate (Los Paleteros),309,1 unidade (120g)
+1214,Picolé de Morango Recheado com Leite Condensado (Los Paleteros),167,1 unidade (120g)
+1215,Paleta de Paçoca (Los Paleteros),337,1 unidade (120g)
+1216,Paleta de Coco (Los Paleteros),213,1 unidade (120g)
+1217,Picolé Chocolate Belga (Los Paleteros),223,1 unidade (120g)
+1218,Picolé Doce de Leite Recheado (Los Paleteros),274,1 unidade (120g)
+1219,Picolé de Brigadeiro Recheado (Los Paleteros),263,1 unidade (120g)
+1220,Picolé Iogurte com Amora (Los Paleteros),184,1 unidade (120g)
+1221,Batata Frita (Média) (McDonald's),288,1 porção (50g)
+1222,Big Mac (McDonald's),503,1 porção
+1223,Batata Frita Média (McDonald's),295,1 porção (50g)
+1224,Cheddar McMelt (McDonald's),474,1 porção (484g)
+1225,Batata Frita (Grande) (McDonald's),376,1 porção (146g)
+1226,Casquinha Mista (McDonald's),177,1 unidade (113g)
+1227,McFritas (Média) (McDonald's),288,1 porção (102g)
+1228,McChicken (McDonald's),395,1 porção
+1229,Quarterão com Queijo (McDonald's),528,1 porção (200g)
+1230,Casquinha Baunilha (McDonald's),177,1 porção (113g)
+1231,McFlurry Ovomaltine (McDonald's),462,1 porção (214g)
+1232,Big Tasty (McDonald's),944,1 porção (337g)
+1233,Cheeseburger (McDonald's),288,1 porção (114g)
+1234,Chicken McJunior (McDonald's),338,1 hambúrguer (134g)
+1235,Nuggets de Frango (McDonald's),173,4 unidades
+1236,Sundae Chocolate (McDonald's),290,1 porção (146g)
+1237,Coca-Cola (500ml) (McDonald's),200,1 porção (500ml)
+1238,Maçã em Pedaços (McDonald's),19,1 porção (35g)
+1239,Hamburger (McDonald's),245,1 porção (99g)
+1240,Chicken Mcnuggets (McDonald's),173,4 unidades
+1241,Pretzel de Açúcar e Canela (Mr Pretzels),416,1 unidade (133g)
+1242,Pretzel de Chocolate (Mr Pretzels),483,1 unidade (143g)
+1243,Pretzel de Queijo Parmesão (Mr Pretzels),404,1 unidade (128g)
+1244,Pretzel Salsa (Mr Pretzels),389,1 porção (128g)
+1245,Dog (Mr Pretzels),328,1 porção (123g)
+1246,Pretzel de Pizza (Mr Pretzels),283,1 unidade (93g)
+1247,Pretzel de Cheddar (Mr Pretzels),421,1 unidade (148g)
+1248,Pretzel de Banana com Açúcar (Mr Pretzels),416,1 unidade (133g)
+1249,Pretzel Doce de Leite (Mr Pretzels),409,1 unidade (143g)
+1250,Rolinho Romeu e Julieta (Lig Lig),345,2 unidades (100g)
+1251,Yakisoba (Lig Lig),584,1 porção (200g)
+1252,Bifum (Lig Lig),577,1 porção (300g)
+1253,Rolinho Primavera (Lig Lig),181,100g
+1254,Bifum Chop Suey (Lig Lig),819,1 box (300g)
+1255,Batata Mandarim (Lig Lig),312,1 porção
+1256,Sobrecoxa Crocante (KFC),331,100g
+1257,Farofa (KFC),86,1 porção (20g)
+1258,Tirinha (KFC),93,1 unidade  (30g)
+1259,Peito de Frango Crocante (KFC),323,1 porção  (118g)
+1260,Batata Frita Média (KFC),316,1 pacote (85g)
+1261,Tirinha Crocante (KFC),179,1 unidade (76g)
+1262,Double Crunch (KFC),605,1 sanduiche (236g)
+1263,Batata Frita Pequena (KFC),210,1 porção (55g)
+1264,Feijão (KFC),133,1 porção (115g)
+1265,Sanduíche Filet Crocante (KFC),512,1 unidade (211g)
+1266,Salada (KFC),146,1 porção (125g)
+1267,Tirinha Receita Secreta (KFC),179,1 unidade (70g)
+1268,Kentucky Chicken Sandwich (KFC),774,1 porção (280g)
+1269,Double Crunch Bacon (KFC),641,1 sanduíche (264g)
+1270,Cheddar Melt (KFC),529,1 sanduíche  (191g)
+1271,Double Crunch BBQ (KFC),712,1 sanduíche (242g)
+1272,Coxa Crocante (KFC),190,1 unidade (65g)
+1273,Molho Barbecue (KFC),35,1 porção (40g)
+1274,Molho Coronel (KFC),194,1 pote (40g)
+1275,Arroz Pequeno (KFC),162,100g
+1276,Esfiha de Carne (Habib's),171,1 unidade (75g)
+1277,Esfiha de Queijo (Habib's),184,1 unidade (70g)
+1278,Esfiha de Frango (Habib's),152,1 unidade (75g)
+1279,Esfiha de Calabresa (Habib's),130,1 unidade (75g)
+1280,Batata Frita (Habib's),86,1 porção (40g)
+1281,Esfiha Folhada de Chocolate (Habib's),251,1 unidade (60g)
+1282,Mini Churros (Habib's),56,1 unidade (20g)
+1283,Esfirra (Habib's),130,1 unidade (70g)
+1284,Pudim de Leite Condensado (Habib's),179,1 unidade (110g)
+1285,Pastel de Queijo (Habib's),195,1 unidade (70g)
+1286,Kibe Frito (Habib's),198,1 unidade (90g)
+1287,Pastel de Belém (Habib's),146,1 unidade (50g)
+1288,Pastel de Carne (Habib's),177,1 unidade (70g)
+1289,Esfiha de Espinafre (Habib's),122,1 unidade (80g)
+1290,Pizza de Quatro Queijos (Habib's),170,1 fatia (93g)
+1291,Suco de Morango (Habib's),120,1 unidade (300ml)
+1292,Esfiha Folhada de Chocolate com M&M''s (Habib's),295,1 unidade (65g)
+1293,Pizza de Calabresa (Habib's),169,1 fatia (91g)
+1294,Beirute (Habib's),714,1 unidade (415g)
+1295,Esfirra Italianinha (Habib's),128,1 unidade (72g)
+1296,Sunomono (Koni Store),67,100g
+1297,Yakisoba de Carne (Koni Store),426,1 porção (400g)
+1298,Temaki Filadélfia (Koni Store),214,1 unidade (140g)
+1299,Temaki de Salmão sem Arroz (Koni Store),144,1 unidade (140g)
+1300,Roll Filadelfia Steel (Koni Store),346,8 unidades (200g)
+1301,Temaki Salmão Completo sem Arroz (Koni Store),162,1 unidade (140g)
+1302,Temaki Salmão sem Arroz (Koni Store),144,1 unidade (140g)
+1303,Harumaki de Camarão (Koni Store),110,100g
+1304,Harumaki de Banana com Doce de Leite (Koni Store),182,1 porção (71g)
+1305,Yakisoba de Camarão (Grande) (Koni Store),437,1 porção (400g)
+1306,Poke Fresh Croc (Koni Store),599,1 unidade (350g)
+1307,Koni Filadélfia (Koni Store),260,1 porção (140g)
+1308,Koni Poke (Koni Store),283,1 koni (140g)
+1309,Koni Hot Filadélfia (Koni Store),261,1 unidade (130g)
+1310,Koni Tempurá de Camarão (Koni Store),277,1 unidad (130g)
+1311,Roll Hot Filadélfia Steel (Koni Store),425,1 unidade (160g)
+1312,Roll Haru Steel (Koni Store),362,8 unidades
+1313,Koni Camarão (Koni Store),254,1 unidade (130g)
+1314,Koni Salmão (Koni Store),186,1 koni (140g)
+1315,Koni Salmão sem Arroz (Koni Store),144,1 porção (140g)
+1316,Coxinha de Frango com Catupiry (Ofner),163,1/2 unidade  (40g)
+1317,Rosca Branca (Ofner),153,1 porção (40g)
+1318,Rosca De Coco (Ofner),168,1 porção (40g)
+1319,Bombom (Ofner),143,3 unidades (25g)
+1320,Cappuccino Tradicional (Ofner),83,1 porção (20g)
+1321,Pão de Mel Tradicional (Ofner),85,1 unidade (25g)
+1322,Cappuccino Tradicional Light (Ofner),57,1 porção (14g)
+1323,Trança (Ofner),162,1 fatia (40g)
+1324,Panettone com Gotas de Chocolate (Ofner),288,1 fatia (80g)
+1325,Brigadeiro (Ofner),144,1 unidade
+1326,Chocolate Ao Leite (Ofner),129,1 porção (25g)
+1327,Chocolate 70% Cacau (Ofner),130,1/3 unidade (25g)
+1328,Chocolate Ao Leite Zero Açúcar (Ofner),141,1 pedaço (25g)
+1329,Stollen (Ofner),214,1 fatia (60g)
+1330,Panettone Trufado (Ofner),296,1 fatia (80g)
+1331,Panettone (Ofner),261,1 fatia (80g)
+1332,Geléias Sortidas (Ofner),53,1 unidade (20g)
+1333,Panettone Integrale (Ofner),259,1 fatia (80g)
+1334,Minifilés (Popeyes),77,1 porção (34g)
+1335,Batata Média (Popeyes),246,1 porção (131g)
+1336,Louisiana Soul (Popeyes),661,1 sanduíche (312g)
+1337,Pop Chicken (Popeyes),513,1 porção (177g)
+1338,Filé Marinado Vibrante (Popeyes),200,1 porção (78g)
+1339,Batata Cajun (Popeyes),210,1 porção (67g)
+1340,The Sandwich (Popeyes),714,1 porção (264g)
+1341,Pop Nola (Popeyes),716,100g
+1342,Crispy Nola (Popeyes),823,1 porção (246g)
+1343,Chicken BBC (Popeyes),507,1 lanche (277g)
+1344,Molho Nola (Popeyes),267,1 porção (40g)
+1345,Bacon Vibrante (Popeyes),510,1 lanche (238g)
+1346,Double Cheddar (Popeyes),536,1 porção (268g)
+1347,Pop Cheese & Mayo (Popeyes),521,1 porção (175g)
+1348,Pão Australiano (Outback),122,1 pão (50g)
+1349,Chopp (Outback),180,1 chopp (350g)
+1350,Ribs on the Barbie (Outback),878,1 porção (500g)
+1351,Caesar Salad (Outback),342,1 xícara (240g)
+1352,Fritas (Outback),384,1 porção
+1353,El Rancho Salad (Outback),357,1 porção
+1354,Bloomin' Onion (Outback),326,1/6 cebola
+1355,Legumes Ao Vapor (Outback),96,1 porção
+1356,Junior Ribs (Outback),364,1 porção
+1357,Kookaburra Wings (Outback),512,1/4 porção
+1358,Jacked Potato (Outback),309,1 batata (350g)
+1359,The Outback Burguer (Outback),1068,1 porção 
+1360,Arroz Pilaf (Outback),260,1 porção (200g)
+1361,Aussie Cheese Fries (Outback),327,1/6 batata
+1362,Chocolate Thunder From Down Under (Outback),1554,1 porção (128g)
+1363,The Outback Special (Outback),508,1 porção (325g)
+1364,Chicken Caesar Salad (Outback),698,1 salada
+1365,Alice Spring Chicken (Outback),784,1 porção (128g)
+1366,Bolacha Maisena (Outback),119,6 unidades (30g)
+1367,Outback Victoria's Filet (Outback),301,1 porção (230g)
+1368,Breadstick (Olive Garden),140,1 pão (50g)
+1369,Chicken Parmigiana (Olive Garden),660,1 prato (500g)
+1370,Zuppa Toscana Soup (Olive Garden),220,1 porção
+1371,Chicken & Gnocchi Soup (Olive Garden),230,1 porção
+1372,Shrimp Alfredo (Olive Garden),1450,1 porção
+1373,Frango Ao Molho de Espinafre (Petiskeira),581,1 porção (150g)
+1374,Feijoada de Contrafilé (Petiskeira),1035,1 porção
+1375,Italian Salad com Frango Grelhado (Petiskeira),508,1 porção
+1376,Frango Ao Molho de Espinafre com Legumes (Petiskeira),742,1 porção
+1377,Guacamole Salad com Frango Grelhado (Petiskeira),570,1 prato (300g)
+1378,Penne Matriciana (Petiskeira),888,100g
+1379,Truffle de Banana (Petiskeira),286,1 porção
+1380,Camarão Mediterrâneo (Petiskeira),827,1 porção
+1381,Club Chicken Salad (Petiskeira),449,1 porção
+1382,Molho Ranch (Petiskeira),178,1 porção
+1383,Frango à Milanesa Ao Molho de Espinafre (Petiskeira),1418,1 porção
+1384,Isca de Peixe à Milanesa (Risotto Mix),514,1 porção (400g)
+1385,Risotto de Carne Seca com Abóbora (Risotto Mix),570,1 prato (150g)
+1386,Risoto Napolitano (Risotto Mix),489,1 porção (150g)
+1387,Filet Mignon a Lá Parmeggiana (Risotto Mix),847,1 porção
+1388,Risoto de Camarão com Rúcula (Risotto Mix),608,1 porção (150g)
+1389,Risottinho de Carne Seca e Abóbora com Alcatra (Risotto Mix),818,1 porção
+1390,Strogonoff de Frango (Risotto Mix),939,1 porção
+1391,Calabresa Fininha Pizza (Grande) (Pizza Hut),187,1 fatia (79g)
+1392,Pepperoni Pan Pizza (Grande) (Pizza Hut),256,1 fatia (76g)
+1393,Pizza de Brigadeiro (Pizza Hut),198,1 fatia (68g)
+1394,Supreme Borda Recheada (Grande) (Pizza Hut),267,1 fatia (112g)
+1395,Calabresa Artezanale Pizza (Grande) (Pizza Hut),222,1 fatia  (93g)
+1396,Bacon C/ Requeijão Pan Pizza (Grande) (Pizza Hut),324,1 fatia (122g)
+1397,Corn & Bacon Pan Pizza (Média) (Pizza Hut),319,1 fatia (124g)
+1398,Mussarela Pan Pizza (Grande) (Pizza Hut),261,1 fatia (100g)
+1399,Frango C/ Requeijão Pan Pizza (Grande) (Pizza Hut),274,1 fatia (111g)
+1400,Calabresa Pan Pizza (Média) (Pizza Hut),280,1 fatia (107g)
+1401,Brasileira Pan Pizza (Grande) (Pizza Hut),268,1 fatia (111g)
+1402,Portuguesa Pan Pizza (Grande) (Pizza Hut),246,1 fatia (103g)
+1403,Breadsticks (Pizza Hut),140,1 stick (50g)
+1404,Marguerita Pan Pizza (Grande) (Pizza Hut),259,1 fatia (115g)
+1405,Pepperoni Pan Pizza (Média) (Pizza Hut),274,1 fatia (102g)
+1406,Corn & Bacon Pan Pizza (Pequena) (Pizza Hut),224,1 fatia (92g)
+1407,Supreme Pan Pizza (Grande) (Pizza Hut),304,1 fatia (127g)
+1408,Mussarela Fininha Pizza (Pequena) (Pizza Hut),160,1 fatia (66g)
+1409,Mussarela Borda Recheada Pizza (Grande) (Pizza Hut),234,1 fatia (93g)
+1410,Brasileira Pan Pizza (PPP) (Pizza Hut),173,1 fatia (74g)
+1411,Flatbread Italianinho (Quiznos),237,100g
+1412,Salada Frango Ranch Barbecue (Quiznos),116,100g
+1413,Flatbread Rosbife 4 Pimentas (Quiznos),316,100g
+1414,Flatbread Frango Caesar (Quiznos),396,1 unidade
+1415,Mini Pão de Queijo (Rei do Mate),36,1 unidade (13g)
+1416,Pão de Batata com Requeijão (Rei do Mate),264,1 unidade (90g)
+1417,Croissant de Frango com Requeijão (Rei do Mate),362,1 unidade (80g)
+1418,Hamburgão (Rei do Mate),473,1 unidade (150g)
+1419,Baguete Peito de Peru com Queijo (Rei do Mate),283,1 lanche (130g)
+1420,Quiche de Frango (Rei do Mate),122,1 unidade (100g)
+1421,Broa de Milho (Rei do Mate),238,1 unidade (100g)
+1422,Pão de Batata Calabresa (Rei do Mate),384,1 unidade
+1423,Pão de Batata com Catupiry (Rei do Mate),297,1 unidade
+1424,Café Expresso com Leite (Grande) (Rei do Mate),83,1 porção (120ml)
+1425,Empanada de Carne (Rei do Mate),184,1 empanada (100g)
+1426,Baguete com Queijo Branco com Tomate e Orégano (Rei do Mate),276,1 porção (130g)
+1427,Croissant de Quatro Queijos (Rei do Mate),361,1 unidade
+1428,Croissant Misto (Rei do Mate),358,1 unidade
+1429,Croissant Peito Peru C/Queijo Branco (Rei do Mate),357,1 unidade (40g)
+1430,Super Empada de Frango com Requeijão (Rei do Mate),173,100g
+1431,Mate com Limão (Rei do Mate),175,1 copo (500ml)
+1432,Suco de Abacaxi (Rei do Mate),58,1 copo (300ml)
+1433,Capuccino Gelado (Grande) (Rei do Mate),506,1 copo (500ml)
+1434,Copão de Pão de Queijo (Rei do Mate),432,12 unidades
+1435,Shimeji Na Manteiga (Sukiya),155,1 porção (65g)
+1436,Tokyo Shoyu Lamen (Sukiya),775,1 prato fundo (687g)
+1437,Curry Japonês M (Sukiya),1045,1 porção  (465g)
+1438,Missoshiru (Sukiya),37,1 pote (200g)
+1439,Kara-Ague Simples (Sukiya),431,4 pedaços (160g)
+1440,Tchashu Lamen (Sukiya),841,1 prato fundo (744g)
+1441,Curry Japonês G (Sukiya),1369,1 prato grande (635g)
+1442,Gyu-Don Tradicional M (Sukiya),1106,1 porção (380g)
+1443,Gyu-Don Negui-Tama P (Sukiya),858,1 prato pequeno (390g)
+1444,Gyu-Sara G (Sukiya),323,1 porção (145g)
+1445,Batata Frita Simples (Sukiya),427,1 porção (160g)
+1446,Gyu-Don Queijo G (Sukiya),1663,1 porção (555g)
+1447,Teriyaki Yakitori Don G (Sukiya),1599,1 porção (645g)
+1448,Gyu-Don Queijo M (Sukiya),1295,1 porção (430g)
+1449,Penne a Spedini (Spedini),973,1 prato (455g)
+1450,Risoto Funghi (Spedini),626,1 porção (417g)
+1451,Brigadeiro com Creme Crocante (Viena),191,1 unidade (50g)
+1452,Cheesecake De Ovomaltine (Viena),378,100g
+1453,Alface Americana (Ragazzo),7,1 porção (50g)
+1454,Ovo de Galinha Cozido (Ragazzo),78,1 unidade (50g)
+1455,Bolinho de Carne (Ragazzo),165,1 unidade (55g)
+1456,Coxinha de Frango com Cremily (Ragazzo),169,1 unidade (60g)
+1457,Pepino Japonês (Ragazzo),32,1 porção (30g)
+1458,Pastel de Belém de Chocolate (Ragazzo),170,1 unidade (50g)
+1459,Coxinha de Frango com Cremely (Ragazzo),154,1 unidade (60g)
+1460,Canelone de Presunto e Mussarela (Ragazzo),572,1 porção (300g)
+1461,Nhoque Recheado de Queijo (Ragazzo),428,1 unidade (260g)
+1462,Taça Simples - 2 Bolas (Ragazzo),270,1 unidade (135g)
+1463,Coxinha de Calabresa (Ragazzo),160,1 unidade (65g)
+1464,Empada de Doce de Leite com Queijo Fresco (Ragazzo),188,1 unidade (60g)
+1465,Coxinha de Quatro Queijos (Ragazzo),170,1 unidade  (65g)
+1466,Empada de Camarão (Ragazzo),167,1 unidade (55g)
+1467,Fogazza de Pizza (Ragazzo),283,1 unidade (85g)
+1468,Berinjela Antepasto (Ragazzo),88,1 porção (30g)
+1469,Coxinha de Carne Louca (Ragazzo),124,1 unidade (60g)
+1470,Molho Rosé (Ragazzo),349,7 colheres de sopa (70g)
+1471,Nhoque Ao Sugo (Ragazzo),151,1 porção (270g)
+1472,Abobrinha Escabechi (Ragazzo),57,2 colheres de sopa (30g)
+1473,Pão de Hambúrguer (The Fifties),208,1 unidade (70g)
+1474,Legumes Cozidos na Manteiga (The Fifties),87,1 porção (130g)
+1475,Suco de Morango (The Fifties),75,1 copo (350ml)
+1476,Hambúrguer de Picanha (The Fifties),311,1 unidade (150g)
+1477,Creme de Papaya (The Fifties),339,1 taça (306g)
+1478,Filet Mignon (The Fifties),328,1 unidade (240g)
+1479,Onion Rings (The Fifties),509,1 porção (180g)
+1480,Maionese (The Fifties),94,1 colher de sopa (12g)
+1481,Pic Burguer (The Fifties),848,1 porção (350g)
+1482,Fritas Fifties (The Fifties),198,1/3 porção (85g)
+1483,Salmon Salad (The Fifties),459,1 unidade (303g)
+1484,Onion Burguer (The Fifties),615,1 unidade (310g)
+1485,Veggie Burger (The Fifties),404,1 porção (285g)
+1486,Brownie (The Fifties),775,1 taça (250g)
+1487,Beirute Peito de Peru Defumado Fifties® (The Fifties),1049,1 unidade (403g)
+1488,Salada Acompanhamento (The Fifties),254,1 porção (135g)
+1489,Turkey Burger (The Fifties),253,1 unidade (350g)
+1490,Pic Oceania (The Fifties),729,1 sanduíche (150 g de carne) (305g)
+1491,Cheesalight (The Fifties),612,1 sanduiche (283g)
+1492,Pic Americano (The Fifties),1017,1 unidade (400g)
+1493,Batata Frita Pequena (Wendy's),243,1 porção (115g)
+1494,Baconator (Wendy's),627,1 porção  (230g)
+1495,Porção de Nachos (Taco Bell),137,1 porção (38g)
+1496,Sour Cream (Taco Bell),82,1 unidade (34g)
+1497,Burrito Supreme Beef (Taco Bell),408,1 unidade (224g)
+1498,Cheese Quesadilla (Taco Bell),491,1 unidade (149g)
+1499,Porção de Fritas (Taco Bell),370,1 porção (113g)
+1500,Crunchy Taco Beef (Taco Bell),163,1 unidade  (83g)
+1501,Burrito Supreme Frango (Taco Bell),410,1 unidade (224g)
+1502,Cheesy Beef Burrito (Taco Bell),428,1 porção (191g)
+1503,Burrito Supreme Bean (Taco Bell),403,1 porção (225g)
+1504,Side Guacamole (Taco Bell),28,1 unidade (21g)
+1505,Crunchy Taco Chicken (Taco Bell),152,1 taco (83g)
+1506,Side Nacho Cheese (Taco Bell),63,1 side (28g)
+1507,Crunchy Taco Supreme Chicken (Taco Bell),200,1 unidade (116g)
+1508,Bowl Executivo Frango (Taco Bell),491,1 porção (350g)
+1509,Crunchwrap Supreme Carne Moída (Taco Bell),695,1 porção  (295g)
+1510,Crunchwrap Supreme Beef (Taco Bell),571,1 crunch wrap (258g)
+1511,Chocodilla (Taco Bell),195,1 porção (49g)
+1512,Cheesy Fries (Taco Bell),560,1 unidade (91g)
+1513,Quesadilla de Frango (Taco Bell),545,1 porção (192g)
+1514,Crunchy Taco Carne Moída (Taco Bell),208,1 porção (77g)
+1515,Tilápia Grelhada (Vivenda do Camarão),135,1 porção (160g)
+1516,Arroz com Brócolis (Vivenda do Camarão),200,4 colheres de sopa (200g)
+1517,Camarão Frito (Vivenda do Camarão),371,1 prato (155g)
+1518,Strogonoff de Camarão (Vivenda do Camarão),424,1 porção (230g)
+1519,Batata Chips (Vivenda do Camarão),182,1 porção (30g)
+1520,Batata Sautée (Vivenda do Camarão),143,1 porção (166g)
+1521,Risoto de Camarão (Vivenda do Camarão),518,1 porção (440g)
+1522,Moqueca de Camarão (Vivenda do Camarão),274,1 prato (230g)
+1523,Camarão Empanado (Vivenda do Camarão),246,1 porção (216g)
+1524,Bobó de Camarão (Vivenda do Camarão),195,1 porção (230g)
+1525,Pirão de Peixe (Vivenda do Camarão),87,1 porção
+1526,Camarão Ao Catupiry (Vivenda do Camarão),420,1 prato (230g)
+1527,Salmão Grelhado (Vivenda do Camarão),361,1 porção (170g)
+1528,Camarão Grelhado (Vivenda do Camarão),69,1 prato (140g)
+1529,Arroz Branco (Vivenda do Camarão),271,1 porção (200g)
+1530,Risoto Milanês de Camarão (Vivenda do Camarão),616,1 prato (440g)
+1531,Peixe Empanado (Vivenda do Camarão),531,1 porção (170g)
+1532,Camarão Ao 4 Queijos (Vivenda do Camarão),506,1 porção (230g)
+1533,Peixe Empanado Ao Molho de Camarão (Vivenda do Camarão),606,1 porção (315g)
+1534,Batata Frita (Vivenda do Camarão),456,1 porção (156g)
+1535,Cenoura (Spoleto),6,1 pegada (15g)
+1536,Milho (Spoleto),15,1 pegada (15g)
+1537,Azeite (Spoleto),62,1 colher sobremesa rasa (5g)
+1538,Abobrinha Cozida (Spoleto),3,1 pegada (15g)
+1539,Molho Branco (Spoleto),104,2 conchas
+1540,Carne de Sol (Spoleto),26,1 pegada (15g)
+1541,Calabresa (Spoleto),53,1 pegada (15g)
+1542,Camarão Cozido (Spoleto),10,1 pegada (15g)
+1543,Alho-Poró (Spoleto),8,1 pegada (15g)
+1544,Tomate Seco (Spoleto),66,1 pegada (15g)
+1545,Molho Quatro Queijos (Spoleto),142,2 conchas (150g)
+1546,Peito de Frango Desfiado (Spoleto),21,1 pegada (15g)
+1547,Berinjela Cozida (Spoleto),3,1 pegada (15g)
+1548,Brócolis (Spoleto),3,1 pegada (15g)
+1549,Torrada Temperada (Spoleto),46,5 unidades (20g)
+1550,Ervilha (Spoleto),12,1 pegada (15g)
+1551,Lasanha Bolonhesa (Spoleto),507,1 porção (300g)
+1552,Tomate (Spoleto),2,1 pegada (15g)
+1553,Queijo Gorgonzola (Spoleto),52,1 pegada (15g)
+1554,Polpettone de Carne (Spoleto),280,1 polpetone (150g)
+1555,Sonho com Doce de Leite (Angeloni),109,1/2 unidade (30g)
+1556,Rocambole Doce de Leite (Angeloni),189,1 fatia (60g)
+1557,Mil Folhas (Angeloni),114,1 porção (50g)
+1558,Pão de Cachorro Quente (Angeloni),289,2 unidades (50g)
+1559,Pão Francês Amanteigado (Angeloni),163,1 unidade (50g)
+1560,Pão de Hambúrguer (Angeloni),167,2 pães (50g)
+1561,Strudell de Maçã (Angeloni),131,1 pedaço (40g)
+1562,Cavaquinho (Angeloni),118,1 porção (40g)
+1563,Pão Cervejinha (Angeloni),136,1 unidade (50g)
+1564,Doguinho (Angeloni),111,1 unidade (40g)
+1565,Grissini Parmesão (Angeloni),107,3 unidades (30g)
+1566,Contra Filé (Angeloni),239,100g
+1567,Pao Semi Italiano (Angeloni),122,1 porção (50g)
+1568,Pão de Queijo Parmesão (Angeloni),147,1 unidade (50g)
+1569,Pão Melão (Angeloni),188,1 porção (60g)
+1570,Macron (Angeloni),125,1 unidade  (25g)
+1571,Bolo Mesclado (Angeloni),175,1 porção (60g)
+1572,Pão Caseiro Baixa Lactose (Angeloni),120,1 porção (2 fatias) (50g)
+1573,Pão Amanteigado (Angeloni),315,1 unidade (50g)
+1574,Folhado Napolitano Verduras (Angeloni),116,1 porção (40g)
+1575,Castanha do Pará (Bourbon),195,6 unidades (30g)
+1576,Ameixa Preta sem Caroço (Bourbon),30,100g
+1577,Biscoito Três Queijos (Bourbon),132,2 unidades (50g)
+1578,Choco Brownie (Bourbon),68,1 brownie (14g)
+1579,Granola Salgada (Wraps),79,1 colher de sopa (15g)
+1580,Salada Verde (Wraps),204,1 porção
+1581,Gaspacho Light (Wraps),108,1 porção
+1582,Wrap Viking (Wraps),215,1 wrap
+1583,Wrap Yankee (Wraps),480,1 porção
+1584,Wraps Cigano (Wraps),221,1/2 porção
+1585,Shot de Abacaxi (Wraps),23,1 shot (35ml)
+1586,Salada Caesar Entrada (Wraps),191,1 porção
+1587,Smoothie Itaparica (Wraps),175,1 copo (330ml)
+1588,Frozen Yogurt (Yogoberry),88,100g
+1589,Diet (Yogoberry),69,100g
+1590,Frozen Yogurt de Caramelo (Yogoberry),130,1 copo pequeno (120g)
+1591,Pão Francês (Bistek),109,1 unidade (50g)
+1592,Uva Passa Preta (Bistek),80,1 porção (30g)
+1593,Presunto Cozido sem Gordura (Bistek),37,3 fatias (40g)
+1594,Pão de Queijo (Bistek),79,1 unidade (25g)
+1595,Escondidinho de Batata Doce com Frango (Dita Marmita),546,1 unidade (400g)
+1596,Frango com Mix de Legumes (Dita Marmita),284,1 unidade (300g)
+1597,Pão de Queijo com Batata Doce e Chia (Dita Marmita),97,1 unidade (40g)
+1598,Couve Flor (Carrefour),23,100g
+1599,Mini Pão Francês (Carrefour),68,1 unidade (25g)
+1600,Pão de Hambúrguer (Carrefour),125,1 porção (60g)
+1601,Uva sem Sementes (Carrefour),53,100g
+1602,Rosca de Coco (Carrefour),153,1 porção (50g)
+1603,Sonho Doce de Leite (Carrefour),216,1 unidade (40g)
+1604,Ovo (Carrefour),83,1 porção (55g)
+1605,Filet Saint Peter (Carrefour),121,100g
+1606,Pepino em Conserva (Carrefour),11,5 unidades (50g)
+1607,Carne Moída de Alcatra (Carrefour),163,100g
+1608,Pão Francês Integral (Carrefour),130,1 1/2 unidades (75g)
+1609,Pão Caseiro (Carrefour),179,1 1/2 fatias (50g)
+1610,Pão Sovado (Carrefour),114,1 fatia (50g)
+1611,Pão de Semolina (Carrefour),117,1 fatia (30g)
+1612,Ameixa Seca sem Caroço (Carrefour),120,10 unidades (50g)
+1613,Pão de Pizza (Carrefour),129,1 unidade (40g)
+1614,Biscoito Chipa (Carrefour),155,1 unidade (50g)
+1615,Pão de Queijo (Carrefour),138,2 unidades (50g)
+1616,Pao Hot Dog (Carrefour),137,1 porção  (50g)
+1617,Frango Assado (Carrefour),239,100g
+1618,Batata Palha Extra Fina (BH),107,1/2 xícara de chá (17g)
+1619,Pão de Queijo (BH),117,4 unidades (50g)
+1620,Biscoito Maisena (BH),132,6 unidades (30g)
+1621,Feijão Carioca (BH),159,1/2 xícara de chá (60g)
+1622,Leite Integral (BH),113,1 copo (200ml)
+1623,Leite Desnatado (BH),61,1 copo (200ml)
+1624,Lasanha Congelada à Bolonhesa (BH),413,1 porção (300g)
+1625,Cream Cracker (BH),124,6 biscoitos (30g)
+1626,Bisnaguinha (BH),159,2 unidades (50g)
+1627,Biscoito Água e Sal (BH),124,6 unidades (30g)
+1628,Batata Ondulada Tradicional (BH),99,1 xícara de chá  (20g)
+1629,Leite Fermentado Desnatado (BH),68,1 unidade (80g)
+1630,Pizza (BH),191,100g
+1631,Pão de Forma (BH),133,2 fatias (50g)
+1632,Pipoca (BH),82,1 xicara (25g)
+1633,Farinha de Trigo (BH),169,1/2 xicara (50g)
+1634,Wafer Sabor Chocolate (BH),173,4 unidades (30g)
+1635,Suco de Uva (BH),35,1 copo (200ml)
+1636,Tomate Picado (Casino),26,1 porção (130g)
+1637,Passata de Tomate (Casino),19,3 colheres de sopa (60g)
+1638,Tomate Pelado (Casino),26,1/2 xícara de chá (130g)
+1639,Palmiers (Casino),88,2 biscoitos (17g)
+1640,Creme de Avelã com Cacau (Casino),107,1 colher de sopa (20g)
+1641,Biscoito Waffle Amanteigado (Casino),148,3 biscoitos  (30g)
+1642,Biscoito de Manteiga com Cobertura de Chocolate Ao Leite (Casino),151,2 1/2 unidades (30g)
+1643,Biscoito Amanteigado com Cobertura de Chocolate Meio Amargo (Casino),146,2 1/2 unidades (30g)
+1644,Presunto Cru Italiano Fatiado (Casino),127,3 fatias (40g)
+1645,Chocolate Amargo 85% Cacau (Casino),139,1/4 unidade (25g)
+1646,Biscoito Recheado de Chocolate e Avelã (Casino),155,3 unidades (30g)
+1647,Geléia de Framboesa (Casino),49,1 colher de sopa (20g)
+1648,Lichias em Calda (Casino),115,5 unidades (140g)
+1649,Mention Bien (Casino),146,2 1/2 bolachas (30g)
+1650,Chocolate Amargo com Amêndoas (Casino),143,1 porção (25g)
+1651,Chocolate Amargo com Flor de Sal (Casino),124,1/4 barra (25g)
+1652,Duo Creme de Avelã com Cacau (Casino),105,1 porção (20g)
+1653,Passata de Tomate com Manjericão (Casino),15,3 colheres de sopa (60g)
+1654,Macarrão Serpentini (Casino),283,1 porção (80g)
+1655,Noir Degustation 70% Cacao Intense (Casino),131,1 porção (25g)
+1656,Açúcar Mascavo (Condor),107,2 colheres de sopa (30g)
+1657,Pão Integral (Condor),141,2 fatias (50g)
+1658,Farinha Láctea (Condor),119,3 colheres de sopa (30g)
+1659,Pão de Forma (Condor),141,2 fatias (50g)
+1660,Pizza de Calabresa (Condor),234,100g
+1661,Chocotone (Condor),316,1 porção (80g)
+1662,Pão de Hambúrguer (Condor),320,100g
+1663,Macarrão Integral (Condor),280,1 porção (80g)
+1664,Pão de Leite (Condor),149,2 1/2 fatias (50g)
+1665,Salada de Frutas sem Açúcar (Guanabara),49,100g
+1666,Cavaca de Milho (Guanabara),120,1 unidade (50g)
+1667,Pão de Batata Recheado (Guanabara),190,1 unidade (50g)
+1668,Pão Francês (Guanabara),80,1 pão (40g)
+1669,Bife de Res a Milanesa (Guanabara),183,100g
+1670,Pão Francês Integral (Guanabara),108,1 pão (50g)
+1671,Pão Coiozinho (Guanabara),80,1 unidade (25g)
+1672,Pão de Leite (Guanabara),130,1 porção  (50g)
+1673,Pão de Forma (Guanabara),90,1 fatia (25g)
+1674,Pão Integral (Guanabara),90,1 fatia (25g)
+1675,Pão Sovado (Guanabara),150,1 porção (50g)
+1676,Bisnaguinha (Guanabara),70,1 porção (20g)
+1677,Broa de Milho (Guanabara),140,1 fatia (40g)
+1678,Bolo Nega Maluca (Giassi),209,1 fatia (60g)
+1679,Pão Doce Liso (Giassi),199,2 pedaços (80g)
+1680,Pão Ciabata Tradicional (Giassi),160,1 fatia (80g)
+1681,Bolo Cuca Alemã Goiabada (Giassi),119,1 porção (64g)
+1682,Feijão Preto (Giassi),97,1 porção (60g)
+1683,Bolo de Chocolate Mesclado (Giassi),133,1 fatia (50g)
+1684,Baguete Francesa (Giassi),215,1 fatia (90g)
+1685,Bolo de Limão (Giassi),90,1 fatia (64g)
+1686,Rosquinha de Polvilho (Giassi),27,8 unidades (10g)
+1687,Broa de Polvilho (Giassi),94,2 unidades (30g)
+1688,Rosca de Polvilho Light (Giassi),230,100g
+1689,Maria Mole (Giassi),26,1 unidade (10g)
+1690,Pão Cuca Integral (Giassi),191,1 porção (60g)
+1691,Sanduíche Frio Integral (Giassi),238,1 porçao (200g)
+1692,Queijo Mussarela Fatiado (Giassi),96,1 fatia (30g)
+1693,Patê de Calabresa (Giassi),25,1 colher de sopa (10g)
+1694,Pão Francês (Giassi),135,1 porção (50g)
+1695,Pão de Queijo (50g) (Giassi),175,1 unidade (50g)
+1696,Pão de Queijo (35g) (Giassi),106,1 unidade (35g)
+1697,Pão Minuto Liso (Giassi),129,1 porção (52g)
+1698,Rosca de Polvilho Salgada (Imperatriz),74,1 porção (40g)
+1699,Bolo de Aipim Cremoso (Imperatriz),170,1 fatia (60g)
+1700,Pão de Queijo (Imperatriz),68,1 unidade (60g)
+1701,Maçã (Great Value),52,100g
+1702,Nozes sem Casca (Great Value),100,4 unidades (15g)
+1703,Biscoito Amanteigado (Great Value),143,3 unidades (30g)
+1704,Mix de 4 Legumes (Great Value),59,1 xícara de chá (130g)
+1705,Uva Fina de Mesa (Great Value),53,100g
+1706,Coxinha de Frango (Great Value),65,1 1/2 unidade (40g)
+1707,Azeite de Oliva Extra Virgem (Great Value),108,1 colher de sopa  (13ml)
+1708,Ovo Vermelho Classe a (Great Value),74,1 porção (50g)
+1709,Chocolate com Avelã (Great Value),131,1/4 unidade (25g)
+1710,Mix de Legumes (Great Value),25,2 xícaras de chá (130g)
+1711,Truffles (Great Value),147,2 1/2 unidades (25g)
+1712,Uva-Passa Escura sem Semente (Great Value),90,3 colheres de sopa (30g)
+1713,Azeitona Verde com Caroço (Great Value),28,6 unidades (20g)
+1714,Bacon em Fatias (Great Value),45,1 fatia (10g)
+1715,Creme de Avelã e Cacau (Great Value),105,1 colher de sopa (20g)
+1716,Batata Palito (Great Value),78,1 xícara (85g)
+1717,Geleia de Morango Zero (Great Value),11,100g
+1718,Cappuccino Caramelo (Great Value),80,2 colheres de sopa (20g)
+1719,Queijo Processado Sabor Cheddar (Great Value),87,1 1/2 fatias (30g)
+1720,Polpa de Morango (Great Value),40,100g
+1721,Fígado Bovino (Extra),130,100g
+1722,Feijão Tropeiro (Extra),422,100g
+1723,Frango Assado (Extra),188,100g
+1724,Pão Francês (Extra),112,1 unidade (50g)
+1725,Pão Suíço (Extra),96,1 unidade (50g)
+1726,Pão Sovado (Extra),105,1 fatia (50g)
+1727,Pão de Leite (Extra),105,1 porção (50g)
+1728,Uva Rubi (Extra),49,100g
+1729,Pão Francês Integral (Extra),97,1 porção (30g)
+1730,Miolo de Acém (Extra),101,1 pedaço (70g)
+1731,Pão Italiano (Extra),100,100g
+1732,Mussarela (Extra),97,1 porção (30g)
+1733,Charque Dianteiro (Extra),40,1 porção (30g)
+1734,Inhame (Extra),113,2 porções 
+1735,Pão Hot Dog (Extra),123,1 unidade (50g)
+1736,Salada de Feijão Branco (Extra),178,1 porção (50g)
+1737,Pão de Cará (Extra),104,1 unidade  (50g)
+1738,Mini Pão Francês (Extra),173,2 unidades (50g)
+1739,Pão de Batata com Requeijão (Extra),155,1 fatia (50g)
+1740,Pão de Pizza (Extra),130,1 fatia (50g)
+1741,Chipa (Festval),238,1 unidade (70g)
+1742,Pão de Queijo Provolone (Festval),92,1 unidade (35g)
+1743,Sanduíche Natural (Festval),365,1 porção (170g)
+1744,Pão de Queijo (Festval),138,1 porção (50g)
+1745,Strudel de Banana (Festval),248,1 unidade (65g)
+1746,Suco de Laranja (Festval),72,1 copo (200ml)
+1747,Salada de Frango (Festval),183,1 porção (130g)
+1748,Brownie Triplo Chocolate (Festval),234,1 porção (50g)
+1749,Pão de Forma Integral (Festval),126,2 fatias (50g)
+1750,Folhado de Coco (Festval),223,1 porção (50g)
+1751,Pizza Frango com Catupiry (Festval),206,1/2 pizza (80g)
+1752,Pão Mini de Cenoura (Festval),125,2 unidades (50g)
+1753,Pão de Hambúrguer (Festval),161,1 e ½ unidades (50g)
+1754,Pizza 4 Queijos (Festval),292,1 fatia (90g)
+1755,Pão de Queijo Tradicional (DIA),125,2 unidades (50g)
+1756,Manga Rosa (DIA),70,100g
+1757,Manga Espada (DIA),72,100g
+1758,Bolacha de Maisena (DIA),121,6 biscoitos (30g)
+1759,Biscoito Amanteigado com Goiabada (DIA),141,4 unidades (30g)
+1760,Cajá Manga (DIA),46,100g
+1761,Pescada Branca (DIA),111,100g
+1762,Filezinho Grelhado (DIA),117,100g
+1763,Pão de Forma Tradicional (DIA),147,2 fatias (50g)
+1764,Pão Francês (DIA),120,1 unidade (50g)
+1765,Macarrão Espaguete (DIA),280,1 prato (80g)
+1766,Mix 4 Legumes (DIA),69,1 porção (130g)
+1767,Queijo Mussarela (DIA),102,1 fatia (30g)
+1768,Pão Integral (DIA),143,2 fatias (50g)
+1769,Requeijão Light (DIA),59,1 colher de sopa (30g)
+1770,Iogurte Natural Desnatado (DIA),52,1 unidade (170g)
+1771,Creme de Avelã (DIA),105,1 colher de sopa (20g)
+1772,Linguiça tipo Calabresa Cozida e Defumada (DIA),136,1/3 unidade (50g)
+1773,Patinho Moído (DIA),220,100g
+1774,Pão Sovado (DIA),148,1 porção (50g)
+1775,Maionese tipo Caseira (Liza),37,1 colher de sopa (12g)
+1776,Maionese (Liza),21,1 colher de sopa (12g)
+1777,Óleo de Soja (Liza),108,1 colher de sopa (13g)
+1778,Molho Caesar (Liza),26,1 colher de sopa (13ml)
+1779,Molho para Salada Rosé (Liza),26,1 colher de sopa (13ml)
+1780,Maionese Light (Liza),21,1 colher de sopa (12g)
+1781,Molho para Salada Queijos (Liza),25,1 colher de sopa (13ml)
+1782,Molho para Salada Mostarda e Mel (Liza),14,1 colher de sopa (12g)
+1783,Maionese Caseira (Liza),37,1 colher de sopa (12g)
+1784,Molho para Salada Limão (Liza),19,1 colher de sopa (13ml)
+1785,Molho Caseiro (Liza),21,1 colher de sopa (13ml)
+1786,Óleo de Milho (Liza),108,1 colher de sopa (13ml)
+1787,Óleo de Girassol (Liza),108,1 porção (13ml)
+1788,Maionese Ervas Finas (Liza),23,1 colher de sopa (12g)
+1789,Molho para Salada Balsâmico (Liza),13,1 colher de sopa (12g)
+1790,Molho para Salada Sabor Iogurte (Liza),27,1 colher de sopa (13ml)
+1791,Molho Caseiro Light (Liza),16,1 colher de sopa (13ml)
+1792,Maionese Sabor Queijo (Liza),23,1 porção (12g)
+1793,Maionese Atum (Liza),26,1 colher de sopa (12g)
+1794,Cebola Roxa (Mateus),45,1 unidade
+1795,Pão de Leite (Mateus),136,2 fatias (50g)
+1796,Pão Francês (Mateus),105,1 unidade (50g)
+1797,Pão de Forma Integral (Mateus),66,1 fatia (25g)
+1798,Pão Preto (Mateus),85,1 fatia  (25g)
+1799,Pão de Forma (Mateus),154,2 fatias (50g)
+1800,Bisnaguinha de Leite (Mateus),353,100g
+1801,Guioza de Frango (Hirota),88,2 unidades (70g)
+1802,Combinado Temaki Sushi (Hirota),294,100g
+1803,Combinado Misto 290G (Hirota),246,1 porção (290g)
+1804,Patinho Moído (Hirota),140,100g
+1805,Hambúrguer Fit (Hirota),120,1 porção (125g)
+1806,Sopa Cenoura com Gengibre (Hirota),26,100g
+1807,Pãozinho de Leite (Muffato),150,1 1/2 porção (50g)
+1808,Bolo Simples de Coco (Muffato),190,1 fatia (60g)
+1809,Bolo Prestigio (Muffato),192,1 fatia (60g)
+1810,Mini Sonho Goiaba (Muffato),194,4 unidades (60g)
+1811,Bolo Simples de Amendoim (Muffato),234,1 fatia (60g)
+1812,Pão de Queijo (Muffato),90,1 unidade (50g)
+1813,Panetone Tradicional (Muffato),124,1 fatia (32g)
+1814,Sanduiche Natural de Frango (Muffato),184,100g
+1815,Pão Caseiro (Muffato),126,1 fatia (50g)
+1816,Baguete de Frango (Muffato),215,100g
+1817,Pão de Batata Doce (Muffato),104,1 porção (50g)
+1818,Torta de Limão (Muffato),181,1/2 fatia (60g)
+1819,Tortelete de Limão (Muffato),158,1 fatia (50g)
+1820,Bolo Simples de Chocolate (Muffato),220,1 fatia (60g)
+1821,Torta de Frango (Muffato),168,1 porção (125g)
+1822,Pão de Leite (Muffato),71,1 fatia (23g)
+1823,Bolo de Fubá (Muffato),183,1 fatia (60g)
+1824,Torta de Amendoim (Muffato),192,1/2 fatia (60g)
+1825,Pão Francês (Muffato),126,1 porção (50g)
+1826,Pão de Hambúrguer (Muffato),232,1 unidade  (83g)
+1827,Biscoito de Polvilho com Queijo (Nordestão),95,1 porçao (10unid) (30g)
+1828,Pão Australiano (Nordestão),63,1 unidade (30g)
+1829,Pão Integral (Nordestão),90,2 fatias (50g)
+1830,Pão de Forma Integral (Nordestão),90,2 fatias (50g)
+1831,Castanha de Caju (Oba),86,7 unidades  (15g)
+1832,Coco Fresco em Lasca (Oba),79,2 undiades (12g)
+1833,Abóbora Cabotia (Oba),39,100g
+1834,Suco de Melancia (Oba),60,1 copo (200ml)
+1835,Castanha do Pará (Oba),98,2 castanhas  (15g)
+1836,Suco de Abacaxi & Couve (Oba),88,1 copo (200ml)
+1837,Bolo Caçarola Italiana (Oba),186,1 fatia (60g)
+1838,Água de Coco (Oba),38,1 copo  (200ml)
+1839,Caldo Verde (Oba),163,1 porção (250g)
+1840,Salada de Frutas (Oba),52,100g
+1841,Palmito Rodela (Oba),50,100g
+1842,Salada de Bacalhau (Oba),158,100g
+1843,Hambúrguer (Oba),289,1 unidade (120g)
+1844,Tapioca (Oba),64,2 colheres de sopa (30g)
+1845,Açaí com Guaraná e Banana (Oba),200,1 copo  (200ml)
+1846,Hambúrguer de Costela Bovina (Oba),715,1 porção (210g)
+1847,Almôndegas de Carne (Oba),244,100g
+1848,"Suco de Maçã, Abacaxi e Gengibre (Oba)",91,1 copo (200ml)
+1849,Hambúrguer de Picanha (Oba),556,1 porção (210g)
+1850,Água de Coco (Oba),19,100ml
+1851,Queijo Muçarela (Prezunic),127,2 fatias (40g)
+1852,Bolo de Milho Verde (Prezunic),53,2 fatias (40g)
+1853,Queijo Prato (Prezunic),53,1 fatia (15g)
+1854,Pão Calabresa com Queijo (Prezunic),110,1 porção (50g)
+1855,Pão de Hambúrguer (Prezunic),150,1 unidade (50g)
+1856,Pão de Milho (Prezunic),130,2 fatias (50g)
+1857,Requeijão Light (Prezunic),50,1 porção (30g)
+1858,Milho de Pipoca (Prezunic),77,1 xicara de cha (25g)
+1859,Pão de Forma (Prezunic),150,2 fatias (50g)
+1860,Doce Amendoim Saborita (Prezunic),65,1 porção (20g)
+1861,Aveia em Flocos Finos (Prezunic),120,2 colheres de sopa (30g)
+1862,Farinha de Aveia (Prezunic),200,1/2 xícara de chá (50g)
+1863,Atum Sólido Ao Natural (Prezunic),55,3 colheres de sopa (60g)
+1864,Queijo Parmesão Ralado (Prezunic),50,1 colher de sopa (10g)
+1865,Creme de Avelã com Cacau (Prezunic),105,1 colher de sopa (20g)
+1866,Goiabada (Prezunic),124,100g
+1867,Pão de Tomate Seco (Prezunic),130,2 fatias (50g)
+1868,Pão Light de Linhaça (Prezunic),129,2 fatias  (50g)
+1869,Pão Light Integral (Prezunic),108,2 fatias (50g)
+1870,Pão Light Multigrãos (Prezunic),115,2 fatias (50g)
+1871,Brócolis Alho e Óleo (Pão de Açúcar),158,100g
+1872,Torta de Frango (Pão de Açúcar),148,1 pedaço (60g)
+1873,Medalhão de Filé Mignon (Pão de Açúcar),142,100g
+1874,Torta de Presunto e Queijo (Pão de Açúcar),216,1 fatia (60g)
+1875,Torta de Palmito (Pão de Açúcar),139,1 fatia (60g)
+1876,Berinjela Recheada com Carne Moída (Pão de Açúcar),230,100g
+1877,Polenta Frita (Pão de Açúcar),237,100g
+1878,Kibe Assado (Pão de Açúcar),75,1 porção (40g)
+1879,Mousse de Chocolate (Pão de Açúcar),213,100g
+1880,Sonho de Chocolate (Pão de Açúcar),191,1 pedaço  (100g)
+1881,Hossomaki de Salmão (Pão de Açúcar),119,1 porção (140g)
+1882,Croissant (Pão de Açúcar),164,1 unidade (50g)
+1883,Sonho de Baunilha (Pão de Açúcar),184,100g
+1884,Pão Rústico Tradicional (Pão de Açúcar),128,1/4 peça  (75g)
+1885,Legumes Salteados (Pão de Açúcar),60,1/4 xícara (50g)
+1886,Quiche de Alho Poró (Pão de Açúcar),160,1 fatia (40g)
+1887,Salada Caprese Contemporânea (Pão de Açúcar),63,1/4 xícara (50g)
+1888,Uramaki Skin (Pão de Açúcar),69,1 porção (160g)
+1889,Torta de Espinafre com Ricota (Pão de Açúcar),143,1 fatia (60g)
+1890,Sanduíche de Presunto e Queijo (Pão de Açúcar),292,1/2 sanduíche (150g)
+1891,Rosbife Temperado (Quitanda),253,100g
+1892,Queijo Minas Frescal Light (Quitanda),56,1 fatia (30g)
+1893,Biscoito de Polvilho com Queijo (Pastorinho),79,1 porção (30g)
+1894,Uva sem Semente Crimson (Qualitá),53,100g
+1895,Tomate Cereja (Qualitá),10,1/2 xícara de chá (50g)
+1896,Maçã (Qualitá),70,1 maçã pequena (135g)
+1897,Nozes sem Casca (Qualitá),100,1 colher de sopa (15g)
+1898,Abacaxi em Cubos (Qualitá),64,1 pote (120g)
+1899,Uva sem Semente (Qualitá),54,100g
+1900,Uva Niagara (Qualitá),68,100g
+1901,Chipa de Queijo (Qualitá),167,1 unidade (50g)
+1902,Palmito Açaí (Qualitá),11,1 unidade (50g)
+1903,Feijão Carioca (Qualitá),43,100g
+1904,Uva com Sementes (Qualitá),27,1/2 xícara de chá (50g)
+1905,Ovo tipo Extra Branco (Qualitá),100,1 unidade (60g)
+1906,Uva Passa Clara sem Semente (Qualitá),90,2 colheres de sopa (30g)
+1907,Queijo Muçarela (Qualitá),103,1 porção (30g)
+1908,Pera Portuguesa (Qualitá),56,100g
+1909,Uva sem Sementes (Qualitá),54,100g
+1910,Ovo Caipira (Qualitá),92,1 unidade (55g)
+1911,Torta de Frango com Requeijão (Qualitá),361,1 fatia (125g)
+1912,Biscoito de Polvilho (Qualitá),138,25 unidades (30g)
+1913,Pernil Suíno Temperado (Qualitá),94,100g
+1914,Castanha de Caju (Member's Mark),91,6 unidades (15g)
+1915,Mini Baguete (Member's Mark),130,1/2 unidade (50g)
+1916,Azeitonas Gordal (Member's Mark),22,2 unidades (20g)
+1917,Mil Folhas (Member's Mark),158,3 unidades (30g)
+1918,Passata Tomate Cereja (Member's Mark),18,3 colheres de sopa (60g)
+1919,Belgian Truffles Tradicional (Member's Mark),143,1 1/2 unidades (25g)
+1920,Mini Pão Francês Integral (Member's Mark),121,2 unidades (50g)
+1921,Sfogliatine (Member's Mark),166,3 unidades (30g)
+1922,Mini Baguete com Gergelim (Member's Mark),143,1/2 unidade (50g)
+1923,Requeijão Cremoso (Member's Mark),73,1 colher de sopa (30g)
+1924,Castanha do Pará (Member's Mark),98,4 unidades (15g)
+1925,Torrada Integral (Member's Mark),112,4 torradas (30g)
+1926,Palmito Pupunha (Member's Mark),12,1 unidade (50g)
+1927,Creme de Avelã Duo (Member's Mark),116,1 colher de sopa (20g)
+1928,Trufa com Pedaços de Cacau (Member's Mark),153,2 e 1/2 unidades (25g)
+1929,Creme de Chocolate Duo Cookies (Member's Mark),117,1 colher de sopa (20g)
+1930,Azeite de Oliva Extra Virgem (Member's Mark),108,1 colher de sopa (13ml)
+1931,Requeijão Cremoso Light (Member's Mark),46,1 porção (30g)
+1932,Waffle de Caramelo (Member's Mark),128,1 porção (30g)
+1933,Biscoito de Polvilho Salgado (Member's Mark),138,25 unidades (30g)
+1934,Pão Delícia (Rissul),78,1 unidade (20g)
+1935,Bolo de Fubá (Rissul),180,100g
+1936,Rosquinha de Polvilho e Queijo (Rissul),211,100g
+1937,Quiche de Alho Poro (St. Marche),228,100g
+1938,Pão Francês Integral (St. Marche),116,1 unidade (50g)
+1939,Bolo de Coco Gelado (St. Marche),386,1 unidade (150g)
+1940,Pão de Leite (St. Marche),87,1 unidade  (30g)
+1941,Chipa (St. Marche),118,1 unidade (40g)
+1942,Kibe Assado (St. Marche),195,100g
+1943,Torta de Palmito (St. Marche),198,100g
+1944,Sanduiche Frango com Cream Cheese (St. Marche),324,1 porção (160g)
+1945,Torta de Frango com Catupiry (St. Marche),239,100g
+1946,Rosca de Leite Condensado com Chocolate (St. Marche),151,4 biscoitos  (30g)
+1947,Quiche Lorraine (St. Marche),330,100g
+1948,Bolo de Banana com Nozes (St. Marche),220,1 fatia (60g)
+1949,Castanha de Caju sem Sal (St. Marche),57,1 colher de sopa (15g)
+1950,Pāo de Hot Dog Mini (St. Marche),140,1 porção (50g)
+1951,Pão de Queijo (St. Marche),151,2 unidades (50g)
+1952,Homus (St. Marche),111,2 colheres de sopa (60g)
+1953,Pão Francês (St. Marche),177,1 unidade (80g)
+1954,Pão de Queijo (St. Marche),111,1 unidade (40g)
+1955,Bolo de Chocolate (St. Marche),225,1 porção (60g)
+1956,Hambúrguer de Salmão (St. Marche),175,1 unidade  (152g)
+1957,Pão de Milho (Shibata),117,1 unidade (40g)
+1958,Pão Careca (Shibata),102,1 porção (35g)
+1959,Pão Francês Integral (Shibata),129,1 fatia (50g)
+1960,Pão de Mandioquinha (Shibata),99,1 porção (35g)
+1961,Pão Francês Fibras (Shibata),78,1 unidade (60g)
+1962,Pão de Cenoura (Shibata),99,1 unidade (35g)
+1963,Pão de Gema (Shibata),147,1 porção  (55g)
+1964,Chocotone Bolinha (Shibata),150,1 unidade (50g)
+1965,Panettone (Shibata),143,1 fatia   (50g)
+1966,Mix de Castanhas (Verde Mar),85,1 porção (15g)
+1967,Financier Chocolate (Verde Mar),92,3 unidades (21g)
+1968,Iogurte Whey Coco (Verde Mar),63,100g
+1969,Queijo Minas Padrão Light (Verde Mar),90,1 fatia (30g)
+1970,Queijo Mussarela (Walmart),85,1 fatia (30g)
+1971,Pão Francês Integral (Walmart),108,1 unidade (50g)
+1972,Patinho em Bife (Walmart),142,100g
+1973,Pizza de Mussarela (Walmart),122,1 fatia (50g)
+1974,Bucho de Boi (Walmart),137,100g
+1975,Pão Italiano (Walmart),150,1 fatia (50g)
+1976,Pão Recife (Walmart),80,1 fatia  (25g)
+1977,Pão de Forma Integral (Walmart),50,1 fatia (25g)
+1978,Filé de Peixe Congelado Panga (Walmart),45,1 porção (50g)
+1979,Ham Tavern Boar’S (Walmart),60,100g
+1980,Pão Mineiro (Tauste),159,2 fatias (50g)
+1981,Pão Francês (Tauste),180,1 unidade (50g)
+1982,Marmitex Fit 10 (Tauste),505,1 unidade (450g)
+1983,Pão da Vovó (Tauste),129,1 porção (40g)
+1984,Pão Francês Integral (Tauste),168,1 porção (50g)
+1985,Salada Italiana (Tauste),298,1 porção (310g)
+1986,Pão da Fazenda (Tauste),120,1 fatia (40g)
+1987,Linhaça Dourada Moída (Tauste),74,1 porção  (15g)
+1988,Pão de Forma (Tauste),159,2 fatias (50g)
+1989,Pão de Cenoura (Tauste),96,1 fatia (30g)
+1990,Sushi Três Peixes (Tauste),181,1 porção  (90g)
+1991,Kibe (Tauste),128,100g
+1992,Salada Peito de Peru (Tauste),388,1 porção (340g)
+1993,Pão de Queijo (Tauste),150,1 porção  (50g)
+1994,Chocotone (Tauste),310,1 fatia (80g)
+1995,Chia em Grãos (Tauste),134,1 porção (50g)
+1996,Bolo Ferrero Rocher (Tauste),208,1 porção (60g)
+1997,Salpicão de Frango (Tauste),159,100g
+1998,Pão Caseirinho Doce (Tauste),157,1 fatia (50g)
+1999,Farinha de Castanha de Caju (Verdemar),59,1 colher de sopa (10g)
+2000,Queijo Canastra Araxa (Verdemar),85,1 fatia (30g)
+2001,Mix de Sementes (Verdemar),89,1 colher de sopa (15g)
+2002,Quiche 3 Queijos (Verdemar),141,1 fatia (40g)
+2003,Patê de Frango (Verdemar),41,1 colher de chá  (10g)
+2004,Pavê de Amendoim (Verdemar),114,1 colher de sopa (25g)
+2005,Suco Misto de Frutas Vermelhas (Verdemar),192,1 copo (200ml)
+2006,Pão de Queijo (Verdemar),169,3 unidades (60g)
+2007,Patê de Frango Light (Verdemar),20,1 colher de chá (10g)
+2008,Financier Tradicional (Verdemar),158,3 unidades (30g)
+2009,Capuccino Tradicional (Verdemar),98,1 1/2 colher de sopa (21g)
+2010,Champignon Paris (Verdemar),28,100g
+2011,Pão de Queijo Coquetel (Verdemar),141,5 unidades (50g)
+2012,Suco de Tangerina Integral (Verdemar),163,1 copo  (200ml)
+2013,Biscoito Três Queijos (Verdemar),129,2 unidades (50g)
+2014,Queijo Minas Araxá (Verdemar),126,1 fatia (30g)
+2015,Pão de Queijo com Pedacinhos de Queijo (Verdemar),142,1 porção (50g)
+2016,Iogurte Whey Coco (Verdemar),63,100g
+2017,Caldo de Batata Baroa com Frango (Verdemar),144,1 porção (200g)
+2018,Suco Verde (Verdemar),195,1 porção (200ml)
+2019,Sanduíche Natural Frango e Salada (Taeq),220,1 unidade (350g)
+2020,Morango Congelado (Taeq),50,1 porção (140g)
+2021,Uva Passa Escura sem Semente (Taeq),80,2 colheres de sopa (30g)
+2022,Sanduíche Natural Peito de Peru e Salada (Taeq),275,1 unidade (128g)
+2023,Barra de Cereal com Castanhas e Chocolate (Taeq),72,1 barra (25g)
+2024,Pasta de Amendoim (Taeq),93,1 colher de sopa (15g)
+2025,Arroz Integral (Taeq),180,1 porção (50g)
+2026,Quiche de Espinafre e Ricota (Taeq),286,1 unidade (120g)
+2027,Sopa de Legumes (Taeq),146,1 unidade (400g)
+2028,Sanduíche Natural de Atum e Salada (Taeq),232,1 unidade (130g)
+2029,Flocos de Quinua (Taeq),52,1 colher de sopa (15g)
+2030,"Brócolis, Couve-Flor e Cenoura Congelados (Taeq)",26,2 xicaras (130g)
+2031,Aveia em Flocos (Taeq),120,2 colheres de sopa (30g)
+2032,Seleta de Legumes Congelados (Taeq),69,2 xícaras (130g)
+2033,Pasta de Amendoim com Cacau (Taeq),87,1 colher de sopa (15g)
+2034,Farelo de Aveia Oat Bran (Taeq),32,1 colher de sopa (10g)
+2035,Sopa Creme de Abóbora (Taeq),112,1 unidade (400g)
+2036,Baguete Integral (Taeq),121,1/2 unidade (50g)
+2037,Torrada Integral Multigrãos (Taeq),114,2 fatias (30g)
+2038,Mini Cenoura (Taeq),42,100g
+2039,Ameixa Vermelha (Sonda),9,1 unidade media (16g)
+2040,Pão de Frios (Sonda),79,1 porção (36g)
+2041,Bisnaga Leite (Sonda),131,1 bisnaga (46g)
+2042,Pão de Cebola (Sonda),119,1 porção (50g)
+2043,Pão Italiano (Sonda),121,1 fatia (50g)
+2044,Pão de Mandioquinha (Sonda),96,1 unidade (36g)
+2045,Pão Francês Integral (Sonda),119,1 porção (50g)
+2046,Bolo Red Velvet (Sonda),448,1 porção (140g)
+2047,Pão Semi Italiano (Sonda),119,1 fatia (50g)
+2048,Pão Folhado de Queijo (Sonda),270,1 fatia (50g)
+2049,Broa Caxambu (Sonda),113,1 unidade (30g)
+2050,Pão de Queijo Mini (Sonda),145,1 porção (50g)
+2051,Pão Australiano (Sonda),111,2 pães (45g)
+2052,Biscoito de Polvilho (Sonda),97,6 biscoitos (30g)
+2053,Sanduíche Natural de Peito de Peru (Sonda),107,1 fatia (60g)
+2054,Mussarela (Sonda),80,1 porção (30g)
+2055,Chocotone (Sonda),260,1 fatia média (80g)
+2056,Pão Pizza Frango (Sonda),102,1 porção (40g)
+2057,Brigadeiro (Sonda),103,1 porção (30g)
+2058,Croissant Manteiga (Sonda),255,1 unidade (70g)
+2059,Granola com Banana (Viver),168,1/2 xícara de chá (40g)
+2060,Biscoito de Arroz Integral (Viver),102,1 porção (30g)
+2061,Farelo de Aveia (Viver),32,1 colher de sopa (10g)
+2062,Aveia em Flocos Finos (Viver),114,2 colheres de sopa (30g)
+2063,Aveia em Flocos Sabor Mel (Viver),110,2 colheres de sopa (30g)
+2064,Aveia em Flocos Finos com Cacau (Viver),125,1 porçao  (30g)
+2065,Granola com Frutas (Viver),160,1/2 xicara de cha (40g)
+2066,Barra de Cereal Sabor Brigadeiro (Viver),89,1 porção (25g)
+2067,"Barra de Cereal com Aveia, Morango e Cobertura de Chocolate (Viver)",102,1 barra (25g)
+2068,Barra de Biscoito Integral com Recheio de Goiaba (Viver),96,1 unidade (25g)
+2069,Macarrão Parafuso 8 Grãos (Viver),292,100g
+2070,Batata Doce Assada (Zaffari),74,1 porção (50g)
+2071,Cuca (Zaffari),105,1 porção (50g)
+2072,Pão Cacetinho (Zaffari),117,1 unidade (50g)
+2073,Carne Moída de Acém (Zaffari),190,100g
+2074,Peito de Frango Grelhado (Zaffari),117,1 porção (50g)
+2075,Pastel de Carne Assado (Zaffari),139,1 porção (50g)
+2076,Mini Pão de Queijo (Zaffari),146,7 unidades (50g)
+2077,Nozes Chilenas sem Casca (Zaffari),70,1 unidades (30g)
+2078,Peito de Frango Empanado (Zaffari),239,1 porção (130g)
+2079,Cueca Virada (Zaffari),198,1 porção (50g)
+2080,Pastel Folhado de Frango (Zaffari),118,1 porção (50g)
+2081,Bolinho de Chuva (Zaffari),136,1 porção (40g)
+2082,Pão Cervejinha (Zaffari),143,1 porção (50g)
+2083,Pão Português (Zaffari),151,1 porção  (50g)
+2084,Pão Semi Italiano (Zaffari),142,1 unidade (50g)
+2085,Cachorrinho Festivo (Zaffari),48,1 1/2 unidades (50g)
+2086,Vagem Macarrão (Zaffari),21,1 porção (50g)
+2087,Mix de Frutas Pote (Zaffari),40,100g
+2088,Pão Cacetinho Integral (50g) (Zaffari),137,1 porção (50g)
+2089,Bife Patinho (Zaffari),190,100g
+2090,Focaccia Alecrim (Zona Sul),59,1 porçao (50g)
+2091,Pasta de Ricota (Zona Sul),70,1 porção (30g)
+2092,Radicchio (Zona Sul),23,100g
+2093,Peito de Chester Defumado (Zona Sul),25,2 fatias
+2094,Baguete Rustiguette (Zona Sul),122,1 porção (50g)
+2095,Fogaccia (Zona Sul),320,100g
+2096,Crumble de Maçã (Zona Sul),228,1 unidade (65g)
+2097,Queijo Mussarela (Zona Sul),96,2 fatias (40g)
+2098,Pizza Calabresa Resfriada (Zona Sul),118,1 fatia (45g)
+2099,Pão Hamburger Panetto (Zona Sul),264,100g
+2100,Pão Sírio com Salame (Zona Sul),431,1 porção (170g)
+2101,Mussarela (Zona Sul),96,2 fatias (40g)
+2102,Sanduíche Sírio Queijo Salame (Zona Sul),431,100g
+2103,Torrada Panetto Parmesão (Zona Sul),132,1 porção (40g)
+2104,Whey Protein VP2 (AST Sports Science),105,1 colher medida (28g)
+2105,Mussarela de Búfala (Almeida Prado),74,2 bolinhas (30g)
+2106,Queijo Mozzarella de Búfala Bolinha (Almeida Prado),95,3 bolinhas (30g)
+2107,Requeijão de Búfala (Almeida Prado),93,1 porção (30g)
+2108,Creme de Ricota (Almeida Prado),53,2 colheres  (30g)
+2109,Requeijão Cremoso de Búfala (Almeida Prado),93,2 colheres de sopa (30g)
+2110,Crispy Onions (Benassi),177,1/2 xícara (30g)
+2111,Goma Pronta para Tapioca (Benassi),145,3 colheres (60g)
+2112,Maçã Disney Cubes (Benassi),52,100g
+2113,Filé de Merluza (Bom Peixe),92,1 porção (60g)
+2114,Filé de Tilápia (Bom Peixe),27,3 colheres de sopa (60g)
+2115,Kani (Bom Peixe),17,1 unidade (16g)
+2116,Iogurte Grego (Delicari),180,1 porção (170g)
+2117,Iogurte Caramelo de Bali (Delicari),168,1 pote (170g)
+2118,Iogurte Natural Baixa Lactose (Delicari),130,1 pote (170g)
+2119,Iogurte Framboesa (Delicari),158,1 pote (170g)
+2120,Iogurte Natural Grego (Delicari),145,1 porção (170g)
+2121,Pão de Queijo (Camoleis),160,1 porção (50g)
+2122,Feijão Fradinho (Blue Ville),190,1 porção (60g)
+2123,Massa de Arroz (Blue Ville),282,1 1/2 xícaras (80g)
+2124,Arroz Parboilizado (Blue Ville),174,1/4 xícara (50g)
+2125,Arroz Integral (Blue Ville),174,1/4 de xícara cru (50g)
+2126,Arroz Branco (Blue Ville),172,1/4 de xicara (50g)
+2127,Feijão Vermelho (Blue Ville),194,1 porção (60g)
+2128,Massa de Arroz Espaguete (Blue Ville),278,1 1/2 xícaras (80g)
+2129,Arroz para Culinária Naturalista (Blue Ville),175,100g
+2130,Achocolatado (Blue Ville),79,1 porção  (20g)
+2131,Pipoca Natural com Melado de Cana (Cerradim),80,1 xícara  (25g)
+2132,Melado de Cana (Cerradim),45,2 colheres de sopa (30g)
+2133,Polpa de Tamarindo (Cerradim),80,100g
+2134,Tahine (Cerradim),197,2 colheres de sopa (30g)
+2135,Bolo de Banana (Equilibre),87,1 porção (45g)
+2136,Pão Multigrãos (Equilibre),138,3 fatias (60g)
+2137,Pão Integral (Equilibre),100,2 fatias (50g)
+2138,Pão de Cenoura com Chia (Equilibre),114,100g
+2139,Pipoca (Equilibre),95,1 porção (20g)
+2140,Pão de Cenoura e Iogurte (Equilibre),79,1 fatia (35g)
+2141,Bolacha Recheada (Danix),140,3 biscoitos (30g)
+2142,Biscoito Recheado (Danix),146,100g
+2143,Chocolate (Danix),140,3 unidades (30g)
+2144,Danix Vitacálcio (Danix),133,7 bolachas (30g)
+2145,Biscoito de Coco (Aruba),121,6 biscoitos (30g)
+2146,Biscoito de Chocolate (Aruba),135,6 biscoitos (30g)
+2147,Biscoito Banana com Canela (Aruba),116,6 biscoitos (30g)
+2148,Pasta de Amendoim Crunchy (Aruba),90,1 colher de sopa (15g)
+2149,Protein Double Chocolate (Aruba),165,1 porção (40g)
+2150,Pasta de Amendoim com Cacau (Aruba),76,1 colher de sopa (15g)
+2151,Paçoca Cremosa (Aruba),93,1 porção (25g)
+2152,Biscoito Cacau Zero Açúcares (Aruba),122,6 biscoitos (30g)
+2153,Biscoito de Limão (Aruba),144,6 biscoitos (30g)
+2154,Biscoito Doce de Cacau (Aruba),140,6 biscoitos (30g)
+2155,Protein Gotas de Chocolate (Aruba),170,1 porção (40g)
+2156,Biscoito Doce com Maracujá (Aruba),138,6 biscoitos (30g)
+2157,Biscoito Sabor Amendoim (Aruba),125,1 porção (30g)
+2158,Snack de Tomate e Manjericão (Aruba),93,8 biscoitos  (30g)
+2159,Biscoito de Tomate e Manjericão (Aruba),93,8 biscoitos (30g)
+2160,Queijo Mussarela Fatiado (Crioulo),105,2 fatias  (30g)
+2161,Requeijão Cremoso (Crioulo),88,1 colher de sopa (30g)
+2162,Queijo Minas Padrão (Crioulo),118,1 fatia (30g)
+2163,Requeijão Cremoso Light (Crioulo),59,1 colher de sopa (30g)
+2164,Requeijão Light (Crioulo),192,100g
+2165,Queijo Prato (Crioulo),116,1 porção (30g)
+2166,Queijo de Coalho (Crioulo),104,1/2 espeto (30g)
+2167,Queijo Mussarela (30g) (Crioulo),90,1 fatia (30g)
+2168,Queijo Mussarela Zero Lactose (Crioulo),100,1 fatia (30g)
+2169,Manteiga com Sal (Crioulo),76,1 colher de sopa (10g)
+2170,Manteiga (Crioulo),76,1 colher de sopa  (10g)
+2171,Queijo Parmesão com Outros Queijos Ralados (Crioulo),48,1 colher de sopa (10g)
+2172,Requeijão Cremoso Bisnaga (Crioulo),70,1 colher de sopa (30g)
+2173,Requeijão Zero Lactose (Crioulo),92,1 colher sopa  (30g)
+2174,Nata (Crioulo),61,1 colher de sopa (10g)
+2175,Queijo Mussarela Light (Crioulo),81,1 fatia (30g)
+2176,Queijo Minas Frescal (Crioulo),96,1 fatia (30g)
+2177,Queijo Minas Padrão Zero Lactose (Crioulo),117,1 fatia (30g)
+2178,Queijo Prato Fatiado (Crioulo),109,100g
+2179,Requeijão Cremoso Sabor Cheddar e Parmesão (Crioulo),74,1 colher de sopa (30g)
+2180,Queijo Mussarela Fatiado (Della Vita),99,1 fatia (30g)
+2181,Queijo Colonial Premium (Della Vita),100,1 porção (30g)
+2182,Queijo Prato (Della Vita),97,1 1/2 fatias (30g)
+2183,Queijo Minas Light (Della Vita),113,2 fatias (50g)
+2184,Requeijão Cremoso com Queijo (Della Vita),85,1 colher de sopa (30g)
+2185,Requeijão Light (Della Vita),65,1 colher de sopa (30g)
+2186,Requeijão Cremoso (Della Vita),80,1 colher de sopa (30g)
+2187,Nata (Della Vita),64,1 colher de sopa (15g)
+2188,Queijo Colonial Fatiado (Della Vita),107,1 porção (30g)
+2189,Ricota Fresca (Della Vita),45,1 fatia  (30g)
+2190,Iogurte Morango (Della Vita),110,1 copo (200g)
+2191,Chocolate 54% Cacau Premium (Equilibrar Comendo),93,1 unidade (20g)
+2192,Panetini Sueco (Equilibrar Comendo),68,1 xícara (30g)
+2193,Chocolate Crocante Premium 54% (Equilibrar Comendo),96,1 unidade (20g)
+2194,Chocolate 72% Cacau Premium (Equilibrar Comendo),105,1 unidade (20g)
+2195,Firmalize (Exímia),40,1 sachê (13g)
+2196,Albumina (Fama Ovos),382,100g
+2197,Hambúrguer de Feijão Preto com Couve e Chia (Gerônimo),110,100g
+2198,Falafel (Gerônimo),155,100g
+2199,Hambúrguer de Lentilha com Semente de Girassol (Gerônimo),159,1 porção (100g)
+2200,Hambúrguer de Grão de Bico com Alho Poró (Gerônimo),159,100g
+2201,Hambúrguer de Berinjela com Castanha de Caju e Gergelim (Gerônimo),121,1 porção (100g)
+2202,Kafta de Feijão Fradinho com Quinoa e Especiarias (Gerônimo),72,1 unidade (57g)
+2203,Kibe De Mandioquinha Com Amêndoas E Batata Doce (Gerônimo),77,1 unidade (50g)
+2204,Pão sem Queijo (Gerônimo),105,2 unidades (50g)
+2205,Biscoito Cream Craker (Festiva),131,7 unidades (30g)
+2206,Biscoito Recheado (Festiva),147,3 biscoitos (30g)
+2207,Negrito (Festiva),132,3 biscoitos (30g)
+2208,Feijão Carioca (Fritz & Frida),197,1/2 xícara (60g)
+2209,Polenta (Fritz & Frida),170,1/2 xícara (50g)
+2210,Tapioca (Fritz & Frida),70,2 colheres de sopa (30g)
+2211,Lentilha (Fritz & Frida),139,1/2 xícara (60g)
+2212,Coco Ralado Puro (Fritz & Frida),74,1 colher de sopa (12g)
+2213,Aveia em Flocos Integral (Fritz & Frida),107,2 colheres de sopa (30g)
+2214,Arroz Integral (Fritz & Frida),180,1/4 xícara (50g)
+2215,Ervilha Seca Partida (Fritz & Frida),206,1 porção (60g)
+2216,Farinha de Mandioca (Fritz & Frida),121,1 xícara (50g)
+2217,Massa Caseira (Fritz & Frida),260,1 porção (80g)
+2218,Lentilha Premium (Fritz & Frida),203,1 porção (60g)
+2219,Feijão Preto Premium (Fritz & Frida),194,1/2 xícara (60g)
+2220,Polvilho Azedo (Fritz & Frida),70,1 porção (20g)
+2221,Milho Pipoca (Fritz & Frida),71,1 xícara (25g)
+2222,Aveia em Flocos Finos (Fritz & Frida),107,2 colheres de sopa (30g)
+2223,Pipoca (Fritz & Frida),71,1 xícara (25g)
+2224,Farofa Pronta (Fritz & Frida),149,3 colheres de sopa (35g)
+2225,Pipoca Premium (Fritz & Frida),71,1 xícara (25g)
+2226,Farinha de Mandioca (Fritz & Frida),242,100g
+2227,Farinha de Aveia (Fritz & Frida),182,1 porção (50g)
+2228,Chocolate 88% (Hachez),161,5 unidades (25g)
+2229,Chocolate 77% Cacau (Hachez),143,1/4 barra (25g)
+2230,Azeite de Oliva Extra Virgem (Galo),108,1 colher de sopa (10g)
+2231,Macarrão (Galo),200,1 porção  (56g)
+2232,Vinagre Balsâmico (Galo),7,1 colher de sopa (10ml)
+2233,Macarrão Integral (Galo),274,1 prato (80g)
+2234,Macarrão Integral Parafuso (Galo),274,1 porção (80g)
+2235,Macarrão Espaguete 8 (Galo),282,1 prato raso (80g)
+2236,Macarrão Parafuso (Galo),200,1 porção (55g)
+2237,Macarrão (Galo),283,80g
+2238,Macarrão Espaguete Integral (Galo),190,1 porção (56g)
+2239,Macarrão de Sêmola (Galo),200,1 porção (56g)
+2240,Macarrão Pena (Galo),283,1 xícara de chá (80g)
+2241,Macarrão Gravata (Galo),283,1 porção (80g)
+2242,Biscoito Recheado Sabor Chocolate (Galo),139,6 bolachas (30g)
+2243,Macarrão Ninho 2 (Galo),200,1 porção (56g)
+2244,Rosquinhas (Galo),140,6 biscoitos (30g)
+2245,Espaguete Integral (Galo),274,1 porção (80g)
+2246,Cream Cracker (Galo),128,5 1/2 unidades (30g)
+2247,Macarrão de Sêmola Com Vegetais (Galo),282,1 xícara de chá (80g)
+2248,Tortiglione (Galo),283,1 xícara de chá (80g)
+2249,Macarrão Cozido (Galo),158,100g
+2250,Leite de Coco (Indiano),26,2 colheres de sopa (20ml)
+2251,Coco Ralado Puro (Indiano),52,2 colheres de chá  (12g)
+2252,Coco Ralado Açucarado (Indiano),50,2 colheres de chá  (12g)
+2253,Barra de Proteína Vegana Vanilla Coconut (Hart's),270,1 barrinha (70g)
+2254,Granola Austrália Keto (Hart's),186,1 porção (40g)
+2255,Granola Australia Classic Nuts (Hart's),166,1 porção (40g)
+2256,Vegana Almond Chocolat (Hart's),264,1 barra (70g)
+2257,Move Cacau (Hart's),171,1 unidade (40g)
+2258,Love Paçoquinha (Hart's),118,1 barra (35g)
+2259,Barra de Nuts Cranberry e Chocolate (Hart's),156,1 porção (35g)
+2260,Love Cocadinha (Hart's),110,1 barra (25g)
+2261,Vegana Protein Chocolat (Hart's),134,1 porção (36g)
+2262,Love Cacau (Hart's),128,1 unidade (35g)
+2263,Vegana Protein Vanilla Coconut (Hart's),163,1 serving (36g)
+2264,Move Coco (Hart's),180,1 barra (40g)
+2265,Barra de Nuts Amendoim e Chocolate (Hart's),170,1 porção (35g)
+2266,Love Chia (Hart's),142,1 barra (35g)
+2267,Vegana Bite Morango+Chocolate (Hart's),105,1 porção (30g)
+2268,Coco & Chocolate (Hart's),173,1 barra (35g)
+2269,"Barra de Amendoim, Amêndoas, Chia e Chocolate 70% Cacau (Hart's)",161,100g
+2270,Vegana Caffè Mocha (Hart's),259,1 barra (70g)
+2271,Benuts Goji (Hart's),140,1 unidade (30g)
+2272,Vegana Chocolat + Nibs (Hart's),264,1 barra (70g)
+2273,Queijo Prato (Haciendas),125,2 fatias (35g)
+2274,Presunto Serrano (Haciendas),99,4 fatias (40g)
+2275,Salame tipo Hamburguês (Haciendas),108,6 fatias (40g)
+2276,Salame tipo Italiano (Haciendas),122,5 fatias (40g)
+2277,Bacon Fatiado (Haciendas),45,1 fatia (12g)
+2278,Salame Pamplona (Haciendas),101,6 fatias (40g)
+2279,Queijo Mussarela (Haciendas),125,2 1/2 fatias (45g)
+2280,Pepperoni (Haciendas),248,6 fatias (40g)
+2281,Couve Flor (Grano),35,1 porção (130g)
+2282,Brócolis Congelado (Grano),43,1 porção (130g)
+2283,Mix Clássico (Grano),50,1 1/2 xícaras (130g)
+2284,Ervilhas Congeladas (Grano),118,1/2 xícaras de chá  (130g)
+2285,Grão de Bico Congelado (Grano),182,1 porção (130ml)
+2286,Mix Salada Russa (Grano),60,2 xícaras de chá  (130ml)
+2287,Mix Premium (Grano),40,1 porção (130g)
+2288,Mix da Fazenda (Grano),65,2 xícaras de chá  (130g)
+2289,Abóbora (Grano),58,1 porção (130g)
+2290,Mix Oriental (Grano),51,1 porção (130g)
+2291,Mix do Chef (Grano),118,1 porção (130g)
+2292,Camarão com Requeijão (Litoral),136,100g
+2293,Queijo Mussarela (Litoral),108,1 fatia (30g)
+2294,Queijo Muçarela (Litoral),105,1 porção  (30g)
+2295,Queijo (Litoral),99,2 fatias (30g)
+2296,Manteiga com Sal (Litoral),74,1 colher de sopa (10g)
+2297,Biscoito Wafer Recheado (Canudinhos de Chocolate) (Itamaraty),131,6 unidades (30g)
+2298,Look Chocolate (Itamaraty),145,6 unidades (30g)
+2299,Wafer Recheado (Itamaraty),148,3 unidades (30g)
+2300,Look Cookies & Cream (Itamaraty),144,1 porção (30g)
+2301,Look Atrevidos (Itamaraty),142,6 unidades (30g)
+2302,Look Floresta Negra (Itamaraty),145,1 porção (30g)
+2303,Cappuccino (Itamaraty),44,2 colheres de sopa (10g)
+2304,Wafer Recheado Floresta Negra (Itamaraty),158,3 unidades (30g)
+2305,Chocolate Diet (Itamaraty),109,1 porção (25g)
+2306,Cappuccino Light (Itamaraty),28,2 colheres de chá (7g)
+2307,Look Beijinho (Itamaraty),147,6 unidades (30g)
+2308,Whey 100% Pure (Integralmedica),119,2 scoops (30g)
+2309,Whey 100% (Integralmedica),121,2 scoop (30g)
+2310,Creatina (Integralmedica),0,1 dosador (3g)
+2311,Protein Crisp Bar Trufa de Avelã (Integralmedica),185,1 barra (45g)
+2312,Whey 100% Pure Cookies & Cream (Integralmedica),122,2 scoops (30g)
+2313,Barra de Proteína (Integralmedica),166,1 barra (45g)
+2314,Protein Crisp Bar Leite Ninho com Creme de Avelã (Integralmedica),196,1 barra (45g)
+2315,Whey Protein Isolate (Integralmedica),112,2 scoops (30ml)
+2316,Whey 3W (Integralmedica),119,2 scoops (30g)
+2317,Hipercalorico (Integralmedica),593,4 scoops (160g)
+2318,Protein Crisp Bar Doce de Coco (Integralmedica),166,1 barra  (45g)
+2319,Protein Crisp Bar Peanut Butter (Integralmedica),186,1 unidade (45g)
+2320,Whey 100% Pure Baunilha (Integralmedica),121,2 scoops (30g)
+2321,Glutamina (Integralmedica),20,1 scoop (5g)
+2322,Whey 100% Pure Chocolate (Integralmedica),119,1 scoop (30g)
+2323,Whey Protein Isolado (Integralmedica),108,2 scoops (30ml)
+2324,Whey 100% Chocolate (Integralmedica),119,2 scoops (30g)
+2325,Whey Protein Iso (Integralmedica),107,2 scoops (30g)
+2326,Protein Crisp Bar Romeu e Julieta (Integralmedica),162,1 barra (45g)
+2327,Protein Crisp Churros com Doce de Leite (Integralmedica),166,1 porção (45g)
+2328,Leite Desnatado (Jussara),70,1 copo (200ml)
+2329,Leite Integral (Jussara),120,1 copo (200ml)
+2330,Leite Semidesnatado (Jussara),40,100ml
+2331,Creme de Leite (Jussara),27,1 1/2 colher de sopa (15g)
+2332,Leite Zero Lactose Semi Desnatado (Jussara),40,100g
+2333,Leite Semidesnatado (200ml) (Jussara),80,1 copo (200g)
+2334,Leite Semidesnatado Zero Lactose (Jussara),82,1 copo (200ml)
+2335,Leite Zero Lactose (Jussara),82,1 copo (200g)
+2336,Leite Integral Zero Lactose (Jussara),60,100ml
+2337,Creme de Leite Leve (Jussara),27,1 porção (15g)
+2338,Leite Condensado (Jussara),65,1 colher de sopa (20g)
+2339,Leite de Soja (Jussara),79,1 copo (200g)
+2340,Leite UHT Desnatado (Jussara),70,1 copo (200g)
+2341,Leite UHT Semidesnatado (Jussara),80,1 copo (200g)
+2342,Leite Integral Jussara (Jussara),120,100ml
+2343,Leite Semidesnatado Jussara Max (Jussara),80,1 copo (200ml)
+2344,Pé de Moleque Inteiro (Jussara),100,1 porção  (150g)
+2345,Whey Protein (Jussara),70,100g
+2346,Leite de Soja Zero (Jussara),23,100ml
+2347,Soja Original Zero (Jussara),47,1 copo (200g)
+2348,Purê de Batatas Instantâneo (Knorr),116,3 colheres de sopa (30g)
+2349,Caldo de Galinha (Knorr),12,1/2 cubo (5g)
+2350,Milho (Knorr),107,1 xícara de chá (130g)
+2351,Ervilha (Knorr),123,1 xícara de chá (130g)
+2352,Sopão com + Macarrão (Knorr),84,2 colheres de sopa (25g)
+2353,Sopa de Galinha com Macarrão (Knorr),61,2 colheres de sopa (19g)
+2354,Creme de Cebola (Knorr),44,1 porção (15g)
+2355,Macarrão Espaguete (Knorr),284,1 porção (80g)
+2356,Saladinha de Grão de Bico (Knorr),204,1 porção (130g)
+2357,Canjão com + Arroz (Knorr),82,1 porção (25g)
+2358,Macarrão Fusilli Integral (Knorr),271,1 prato (80g)
+2359,Macarrão Parafuso (Knorr),283,1 prato (80g)
+2360,Sopão Galinha (Knorr),84,2 colheres de sopa (24g)
+2361,Grão de Bico (Knorr),155,1 xícara de chá (130g)
+2362,Spaghetti Integral (Knorr),271,1 prato (80g)
+2363,Sopão Batido de Feijão (Knorr),81,1 porção (25g)
+2364,Saladinha De Grãos Lentilha (Knorr),135,1 xícara de chá (130g)
+2365,"Saladinha de Grãos, Feijão Vermelho, Branco e Ervilha (Knorr)",131,1 porção (130g)
+2366,Sopa de Cebola (Knorr),25,1 colher de sopa (11g)
+2367,Caldo de Carne Balance (Knorr),13,1/2 cubo (5g)
+2368,Tapioca (Juparanã),253,1 porção (120g)
+2369,Goma de Tapioca Hidratada (Juparanã),253,1 porção  (120g)
+2370,Tapioca Semi Pronta (Juparanã),253,1 copo (120g)
+2371,Lentilha (Juparanã),137,1/4 chicara (40g)
+2372,Tapioca Semipronta (Juparanã),57,1 copo americano (120g)
+2373,Soja em Grão (Juparanã),268,1 porção (60g)
+2374,Goma de Mandioca Hidratada (Juparanã),57,1 copo americano (120g)
+2375,Polvilho Azedo (Juparanã),65,1 colher de sopa (20g)
+2376,Amendoim Torrado (Juparanã),88,1 porção  (15g)
+2377,Farofa Pronta Picante (Juparanã),133,1 colher de sopa (35g)
+2378,Milho de Pipoca (Juparanã),78,1/4 xícara de chá  (25g)
+2379,Arroz Caramelizado (Miyako),60,1 unidade (20g)
+2380,Sembei tipo Biju (Miyako),22,1 unidade (5g)
+2381,Ovinhos de Amendoim (Kuky),122,1 porção (25g)
+2382,Amendoim tipo Japonês (Kuky),111,2 colheres de sopa (25g)
+2383,Amendoim Frito (Kuky),84,2 colheres de sopa (15g)
+2384,Goma Festa (Kuky),70,6 unidades (20g)
+2385,Amendoim Colorido (Kuky),107,15 unidades (25g)
+2386,Bolix (Kuky),75,1 porção (20g)
+2387,Amendoim Torrado sem Pele Premium (Kuky),86,2 1/2 colheres de sopa (15g)
+2388,Amendoim Chocolate (Kuky),107,15 unidades (25g)
+2389,Jelly Beans (Kuky),75,11 unidades (20g)
+2390,Bolinhas Azedinhas (Kuky),75,7 unidades (20g)
+2391,Avocado (Jaguacy),72,1/2 unidade (50g)
+2392,Filé de Peixe Panga (Leardini),65,100g
+2393,Escondidinho de Salmão (Leardini),185,1/3 unidade (117g)
+2394,Salmão (Leardini),70,1 porção (60g)
+2395,Kani (Leardini),66,1 porção (60g)
+2396,Bolinho com Bacalhau (Leardini),25,1 bolinho (30g)
+2397,Filé de Tilápia (Leardini),61,1 porção (60g)
+2398,Ingredientes Para Paella (Leardini),57,3 colheres (60g)
+2399,Kani (Leardini),111,100g
+2400,Bis (7g) (Lacta),30,1 unidade (7g)
+2401,Chocolate Ao Leite (Lacta),133,2 quadradinhos (25g)
+2402,Bombom Sonho de Valsa (Lacta),115,1 bombom (22g)
+2403,Ouro Branco (Lacta),106,1 unidade (20g)
+2404,Chocolate com 60% de Cacau (Lacta),130,1 quadradinho (25g)
+2405,Bombom Ouro Branco (Lacta),106,1 bombom (20g)
+2406,Diamante Negro (25g) (Lacta),124,4 quadradinhos (25g)
+2407,Sonho de Valsa (Lacta),105,1 unidade (20g)
+2408,Lacta Intense 60% Original (Lacta),130,3 quadrinhos (25g)
+2409,Bis Xtra (Lacta),228,1 unidade (45g)
+2410,Diamante Negro (20g) (Lacta),98,1 unidade (20g)
+2411,Intense 60% Cacau Mix de Nuts (Lacta),133,3 quadradinhos  (25g)
+2412,Bis Branco (Lacta),155,4 1/2 unidades (30g)
+2413,Amandita (2) (Lacta),95,2 unidades (19g)
+2414,Chocolate Amaro 40% Cacau (Lacta),125,3 quadradinhos (25g)
+2415,Laka (25g) (Lacta),134,4 quadradinhos (25g)
+2416,Chocolate Intense Menta 60% (Lacta),130,2 quadradinhos (25g)
+2417,Chocolate Shot Amendoim (Lacta),134,4 quadradinhos (25g)
+2418,Chocolate Laka e Diamante Negro (Lacta),129,4 quadradinhos (25g)
+2419,Bis Xtra Oreo (Lacta),231,1 unidade (45g)
+2420,Pasta de Amendoim Integral (Manibi),119,1 colher de sopa (20g)
+2421,Barra de Granola Aveia e Mel (Nature Valley),93,1 barra (21g)
+2422,Granola Crocante (Nature Valley),88,1 barra (21g)
+2423,Protein Bar (Nature Valley),190,1 barra (40g)
+2424,Barra de Granola de Amêndoas Tostadas (Nature Valley),88,1 barrinha (21g)
+2425,Barra de Granola Chocolate e Aveia (Nature Valley),88,1 barra (21g)
+2426,Protein Chewy Bar (Nature Valley),190,1 barra (40g)
+2427,Barra de Granola Frutas Vermelhas (Nature Valley),82,1 barra (23g)
+2428,Barra de Granola Crocante Banana e Amêndoas (Nature Valley),96,1 barra (21g)
+2429,Bolo de Cenoura (O Fuê),94,1 fatia média (35g)
+2430,Bolo Nega Maluca (O Fuê),128,1 fatia (40g)
+2431,Bolo Red Velvet (O Fuê),156,2 colheres de sopa (40g)
+2432,Bolo de Pote Dois Amores (O Fuê),48,1 colher de sopa (20g)
+2433,Bolo Prestígio (O Fuê),122,2 colheres de sopa (40g)
+2434,Bolo Paçoca (O Fuê),122,2 colheres de sopa (40g)
+2435,Brigadeiro (O Fuê),22,1 porção (20g)
+2436,Brownie Com Doce De Leite (O Fuê),68,1 colher de sopa (20g)
+2437,Pizza Marguerita (O Fuê),377,1 porcao (150g)
+2438,Pão Plus (O Fuê),121,1 porção (30g)
+2439,Doce de Leite (O Fuê),32,1 colheres de sopa (20g)
+2440,Cacau Supreme (O Fuê),128,2 colheres de sopa (40g)
+2441,Mix de Nuts Bavarian (Nut Me),81,1 colher de sopa (15g)
+2442,Choco Ball (Nut Me),103,1 unidade (20g)
+2443,Choco Cluster (Nut Me),120,1 unidade (20g)
+2444,Mini Cenouras (Mister Rabbit),42,100g
+2445,Suco de Uva Integral (OQ),41,100ml
+2446,Água de Coco (OQ),40,1 copo (200ml)
+2447,Suco de Uva Integral (OQ),82,1 copo (200g)
+2448,Burrito Carne com Queijo (Nacho Loco),211,1 unidade (113g)
+2449,Burrito Chili com Carne (Nacho Loco),239,1 unidade (113g)
+2450,Burrito de Costelinha com Barbecue (Nacho Loco),249,1 burrito (113g)
+2451,Burritos Frango com Requeijão (Nacho Loco),189,1 unidade (113g)
+2452,Burritos de Carne (Nacho Loco),327,1 unidade (130g)
+2453,Burrito (Nacho Loco),189,1 unidade  (112g)
+2454,Mini Taco Carne Desfiada Com Queijo (Nacho Loco),53,1 unidade (50g)
+2455,Mini Tacos de Carne (Nacho Loco),106,1 unidade (50g)
+2456,Burrito Costelinha (Nacho Loco),302,1 unidade (113g)
+2457,Mini Tacos de Frango (Nacho Loco),106,1 unidade (50g)
+2458,Burrito de Doce de Leite (Nacho Loco),133,1 porção (75g)
+2459,Burritos de Maçã (Nacho Loco),140,1 unidade (75g)
+2460,Torresmo Pururuca (Peg Pig),136,1 1/2 xicara  (25g)
+2461,Torresmo Caipira (Peg Pig),143,1 porção (25g)
+2462,Peg Pig Soft (Peg Pig),136,1 porção (25g)
+2463,Azeite de Oliva Extra Virgem (O-LIVE),108,1 colher de sopa (13ml)
+2464,Pao Integral (Panutri),57,1 fatia (20g)
+2465,Pão 100% Integral (Panutri),120,1 1/2 fatias (50g)
+2466,Pão Integral Zero (Panutri),118,2 fatias (50g)
+2467,Pão Integral Castanha do Pará e Quinoa (Panutri),133,1 fatia (27g)
+2468,Pão Integral 12 Grãos (Panutri),75,1 fatia (27g)
+2469,Pão de Forma (Panutri),70,1 fatia (23g)
+2470,Chia e Macadâmia 100% Integral (Panutri),160,2 fatias (50g)
+2471,Pão de Hambúrguer (Panutri),140,1 unidade (50g)
+2472,Pão de Centeio (Panutri),38,1 porção (18g)
+2473,Manteiga (Quali),72,1 colher de sopa 
+2474,Chips de Coco Queimado (Quali),68,2 colheres de chá (12g)
+2475,Chips de Coco Original (Quali),82,2 colheres de chá (12g)
+2476,Chips de Coco Gengibre (Quali),72,2 colheres de chá (12g)
+2477,Lombinho Defumado (Pata Negra),55,100g
+2478,Morango Congelado (Realeza),30,100g
+2479,Proteina de Soja (Realeza),158,1 xicara de cha (50g)
+2480,Goma de Tapioca Hidratada (Realeza),225,100g
+2481,Tapioca (Realeza),45,1 porção (20g)
+2482,Proteína Texturizada de Soja (Realeza),300,100g
+2483,Cuties (Tofutti),130,1 sanduíche de sorvete (38g)
+2484,Snacks de Mandioca com Quinoa e Cebola (Quero-Poc),94,1 pacote (35g)
+2485,Pop Batata Doce (Quero-Poc),123,1 pacote (40g)
+2486,Protein Chips Ervilha (Quero-Poc),161,1 pacote (40g)
+2487,Chocolate Ao Leite (Swiss Alps),120,3 quadradinhos (23g)
+2488,Chocolate Amargo (Swiss Alps),124,1/4 unidade (25g)
+2489,Chocolate Branco (Swiss Alps),141,1 porção (25g)
+2490,Amendoim Crocante Cebola e Salsa (RIO),129,1/2 xícara de chá (25g)
+2491,Amendoim Torrado sem Sal (RIO),98,1 colher de sopa (15g)
+2492,Chá Verde com Lichia (RIO),3,1 lata (335ml)
+2493,Chá Verde com Uva Verde (RIO),3,1 lata (335ml)
+2494,Chá Verde com Limão Siciliano (RIO),2,1 lata (355ml)
+2495,Chá Verde com Tangerina (RIO),3,1 lata (335ml)
+2496,Água de Coco (RIO),71,1 lata (335ml)
+2497,Aveia em Flocos Médios (Shambala),118,5 colheres de sopa  (30g)
+2498,Farinha de Coco (Shambala),80,1/2 xícara (40g)
+2499,Manteiga Ghee (Shambala),71,1 colher de sobremesa  (10g)
+2500,Farelo de Aveia (Shambala),74,1 porção (20g)
+2501,Farinha de Amêndoa Integral (Shambala),140,3 colheres de sopa (20g)
+2502,Farinha de Aveia (Shambala),118,1 porção (30g)
+2503,Requeijão Cremoso (Rural),76,1 colher de sopa (30g)
+2504,Requeijão Light (Rural),55,1 colher de sopa (30g)
+2505,Creme de Leite (Rural),27,1 1/2 colher de sopa (15g)
+2506,Whey Protein (Salto's),119,2 colheres de sopa (30g)
+2507,Albumina (Salto's),54,1 colher de sopa (14g)
+2508,Clara de Ovo Pasteurizada Desidratada (Salto's),51,1 colher de sopa (14g)
+2509,Mix de Fibras (Tamarine),0,1 sachê (6g)
+2510,Pasta de Castanha de Caju (Tartiner),115,1 colher de sopa (20g)
+2511,Pasta de Amêndoa (Tartiner),120,1 colher de sopa (20g)
+2512,Manteiga de Coco Queimado (Tartiner),81,1 colher de sopa (20g)
+2513,Pasta de Pistache (Tartiner),111,1 porção (20g)
+2514,Tartilate (Tartiner),102,1 colher de sopa (20g)
+2515,Pasta de Avelã (Tartiner),129,1 colher de sopa (20g)
+2516,Pasta de Amendoim com Leite de Coco e Canela (Tartiner),124,1 colher de sopa (20g)
+2517,Cocottine (Tartiner),81,1 colher de sopa (20g)
+2518,Cacahuete (Tartiner),124,1 colher de sopa (20g)
+2519,Granola sem Açúcar (Vitapão),118,1/4 xícara (40g)
+2520,Farelo de Aveia (Vitapão),96,2 colheres de sopa (30g)
+2521,Aveia Integral Flocos (Vitapão),96,2 colheres de sopa (30g)
+2522,Granola Natural (Vitapão),130,1/4 xícara (40g)
+2523,Granola Tradicional (Vitapão),130,1/4 xícara (40g)
+2524,Farinha de Linhaça (Vitapão),72,1 colher de sopa (15g)
+2525,Proteína de Soja (Vitapão),148,1 xícara de chá (50g)
+2526,Semente de Linhaça (Vitapão),63,1 colher de sopa (15g)
+2527,Farinha de Linhaça Dourada (Vitapão),72,1 colher de sopa (15g)
+2528,Semente de Chia (Vitapão),60,1 colher de sopa (15g)
+2529,Açúcar Refinado (União),20,1 colher de chá  (5g)
+2530,Açucar Cristal (União),20,1 porção (5g)
+2531,Açúcar Demerara (União),20,1 colher de chá (5g)
+2532,Açúcar Cristal Orgânico (União),20,1 colher de chá (5g)
+2533,Açúcar Fit (União),10,1/2 colher de chá (3g)
+2534,Açúcar Mascavo (União),20,1 colher de chá  (5g)
+2535,Adoçante Sucralose (União),0,1 sachê
+2536,Sucralose (União),0,3 gotas (0ml)
+2537,Mistura para Bolo Integral de Banana (União),126,100g (35g)
+2538,Sachê União Fit (União),10,1 sachê (3g)
+2539,Queijo Mussarela (União),140,1 fatia (30g)
+2540,Adoçante Culinário Sucralose (União),39,1 colher de sopa (10g)
+2541,Glaçúcar (União),20,1 colher de chá (5g)
+2542,Açúcar em Cubos (União),20,1 1/2 cubos (5g)
+2543,Pé de Moça (União),316,1 unidade (51g)
+2544,Diet Sucralose (União),3,1 sachê
+2545,Queijo Prato Zero Lactose (União),115,1 fatia (30g)
+2546,Cristalçúcar (União),20,1 colher de chá (5g)
+2547,Proteína de Arroz (Wvegan),115,1 scoop (33g)
+2548,Max Protein Morango (Wvegan),115,1 scoop (33g)
+2549,Nutritional Yeast Sabor Parmesão (Wvegan),67,2 colheres de sopa  (25g)
+2550,Leite de Coco em Pó (Wvegan),141,2 colheres sopa (20g)
+2551,Rice Protein Capuccino (Wvegan),120,2 scoops (50g)
+2552,Rice Protein Baunilha (Wvegan),115,3 colheres de sopa  (30g)
+2553,Rice Protein Frutas Vermelhas (Wvegan),115,1 porção (33g)
+2554,Rice Protein Banana com Açaí (Wvegan),114,2 scoops (50g)
+2555,Macarrão Vegan Vermicelli (Wvegan),73,1 porção (21g)
+2556,Maca Peruana (Wvegan),29,1 colher de sopa (10g)
+2557,Rice Protein - Chocolate (Wvegan),116,1 scoop (33g)
+2558,Azeitonas Verdes Fatiadas (Vale Fértil),12,1 colher de sopa (20g)
+2559,Pepino em Conserva (Vale Fértil),6,2 unidades (50g)
+2560,Azeitonas Verdes sem Caroço (Vale Fértil),16,5 unidades (20g)
+2561,Azeitonas Pretas Premium Azapa (Vale Fértil),45,2 azeitonas (20g)
+2562,Azeitonas Pretas com Caroço (Vale Fértil),42,5 unidades (20g)
+2563,Azeitonas Verdes com Caroço (Vale Fértil),26,5 unidades (20g)
+2564,Azeitonas Recheadas com Pimentão (Vale Fértil),13,4 unidades (20g)
+2565,Azeitonas (Vale Fértil),35,5 unidades (20g)
+2566,Azeitonas Pretas Fatiadas (Vale Fértil),45,1 colher de sopa (20g)
+2567,Azeitonas Pretas sem Caroço (Vale Fértil),42,1 porção (20g)
+2568,Azeitona Recheada Presunto Ibérico (Vale Fértil),34,1 porção (20g)
+2569,Azeitonas Verdes Light (Vale Fértil),35,4 unidades (20g)
+2570,Azeitonas Recheadas Queijo Azul (Vale Fértil),22,5 unidaded (20g)
+2571,Oliv Snack (Vale Fértil),33,1 porção (20g)
+2572,Azeitonas Recheadas (Anchova) (Vale Fértil),31,5 unidades (20g)
+2573,BCAA (X-Pharma),12,2 capsulas (3g)
+2574,Whey Protein Xtreme (X-Pharma),124,1 scoop (30g)
+2575,Malto Xtreme (X-Pharma),148,4 colheres de sopa (40g)
+2576,100% Whey Xtreme (X-Pharma),115,1 dosador (30g)
+2577,BCAA Amino (X-Pharma),21,6 capisulas
+2578,Queijo Minas Frescal (Witmarsum),78,1 fatia (30g)
+2579,Queijo Colonial (Witmarsum),118,porção (30g)
+2580,Queijo tipo Camembert (Witmarsum),103,1 porção (30g)
+2581,Ricota Fresca (Witmarsum),56,1 fatia (30g)
+2582,Queijo tipo Asiago (Witmarsum),120,1 porção  (30g)
+2583,Goiabada Cascão (Zélia),61,1 colher de sopa (20g)
+2584,Paçoca Caseira (Zélia),150,1 porção (35g)
+2585,Goiabada Cascão Light (Zélia),36,1 colher de sopa (20g)
+2586,Cream Cracker Tradicional (Vitarella),140,6 biscoitos (30g)
+2587,Biscoito Maizena Tradicional (Vitarella),130,7 unidades (30g)
+2588,Biscoito Agua e Sal (Vitarella),137,3 biscoitos (30g)
+2589,Biscoito Maria (Vitarella),130,6 biscoitos (30g)
+2590,Macarrão Espaguete (Vitarella),282,1 prato raso (80g)
+2591,Cream Cracker Integral (Vitarella),134,6 biscoitos (30g)
+2592,Bolacha Água (Vitarella),135,6 biscoitos (30g)
+2593,Cream Cracker Água e Sal (Vitarella),143,6 biscoitos (30g)
+2594,Bolacha Cream Cracker (Vitarella),134,3 bolachas (30g)
+2595,Delicitá Cristal (Vitarella),129,6 biscoitos (30g)
+2596,Bolacha Maizena Leite (Vitarella),128,7 biscoitos  (30g)
+2597,Biscoito Cream Cracker Integral (Vitarella),129,6 biscoitos  (30g)
+2598,Biscoito Treloso Chocolate (Vitarella),137,3 biscoitos (30g)
+2599,Macarrão Penne (Vitarella),288,1 prato raso (80g)
+2600,Macarrão Ninho (Vitarella),281,1 prato raso (80g)
+2601,Biscoito Delicitá Cristal (Vitarella),117,1 porção (30g)
+2602,Torrada Integral (Vitarella),116,
+2603,Rosquinha de Leite (Vitarella),130,7 biscoitos (30g)
+2604,Biscoito (Vitarella),135,4 1/2 biscoito (30g)
+2605,Bolacha Água e Sal (Vitarella),141,6 unidades  (30g)
+2606,Yokitos Conchinha Sabor Queijo (Yokitos),107,2 xícaras (25g)
+2607,Batata Frita Ondulada Sabor Cebola e Salsa (Yokitos),140,1 porção (25g)
+2608,Batata Lisa (Yokitos),130,1 1/2 xícaras (25g)
+2609,Conchinhas de Presunto (Yokitos),112,2 xícaras de chá (25g)
+2610,Bolinha Sabor Queijo (Yokitos),112,1 porção (25g)
+2611,Redinha (Yokitos),117,2 xícaras (25g)
+2612,Naquinhos (Yokitos),128,1 porção (25g)
+2613,Pavê de Chocolate (Amor Aos Pedaços),197,1 porção (60g)
+2614,Bolo de Brigadeiro (Amor Aos Pedaços),202,1 pedaço (60g)
+2615,Brigadeiro (Amor Aos Pedaços),103,1 unidade (30g)
+2616,Bolo Brigadeiro (Amor Aos Pedaços),211,1 fatia (60g)
+2617,Bolo Mousse de Chocolate (Amor Aos Pedaços),185,1 fatia (60g)
+2618,Bolo Amor de Morango (Amor Aos Pedaços),200,1 fatia (60g)
+2619,Pavê de Morango com Chantilly (Amor Aos Pedaços),125,1 fatia (60g)
+2620,Merengue de Morango (Amor Aos Pedaços),110,1 porção (60g)
+2621,Bolo Dois Amores (Amor Aos Pedaços),190,1 fatia (60g)
+2622,Bolo de Morango (Amor Aos Pedaços),110,1 fatia (60g)
+2623,Bicho de Pé (Amor Aos Pedaços),95,1 unidade (30g)
+2624,Bolo Mousse Branco (Amor Aos Pedaços),198,1 fatia (60g)
+2625,Pão de Mel (Amor Aos Pedaços),187,1 unidade (45g)
+2626,Bolo Mesclado (Amor Aos Pedaços),143,1 fatia (60g)
+2627,Bolo Cocadinha (Amor Aos Pedaços),188,1 fatia (60g)
+2628,Bolo Tentação (Amor Aos Pedaços),135,1 fatia (60g)
+2629,Torta Cookie 0% Açúcar (Amor Aos Pedaços),203,1 fatia (60g)
+2630,Bolo 70% Cacau com Nozes (Amor Aos Pedaços),206,1 fatia (60g)
+2631,Pão De Mel Zero Açúcar (Amor Aos Pedaços),109,1 unidade (35g)
+2632,Bolo 70% Cacau com Morango (Amor Aos Pedaços),157,1 fatia (60g)
+2633,Doce de Leite Tabletes (Xamego Bom),100,1 porção (24g)
+2634,Doce de Leite (Xamego Bom),53,1 colher de sopa (20g)
+2635,Doce Cremoso com Leite e Chocolate (Xamego Bom),54,1 colher de sopa (20g)
+2636,Brigadeiro (Xamego Bom),59,1 colher de sopa (20g)
+2637,Zaatar Libanês (Zeenny),50,1 colher de sopa (10g)
+2638,Tahine (Zeenny),178,2 colheres de sopa (30g)
+2639,Tahine (Zeenny),98,3 colheres de chá (14g)
+2640,Filet a Parmiggiana (Bonaparte),295,1 porção
+2641,Frango à Kiev (Bonaparte),390,1 porção (160g)
+2642,Batata Noisette (Bonaparte),214,1 porção
+2643,Filet Carnot (Bonaparte),380,1 porção
+2644,Salada Andora (Bonaparte),403,1 porção
+2645,Salada Saint-Bernard (Bonaparte),418,1 porção
+2646,Biscoito de Polvilho Salgado (Zarpellon),103,18 unidades (40g)
+2647,Biscoito de Polvilho (Zarpellon),120,13 unidades (30g)
+2648,Biscoito de Polvilho Temperado (Zarpellon),80,22 unidades (40g)
+2649,Jabuticaba (Yoggi),103,100g
+2650,Chocolate Belga (Yoggi),112,100g
+2651,Açaí (Yoggi),105,100g
+2652,Maracujá (Yoggi),104,100g
+2653,Natural (Yoggi),103,100g
+2654,Frozen Manga Zero (Yoggi),91,100g
+2655,Grego de Morango (Yoggi),101,100g
+2656,Yoggi Pistache (Yoggi),107,100g
+2657,Suco de Laranja (Xandô),86,1 copo (200ml)
+2658,Leite Desnatado (Xandô),31,100ml
+2659,Leite Semi Desnatado (Xandô),102,1 copo (200ml)
+2660,Leite Integral (Xandô),124,1 copo (200ml)
+2661,Creme de Leite Fresco (Xandô),50,1 1/2 colher de sopa (15g)
+2662,Suco de Uva (Xandô),127,1 copo (200ml)
+2663,Leite 0% Lactose (Xandô),99,1 copo (200ml)
+2664,Leite Semidesnatado 0% Lactose (Xandô),99,100ml
+2665,Suco de Abacaxi (Xandô),104,1 copo (200ml)
+2666,Leite Integral (Xandô),62,100ml
+2667,Leite Pasteurizado Tipo A Desnatado (Xandô),63,1 copo (200g)
+2668,Leite Integral A (Xandô),124,1 copo (200ml)
+2669,Queijo Minas Frescal (Xandô),56,1 fatia (30g)
+2670,Leite a Desnatado (Xandô),63,1 copo (200ml)
+2671,Limonada Siciliana (Xandô),108,1 copo (200ml)
+2672,Strogonoff de Filé Mignon (Baked Potato),146,1 concha (85g)
+2673,Batata Assada (Baked Potato),368,1 unidade (470g)
+2674,Frango com Requeijão (Baked Potato),110,1 porção (85g)
+2675,Pão de Batata Recheio Queijo (Baked Potato),257,1 unidade (92g)
+2676,Pão de Batata Recheio Pizza (Baked Potato),157,1 unidade (96g)
+2677,Molho Calabresa (Baked Potato),31,3 conchas (60g)
+2678,Manteiga Temperada (Baked Potato),185,1 concha (20g)
+2679,Ricota com Espinafre (Baked Potato),106,1 concha (70g)
+2680,Molho Ao Sugo (Baked Potato),3,3 conchas (60g)
+2681,Molho Quatro Queijos (Baked Potato),226,3 conchas (60g)
+2682,Camarão (Baked Potato),42,1 concha (90g)
+2683,Nhoque (Baked Potato),616,5 unidades (310g)
+2684,Brócolis com Cottage (Baked Potato),31,1 concha (80g)
+2685,Requeijão Light (Baked Potato),108,1 concha (60g)
+2686,Gorgonzola (Baked Potato),288,1 concha (60g)
+2687,Molho Ceasar (Baked Potato),184,1 concha (32g)
+2688,Bacon (Baked Potato),92,1 concha (20g)
+2689,Provolone (Baked Potato),104,1 concha (40g)
+2690,Azeite (Baked Potato),329,2 colheres de sopa (40ml)
+2691,Manteiga com Salsa (Baked Potato),185,1 concha (25g)
+2692,Quiche Lorraine (Café do Ponto),362,1 unidade
+2693,Purê de Batata Doce (Boali),180,1 porção (150g)
+2694,Crepe de Carne Desfiada (Boali),473,1 unidade
+2695,Wrap Árabe com Falafel (Boali),509,1 wrap (458g)
+2696,Crepe de Frango (Boali),504,1
+2697,Suco de Morango (Boali),124,1 copo (200g)
+2698,Wrap Frango Picante (Boali),502,1 porção
+2699,Salada Hoje Eu Começo (Boali),367,1 porção (500g)
+2700,Wrap de Frango com Tomate (Boali),510,100g
+2701,Cookie sem Glúten (Boali),225,1 unidade (50g)
+2702,Molho Mostarda e Mel (Boali),69,1 porção (25g)
+2703,Burrito de Frango (Boali),721,1 unidade
+2704,Salada Foco na Meta (Boali),507,100g
+2705,Salada Favorita do Chef (Boali),270,1 unidade (500g)
+2706,Salada Ave Caesar (Boali),364,100g
+2707,Wrap de Atum (Boali),615,1 porção  (398g)
+2708,Talharim de Pupunha Ao Pesto (Boali),136,100g
+2709,Molho Caesar Cremoso (Boali),90,1 porção (25g)
+2710,Molho Italiano (Boali),38,1 porção (25g)
+2711,Crepe de Atum Apimentado (Boali),528,1 unidade (200g)
+2712,Molho 1000 Ilhas (Boali),74,1 porção (25g)
+2713,Hot Roll Philadelphia (6 Unidades) (Gendai),265,1 porção
+2714,Poke Salmão Grelhado (Gendai),405,1 bowl
+2715,Sashimi Peixe Branco (Gendai),55,5 fatias
+2716,Big Poke Ceviche Salmão (Shari) (Gendai),550,1 unidade (500g)
+2717,Combinado Executivo (Gendai),658,13 peças
+2718,Poke Ceviche Misto (Salada) (Gendai),152,100g
+2719,Temaki Hot (Gendai),447,1 unidade (300g)
+2720,Missoshiru (Gendai),35,1 porção
+2721,Sashimi Atum (5 Fatias) (Gendai),88,1 porção (100g)
+2722,Sashimi Polvo (Gendai),69,5 fatias
+2723,Rot Roll Especial (6 Unidades) (Gendai),302,1 porção
+2724,Temaki Skin (Gendai),183,1 unidade
+2725,Hot Roll Kani (6 Unidades) (Gendai),236,1 porção
+2726,Sushi Jyo (Gendai),517,1 porção
+2727,Guioza (Gendai),351,6 unidades (150g)
+2728,Temaki Ceviche Salmão (Gendai),238,1 unidade (238g)
+2729,Harumaki de Carne (Gendai),83,1 unidade
+2730,Mini Combinado Misto (Gendai),287,1 porção
+2731,Temaki Califórnia (Gendai),111,1 unidade
+2732,Shimeji (Gendai),207,1 porção
+2733,Kalzone de Frango (Mini Kalzone),557,1 unidade (220g)
+2734,Kalzone de Chocolate (Mini Kalzone),480,1 unidade (140g)
+2735,Kalzone de Calabresa (Mini Kalzone),573,1 unidade (200g)
+2736,Kalzone de Brócolis (Mini Kalzone),380,1 unidade (180g)
+2737,Frango com Catupiry (Mini Kalzone),559,1 unidade (220g)
+2738,Frango e Palmito Integral (Mini Kalzone),368,1 unidade (200g)
+2739,Kalzone de Maxi Beef (Mini Kalzone),606,1 kalzone (220g)
+2740,Kalzone Camarão com Catupiry (Mini Kalzone),528,1 porção (220g)
+2741,Calabresa Catupiry (Mini Kalzone),562,1 kalzone (200g)
+2742,Mega Ligado (Mini Kalzone),817,1 unidade (500ml)
+2743,Kalzone de Palmito (Mini Kalzone),364,1 unidade (200g)
+2744,Kalzone Português (Mini Kalzone),455,1 unidade (220g)
+2745,Kalzone de Margherita (Mini Kalzone),527,1 unidade (220g)
+2746,Kalzone de Carne Seca (Mini Kalzone),532,1 unidade
+2747,Kalzone de Vegetariano (Mini Kalzone),372,1 unidade (180g)
+2748,4 Queijos (Mini Kalzone),599,1 unidade (200g)
+2749,Filet com Cheddar (Mini Kalzone),646,1 unidade (220g)
+2750,Smoothie Sem Noção (Mini Kalzone),846,1 porção (400ml)
+2751,Smoothie Tá Ligado (Mini Kalzone),418,1 porção (400ml)
+2752,Maxi Beef (Mini Kalzone),556,1 unidade (200g)
+2753,Temaki Salmão Cream (Makis Place),205,1 porção (131g)
+2754,Uramaki Salmão (Makis Place),271,1 porção (182g)
+2755,Temaki de Salmão (Makis Place),230,1 unidade
+2756,Sunomono (Makis Place),256,1 porção (180g)
+2757,Temaki Camarão Tailandês (Makis Place),182,1 porção (116g)
+2758,Temaki Salmão Simples (Makis Place),205,1 unidade (131g)
+2759,Temaki Shimeji Cream (Makis Place),177,1 porção (131g)
+2760,Temaki Shimeji (Makis Place),88,1 temaki (131g)
+2761,Temaki Especial (Makis Place),221,1 porção (131g)
+2762,Temaki Skin Cream Flokis (Makis Place),154,1 porção (96g)
+2763,Temaki Camarão Flokis (Makis Place),164,1 porção (91g)
+2764,Temaki Salmão Shimeji Cream (Makis Place),163,1 porção (131g)
+2765,Temaki Peixe Branco Empanado (Makis Place),255,1 porção
+2766,Temaki Salmão Crispy (Makis Place),215,1 porção (131g)
+2767,Temaki Salmon Shrimp (Makis Place),192,1 temaki (131g)
+2768,Temaki Atum Completo (Makis Place),172,1 porção (121g)
+2769,Temaki Salmão Dice (Makis Place),329,1 porção (131g)
+2770,Temaki Salmão Kani (Makis Place),183,1 porção (128g)
+2771,Temaki Peixe Branco (Makis Place),196,1 porção (121g)
+2772,Salada Francesa (Makis Place),130,1 porção (150g)
+2773,Mega Açaí (Mega Matte),623,1 porção (400ml)
+2774,Açaí (Mega Matte),451,1 copo (300ml)
+2775,Açaí com Morango (Mega Matte),386,2 xícaras (200ml)
+2776,Broinha de Milho (Mega Matte),60,1 unidade (25g)
+2777,Croissant Integral Frango com Requeijão (Mega Matte),373,1 croissant (120g)
+2778,Folhado de Peito de Peru com Queijo (Mega Matte),119,1 unidade (40g)
+2779,Croissant Quatro Queijos (Mega Matte),359,1 unidade (120g)
+2780,Croissant Integral Peru com Requeijão (Mega Matte),132,1 salgado (40g)
+2781,Croissant Integral Minas com Cebolinha (Mega Matte),162,7/8 unidade (40g)
+2782,Pastel Integral de Queijo Minas (Mega Matte),363,1 unidade (100g)
+2783,Guaraná Natural (Mega Matte),88,1 copo (300ml)
+2784,Coxinha Assada (Mega Matte),412,1 coxinha (110g)
+2785,Pastel Integral de Palmito e Champignon (Mega Matte),259,100g
+2786,Cappuccino (Mega Matte),99,1 copo (200ml)
+2787,Mini Croissant Integral Chocolate (Mega Matte),152,1 porção  (30g)
+2788,Chá Mate Orgânico (Mega Matte),74,1 scoop (200ml)
+2789,"Pastel Integral Frango, Cenoura e Passas (Mega Matte)",258,100g
+2790,Mate Diet (Mega Matte),6,1 porção (300ml)
+2791,Cheeseburguer de Frango (Mega Matte),441,1 unidade (150g)
+2792,Pão de Queijo de Soja (150g) (Mega Matte),107,150g
+2793,Niguiri de Salmão (Sushiaki),56,1 unidade (30g)
+2794,Hot Filadélfia (Sushiaki),187,1 unidade (112g)
+2795,Uramaki Filadélfia (Sushiaki),654,1 unidade (165g)
+2796,Hot Roll (Sushiaki),320,1 porção (208g)
+2797,Hossomaki de Kani (Sushiaki),132,8 unidades (110g)
+2798,Niguiri de Camarão (Sushiaki),65,1 unidade (30g)
+2799,Hossomaki de Pepino (Sushiaki),123,1 porção (110g)
+2800,Niguiri de Atum (Sushiaki),60,1 unidade (38g)
+2801,Obento Yakisoba (Sushiaki),713,1 porção
+2802,Chocotone (Bahamas),114,1 fatia (50g)
+2803,Sanduiche Natural Frango e Milho Verde (Bahamas),193,1 sanduíche (150g)
+2804,Sanduíche (Bahamas),384,1 sanduíche (120g)
+2805,Cake Cenoura Com Chocolate (Bahamas),101,1 porção (50g)
+2806,Pão de Queijo (Bahamas),105,2 unidades (50g)
+2807,"Legumes Grelhados (Abobrinha, Brócolis e Cenoura) (Seletti)",192,1 porção
+2808,Limonada Suíça com Adoçante (Seletti),51,1 copo (400ml)
+2809,"Suco Colorido (Beterraba, Cenoura e Laranja) (Seletti)",117,1 porção (300ml)
+2810,Salada de Vegetais (Seletti),70,1 porção
+2811,Molho Vinagrete (Seletti),16,1 porção (30g)
+2812,Sopa de Mandioquinha (Seletti),91,1 porção (300ml)
+2813,Salada Ceasar Seletti (Seletti),214,1 porção (100g)
+2814,Suco Laranja e Cenoura (Seletti),145,1 porção (400ml)
+2815,Purê de Mandioquinha (Seletti),169,1 porção
+2816,Suco Maracujá (com Adoçante) (Seletti),114,1 porção (400ml)
+2817,Crepe Integral de Espinafre com Queijo (Seletti),255,1 porção
+2818,Batata Rústica (Seletti),164,1 porção
+2819,Suco Abacaxi com Hortelã (com Adoçante) (Seletti),80,1 porção (400ml)
+2820,Molho Iogurte com Hortelã (Seletti),55,1 porção (45ml)
+2821,Suco Verde Mel (Seletti),202,1 porção (400ml)
+2822,Molho Chimichurri (Seletti),66,1 porção (25ml)
+2823,Salada de Quinua (Seletti),296,1 porção
+2824,Wrap Vegetariano (Grande) (Seletti),243,1 porção (100g)
+2825,Salada de Kani (Seletti),74,1 porção
+2826,Purê de Batata com Cream Cheese (Seletti),164,1 porção
+2827,Pêssego em Calda (Bompreço),101,3 metades (140g)
+2828,Chocolate em Pó 50% Cacau (Bompreço),64,2 colheres de sopa  (20g)
+2829,Geléia de Morango (Bompreço),56,1 colher de sopa (20g)
+2830,Suco de Uva Tinto Integral (Bompreço),121,1 copo (200ml)
+2831,Polpa de Acerola (Bompreço),31,100g
+2832,Creme de Avelã (Bompreço),106,1 colher de sopa (20g)
+2833,Geléia de Framboesa (Bompreço),64,1 colher de sopa (20g)
+2834,Requeijão Cremoso Tradicional (Bompreço),80,1 colher de sopa (30g)
+2835,Geléia de Goiaba (Bompreço),64,1 colher de sopa (20g)
+2836,Pão de Queijo (Coop),83,1 unidade (30g)
+2837,Bolo de Doce de Leite (Coop),282,100g
+2838,Murcote (Coop),57,100g
+2839,Rosquinha de Pinga (Coop),135,2 unidades (50g)
+2840,Bolo de Abacaxi com Coco (Coop),285,100g
+2841,Rosquinha de Canela (Coop),204,2 unidades (55g)
+2842,Pão de Leite (Coop),121,1 unidade (50g)
+2843,Snack de Milho Torrado Salgado (Coop),232,1/2 xicara (50g)
+2844,Pão de Ovos (Coop),162,1 pão (50g)
+2845,Pão de Hambúrguer (Coop),151,1 unidade (60g)
+2846,Pão do Padre (Coop),109,1 fatia (40g)
+2847,Pão de Cebolinha Assado (Coop),119,1 porção (40g)
+2848,Iogurte Desnatado (Coop),58,1 porção (160g)
+2849,Panetone de Chocolate (Coop),348,100g
+2850,Requeijão Cremoso Light (Coop),49,1 colhere de sopa (30g)
+2851,Panetone de Frutas (Coop),313,100g
+2852,Mussarela (Coop),108,1 porção (30g)
+2853,Pão Brasília (Coop),115,1 fatia (40g)
+2854,Mussarela (Coop),100,100g
+2855,Castanha de Caju (Mundial),60,1 porção (15g)
+2856,Morango Cru (TACO) (Mundial),30,100g
+2857,Panetone de Chocolate (Mundial),270,1 fatia (80g)
+2858,Pão Francês (Mundial),164,1 porção (50g)
+2859,Arroz Integral (Mundial),190,1/4 xícara (50g)
+2860,Bananitos (Mundial),129,1 porção (25g)
+2861,Pão Francês (Savegnago),106,1 unidade  (50g)
+2862,Amendoim Despeliculado sem Sal (Savegnago),88,1/4 xícara de chá (25g)
