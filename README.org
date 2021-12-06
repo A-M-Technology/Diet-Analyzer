@@ -1,0 +1,19 @@
+#+TITLE: Diet-Analyzer
+** What is Diet-Analyzer?
++ Diet-Analyzer is a light wheight gui program created by [[https://github.com/Dedsd/][Deds]] and [[https://github.com/Mateus-Cavalcanti][Mateus Cavalcanti]] that allows you to create and analyze a diet using a [[https://www.kaggle.com/mateusdcc/brazillian-food-calories][huge food database with data modelation]].
+** How to Use it?
++ Diet-Analyzer program is a very easy program to use, you just need to have python installed and install the requirements by typing this in the terminal:
+  #+begin_src SH
+  pip install pandas pysimplegui
+  #+end_src
++ After that you can clone the repository and run the main file using python
+  #+begin_src SHELL
+  git clone https://github.com/A-M-Technology/Diet-Analyzer
+  cd Diet-Analyzer
+  python3 main.py
+  #+end_src
+** Available Natural Languages
+ - Portuguese
+*** We are looking to add the following language(s): [1/2]
++ [ ] English
++ [X] Portuguese
