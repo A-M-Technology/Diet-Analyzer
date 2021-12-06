@@ -12,7 +12,33 @@
   cd Diet-Analyzer
   python3 main.py
   #+end_src
-** Available Natural Languages
- - Portuguese
+* Explaining the program.
+** Understanding the Basic of our body's Weight
+ + What is a calorie? Calorie is a unit of measurement for energy. Food has calories, meaning that food provides energy to the body.
+ + Basal Metabolism is the amount of calories our body expends to function on a daily basis (remembering that our body expends calories for heartbeat, breathing, liver and kidney function, intestinal activity, among other things).
+
+*** The most accurate formula for calculating the basal metabolism found by us is as follows:
+
+ + For men: 66 + (13.8 x weight in kg.) + (5 x height in cm) - (6.8 x age in years)
+ + For women: 655 + (9.6 x weight in kg.) + (1.8 x height in cm) - (4.7 x age in years)
+
+*** However, these formulas are not precise and cannot be considered invariable, but there are some factors that cannot be changed in the calculation of basal metabolism, they are:
+
+     + Gender and genetic inheritance (A tall man, for example, will need more calories than a short woman).
+
+     + Losses due to age (A man in his 20s, for example, loses between 2% and 4% of his lean body mass, causing his calorie needs to decrease as well. As we get older, the body suffers this drop in calorie burning).
+
+*** There are also factors that can be altered, which make the formulas not precise:
+
+     + Food and hydration (Some foods have, among their properties, the power to accelerate the basal metabolism of those who ingest them, such as fish, ginger, coffee and pepper. The ingestion of proteins also requires more work from the body for digestion, leading to an acceleration of the body).
+
+     + Physical activity (Physical exercise requires higher rates of energy, which leads the body to high caloric drop in the quest to be able to produce the energy).
+
+** Understanding the program code.
+**** The program works by removing the calories from the person's daily basal metabolism from the number of calories consumed per day by the person (The basal metabolism was calculated from the equations present in the text above), with this we made a sum of the result of the subtraction between the person's basal metabolism and the number of calories and the person's weight in kilograms. The program repeated the same process every day, calculating the person's metabolism every day with the new weight resulting from the previous day. To convert the person's total calories into kilograms we divided his weight by 7,700
+
+
+* Available Natural Languages For the Program
++ Portuguese
 
 /We are looking to add more Natural Languages to the program/
